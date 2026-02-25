@@ -60,7 +60,7 @@ Three days. With fifty colonists. With kids.
 
 The next morning, they started walking.
 
-The planet was beautiful, though—Julian had to admit that. Strange purple plants grew in patches. The sky was a deeper blue than Earth's. And in the distance, something glinted—a tall spire of crystal rising from the ground, catching the sunlight.
+Julian had to admit the planet was beautiful. The planet reminded him of pictures he had seen of old Earth—lush green forests covered the rolling hills, and in the distance, towering mountains rose up like giants, their peaks still dusted with white. And everywhere, tall evergreen trees stretched toward the sky—forests like the Pacific Northwest, like Seattle's. And in the distance, something glinted—a tall spire of crystal rising from the ground, catching the sunlight.
 
 "What is that?" Ezra asked, pointing.
 

@@ -44,7 +44,8 @@ After completing a chapter:
    - New plot developments
    - Faction actions
 5. **Update PLOT.md** with completed threads
-6. **Send** to Erik on Discord for review
+6. **Push to GitHub** - `git add -A && git commit -m "Add Chapter X" && git push`
+7. **Send** to Erik on Discord for review
 
 ## Pronoun Checklist (ALWAYS VERIFY)
 
