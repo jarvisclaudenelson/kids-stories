@@ -2,6 +2,15 @@
 
 Use these descriptions when generating Pixar-style illustrations. Always include the character descriptions in prompts to ensure consistency.
 
+## ⚠️ IMPORTANT: Real Reference Photos Available!
+
+We have **real photos** of the boys! Use these as reference for likeness:
+- **Reference photo:** `world/assets/nelson-boys-photo.jpg`
+- The boys' actual appearance in the photo should guide your prompts
+
+When generating images, you can reference the photo like:
+> "Based on the real photo of the Nelson boys - Julian (left, grey hoodie), Ezra (right, red sweatshirt), Declan (front, Mickey Mouse shirt)"
+
 ---
 
 ## Character Descriptions
