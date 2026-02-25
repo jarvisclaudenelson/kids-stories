@@ -36,7 +36,7 @@ A sci-fi universe following a crew of kids (and their dog) aboard the colony shi
 - **Flaw when misusing power:** Can't control volume, accidentally causes chaos
 
 ### Ollie (Dog)
-- **Breed:** Medium-sized mutt, scruffy and loyal
+- **Breed:** Schnoodle (schnauzer + poodle mix), medium-sized, scruffy and loyal
 - **Personality:** Brave, protective, intuitive
 - **Power:** Can sense the ancient power / detect danger before humans can
 - **Role:** Moral compass, rescue missions, comic relief
