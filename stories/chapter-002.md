@@ -76,7 +76,7 @@ Declan, standing next to Dad and holding his hand, reached out and grabbed Julia
 
 "Hi, Decker." Julian ruffled his brother's hair. "You scared us, you know."
 
-"Decker not scared," Declan said, shaking his head firmly. "Decker is brave. Like superheroes."
+"I'm not scared," Declan said, shaking his head firmly. "I'm brave. Like superheroes."
 
 "No one liked the rocks," Ezra agreed.
 
