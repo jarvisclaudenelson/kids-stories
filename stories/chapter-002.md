@@ -72,11 +72,11 @@ Mom swept them into a hug so tight Julian thought he'd burst. Dad stood behind h
 
 "We're okay," Julian said, hugging her back. "We're okay. Ollie kept us safe."
 
-Declan, strapped to Dad's chest in a baby carrier, reached out and grabbed Julian's ear. "Juju," he said happily, like nothing had happened. Like they hadn't almost died.
+Declan, standing next to Dad and holding his hand, reached out and grabbed Julian's ear. "Juju!" he said happily, like nothing had happened. Like they hadn't almost died.
 
 "Hi, Decker." Julian ruffled his brother's hair. "You scared us, you know."
 
-"Decker mad," Declan said, shaking his head. "No like rocks."
+"Decker not scared," Declan said, shaking his head firmly. "Decker is brave. Like superheroes."
 
 "No one liked the rocks," Ezra agreed.
 

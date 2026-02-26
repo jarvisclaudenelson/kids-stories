@@ -6,7 +6,7 @@ Not the gentle chime that meant breakfast was ready, or the steady beep that rem
 
 Julian grabbed his seat straps as the USS Mayflower shuddered like a wounded animal. Red lights flashed everywhere, bathing everything in an eerie glow that made everyone look like ghosts. His little brother Declan was crying—the high-pitched wail that meant he was really scared, not just fussy.
 
-"Buckle up!" Mom shouted from across the cargo bay. She was strapping Declan into his seat, her hands shaking so badly she could barely click the buckle. "Hold onto something! Hold onto anything!"
+"Buckle up!" Mom shouted from across the cargo bay. She was grabbing Declan's hand, pulling him toward his seat. "Hold onto something! Hold onto anything!"
 
 "What's happening?!" Julian yelled. The ship lurched again, throwing him sideways against the wall. Pain shot through his shoulder, but he didn't have time to care.
 
@@ -28,7 +28,7 @@ His ears rang. Everything hurt. For a moment, he didn't know where he was—or i
 
 Mom's voice. He opened his eyes.
 
-Smoke drifted everywhere, making everything hazy. Emergency lights glowed red, casting strange shadows. And there, climbing over a pile of broken crates, was his mom—carrying a still-crying Declan in one arm and reaching for him with the other.
+Smoke drifted everywhere, making everything hazy. Emergency lights glowed red, casting strange shadows. And there, climbing over a pile of broken crates, was his mom—grabbing Declan's hand and reaching for him with the other.
 
 "I'm okay," Julian said. His voice sounded weird, like he was talking through a pillow. "I'm okay, Mom."
 
@@ -108,7 +108,7 @@ The first rock hit twenty feet away, sending up a cloud of dirt and debris. Then
 
 "Run!" Dad shouted. "Everyone run! Get away from the slope!"
 
-They ran. Julian grabbed Ezra's hand and pulled him along, his legs burning as he pushed harder than he'd ever pushed before. Mom had Declan in her arms, running even though she was already exhausted. Ollie barked and raced ahead, pulling at his leash until Julian let go.
+They ran. Julian grabbed Ezra's hand and pulled him along, his legs burning as he pushed harder than he'd ever pushed before. Mom had Declan's hand, running and pulling him along even though she was already exhausted. Ollie barked and raced ahead, pulling at his leash until Julian let go.
 
 "Jump!" Dad yelled, pointing to a gap in the rockslide. "Jump and don't stop!"
 
@@ -136,7 +136,7 @@ Julian and Ezra stood alone on the hillside, Ollie pressed against their legs. T
 
 For a long moment, neither boy spoke. The weight of everything—the crash, the walking, the rockslide, the separation—it was all too much.
 
-Then Declan's face flashed in Julian's mind. His little brother, only two years old, scared and alone somewhere in the forest. And their parents, somewhere on the other side of that massive pile of rocks.
+Then Declan's face flashed in Julian's mind. His little brother, only two and a half years old, scared and running somewhere in the forest with Mom and Dad. And their parents, somewhere on the other side of that massive pile of rocks.
 
 "Don't worry," Julian said, trying to be brave. His voice cracked, but he kept going. "We'll find them. We'll find mom and dad and Decker."
 
