@@ -41,6 +41,14 @@ A sci-fi universe following a crew of kids (and their dog) aboard the colony shi
 - **Power:** Can sense the ancient power / detect danger before humans can
 - **Role:** Moral compass, rescue missions, comic relief
 
+### Physical Appearance
+All three boys are Caucasian.
+
+- **Julian (7):** Sandy blonde hair, hazel/blue eyes, NO freckles
+- **Ezra (5):** Dark brown hair, brown eyes, freckles
+- **Declan (2):** Light brown hair, brown eyes, NO freckles
+- **Ollie:** Grey/silver curly coat (Schnoodle)
+
 ---
 
 ## The World
@@ -169,3 +177,19 @@ After each story chapter, review and update:
 ---
 
 *Last updated: 2026-02-25*
+
+---
+
+## Chapter 2 Updates (2026-02-26)
+
+### New Location: Monscollis Colony
+- Colony introduced: ~2,000 people, 3 years old
+- Buildings: Wood and metal, like a fancy summer camp
+- Main hall: Serves as hospital, meeting place, and cafeteria
+- Captain Okonkwo: Colony scout captain (no relation to Okonkwo family)
+
+### Plot Developments
+- Mayflower survivors integrated into colony
+- Crystal spire pulses with heartbeat rhythm
+- Beam of energy shoots into sky at end of chapter
+- Story sets up Vault discovery for Chapter 3
