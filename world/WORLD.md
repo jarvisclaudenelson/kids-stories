@@ -180,7 +180,20 @@ After each story chapter, review and update:
 
 ---
 
-## Chapter 2 Updates (2026-02-26)
+### Chapter 3 Updates (2026-02-27)
+- Ezra unlocks the Vault using his empathy/connection ability
+- First Covenant fragment absorbed into Ezra's heart
+- Maya and Tyler (new allies) introduced - colonists who showed them the Deep Dig
+- Dr. Fletcher revealed as suspicious - seems to be connected to Shadow Hand
+- Shadow Hand now aware of the kids and the power
+- Deep Dig location: underground chamber with ancient door shaped like a hand/heart
+- Covenant "speaks" through feeling/heart connection, not words
+- Ezra's power confirmed: healing touch + matter creation
+
+### Current Status
+- Ezra: Has Covenant fragment inside him (the "seed")
+- The fragment chose him because of his empathetic nature
+- Shadow Hand knows about the kids now
 
 ### New Location: Monscollis Colony
 - Colony introduced: ~2,000 people, 3 years old
