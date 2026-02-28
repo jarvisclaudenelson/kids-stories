@@ -1,147 +1,165 @@
-# Chapter 4: The Shadow Hand
+# Chapter 4: Shadows Gathering
 
-Ezra's chest felt warm.
+Ezra couldn't stop touching his own chest.
 
-Not the bad kind of warm—not like when he ate too much candy and got a stomach ache. This was different. It felt like sunshine lived inside him now, a tiny star that pulsed with every breath he took.
+He pressed his palm flat against his sternum, right where the warmth lived. It was still there—that tiny, pulsing light—like someone had hidden a firefly inside him while he slept. Every heartbeat fed it. Every breath made it stronger.
 
-"Ezra, are you okay?" Julian grabbed his shoulders, his eyes wide. "Say something!"
+"Will you stop doing that?" Julian whispered, yanking Ezra's hand away. "You look like you're checking if you're alive."
 
-"I'm okay," Ezra said, and he meant it. He felt better than okay. He felt... alive. Like he'd been half-asleep his whole life and now he was finally awake. "Julian, something happened. Something really good."
+"I kind of am," Ezra said.
 
-"Something good?" Maya stared at the open Vault door, her voice climbing higher. "The door opened! The ancient door that nobody could open! And you just—you just touched it and—"
+They were back at the main hall for breakfast, sitting at a long table with the other Mayflower survivors. Declan was smashing blueberries with his spoon in a cheerful, focused way that meant he was about to make a serious mess. Ollie sat under the table, watching everyone's feet like a very hairy security guard.
 
-"How did you do that?" Tyler whispered. He looked like he might faint.
+"Ezwa has a star," Declan announced to no one in particular.
 
-Ezra didn't know how to explain it. "It wanted me to," he said finally. "It was waiting for someone who... who felt things. Really felt things."
+"Decker, *shh*," Julian hissed.
 
-"That's you," Julian said quietly. He understood. Julian always understood, even when Ezra couldn't find the right words. "You feel everything."
+"Ezwa has a star in his *tummy*," Declan continued, louder.
 
-Ollie pressed against Ezra's leg, whining softly. The dog's tail wagged slowly, like he was checking to make sure everything was okay. Ezra scratched behind Ollie's ears and felt a surge of... something. Love? Loyalty? Whatever it was, he could *feel* Ollie's feelings, like they were his own.
+Julian grabbed a piece of bread and handed it to Declan. "Here. Eat this."
 
-"We should get out of here," Julian said, looking around nervously. "Before the grown-ups come back."
+"Staw," Declan said, but he took the bread.
 
-"Too late for that," a voice echoed from above.
+Ezra wasn't really listening. He was watching Dr. Fletcher across the hall.
 
-They all looked up. Dr. Fletcher stood at the edge of the Deep Dig, peering down at them with his sharp eyes. Behind him were three other scientists, all wearing gray uniforms and all looking very interested in what had just happened.
+The scientist sat at a table with his gray-uniformed team, eating quietly and pretending to look at a tablet. But every few seconds, his eyes would flick up—toward Ezra, then away, then back again. Like a fish circling the same rock over and over.
 
-"Well, well," Dr. Fletcher said, his thin lips curving into a smile that didn't reach his eyes. "It seems our young visitor has a gift. Tell me, child—what did you see in there?"
+Ezra could feel him.
 
-Ezra's stomach twisted. Something was wrong. Dr. Fletcher's words were friendly, but his feelings weren't. Ezra could sense them now—greed, excitement, hunger. Like when Declan saw a cookie jar he wasn't supposed to touch.
+That was the new thing—the strange, scary, incredible new thing. He could feel everyone in the room, just a little, the way you can feel heat from a fire without touching it. Mom: tired but safe, a warm steady glow. Dad: worried, sharp-edged, like static. Maya, sitting two tables over with her family: excited, bouncy, practically vibrating.
 
-"Nothing," Ezra lied. "Just an empty room."
+Dr. Fletcher felt like a cold draft from under a door.
 
-Dr. Fletcher's smile grew colder. "An empty room? How disappointing. And yet... I could have sworn I saw a light. A very special light."
+"He's watching us," Ezra said quietly.
 
-"We didn't see anything," Julian said quickly, stepping in front of Ezra. "We were just exploring. We're sorry. We'll leave now."
+Julian didn't even look. "I know."
 
-"Oh, I don't think so." Dr. Fletcher started climbing down the ladder into the dig. "You see, boys, this isn't just a door. This is the most important discovery in human history. And if you've activated something—anything—we need to study it. For science."
+"We should tell Mom and Dad."
 
-"We should go," Maya whispered, tugging on Julian's sleeve. "My parents told me Dr. Fletcher is... weird. They don't like him."
+"I know that too." Julian finally turned to look at Dr. Fletcher, and didn't look away. He stared right at the scientist with his most serious face—the one he used when he was losing a board game and refused to admit it. "Not yet, though. I don't want him to know we're scared."
 
-"Too late," Tyler squeaked.
+"Juju," Ezra said. "I *am* scared."
 
-Dr. Fletcher reached the bottom of the dig, his boots crunching on the stone. The other scientists followed, forming a half-circle around the kids. Ollie growled, his hackles rising.
+"I know. Me too. Don't let him see it."
 
-"Now then," Dr. Fletcher said, his voice soft and dangerous. "Let's try this again. What did you find in the Vault?"
+---
 
-Ezra's chest grew warmer. The little star inside him pulsed faster, like it was worried too. He could feel it protecting him, wrapping around his heart like a shield.
+Maya found them after breakfast, tugging Ezra's sleeve and pulling them toward the trees.
 
-"We found hope," Ezra said, surprising himself. The words came from somewhere deep inside—not from him exactly, but from the star. "We found something you lost a long time ago."
+"My dad recognized Dr. Fletcher last night," she said, once they were out of earshot, Tyler trotting to keep up. "He knew him from before. From Earth." She lowered her voice. "He said Fletcher got fired from the Global Science Institute five years ago. For stealing research that wasn't his."
 
-Dr. Fletcher's face went pale. "What did you say?"
+Julian stopped walking. "He's a thief?"
 
-"You lost it," Ezra continued, the words flowing like water. "You stopped believing in love. You stopped believing in help and kindness and giving to others. So the door wouldn't open for you. It could only open for someone who still believed."
+"A *fired* thief," Tyler added helpfully.
 
-For a moment, nobody spoke. The only sound was Ollie's low growl and the soft hum of the Vault's crystal walls.
+"But the colony let him in," Ezra said, frowning. "How?"
 
-Then Dr. Fletcher lunged forward, reaching for Ezra.
+Maya shrugged. "Dad says Fletcher's really good at seeming important. He wears the right clothes, uses the right words, has all the right pieces of paper." She looked at Ezra with wide, serious eyes. "He came to Monscollis because of the Vault. He knew about it before the rest of us did. He's been here two years. Waiting."
 
-"NO!" Julian shouted, pushing Ezra behind him. "Don't touch him!"
+Ezra's star pulsed hard, once, like a warning.
 
-But before Dr. Fletcher could grab either of them, something incredible happened.
+"He's been here the whole time?" Julian said.
 
-Ezra's hand shot out—not because he decided to, but because the star inside him made him do it. The moment his fingers touched Dr. Fletcher's wrist, light exploded from his palm.
+"The whole time," Maya confirmed. "And Dad says there are others. A whole group of people who knew. They call themselves—" She hesitated, glancing at her brother.
 
-Warm, golden light.
+"The Shadow Hand," Tyler said, and his voice wobbled a little.
 
-Dr. Fletcher screamed and fell backward, clutching his arm. But when he looked down, his eyes went wide. The angry red scar he'd had for years—the one from a lab accident that never quite healed—was gone. Smooth skin, like it had never been hurt.
+Silence.
 
-"You... you healed me," Dr. Fletcher whispered, staring at his arm in shock.
+Declan, who had been busy trying to get Ollie to carry a stick, looked up cheerfully. "Shadow haaand," he sang, like it was part of a song.
 
-Ezra stared at his own hand, trembling. "I didn't mean to. I just—"
+"Decker," Julian said, "that's not a good thing."
 
-"RUN!" Maya shouted. "NOW!"
+"Oh." Declan went back to the stick.
+
+---
+
+They heard the shout before they saw him.
+
+"Boy! *Stop!*"
+
+Dr. Fletcher was coming through the trees, moving faster than Ezra expected. Two of his gray-uniformed colleagues were with him, flanking wide. Ollie spun around and barked—the sharp, urgent kind, not the playful kind.
+
+"Run," Julian said immediately.
 
 They ran.
 
-Up the ladder, out of the Deep Dig, into the forest beyond. Julian pulled Ezra along, his hand tight around his brother's wrist. Maya and Tyler sprinted ahead, Ollie barking at their heels. Behind them, Dr. Fletcher's shouts echoed through the trees.
+Ezra's legs pumped hard, the star inside him blazing warm with every step. He could hear Julian ahead, crashing through underbrush, and Maya shouting directions—*left! left here!*—and the heavy boots of the scientists somewhere behind.
 
-"Get them! Don't let them escape! The boy has the fragment!"
+Then Declan's foot caught a root.
 
----
+He went down with a grunt, small arms pinwheeling. By the time Ezra turned around, Dr. Fletcher was there, looming over Declan with his tablet in one hand and a practiced, too-pleasant smile on his face.
 
-They didn't stop until they reached Maya's hideout—a small clearing deep in the woods, hidden by thick evergreen branches. All four kids collapsed on the moss, gasping for breath.
+"Easy now," Fletcher said, crouching down. "Nobody's in trouble. I just want to talk."
 
-"What just happened?" Tyler wheezed. "What was that light?"
+Declan looked up at him with big brown eyes. Then he said, very clearly: "You're *cold*."
 
-"That was the Covenant," Maya said, her eyes huge. "My dad told me stories about it. He said the ancient people used to have power like that—power to heal, power to create, power to do impossible things. But it was lost when they vanished."
+Fletcher blinked. "What?"
 
-"The star in the Vault," Ezra said quietly. "It went inside me. And now I can... I can feel things. And I can make light. And I healed Dr. Fletcher, even though I didn't want to."
+"You feel cold. Ezwa said." Declan pointed at his older brother, who had skidded to a stop behind Fletcher. "Ezwa said you feel like a cold door."
 
-Julian's face was pale. "Ezra, this is serious. If Dr. Fletcher knows you have that power, he's going to come after you. He's going to want to take it."
+Fletcher stood and turned, and there was Ezra—and behind Ezra, Julian, fists clenched, eyes blazing.
 
-"He can't take it," Ezra said, touching his chest where the warmth lived. "It's part of me now. The voice said I needed it. Because shadows are coming."
+"The fragment," Fletcher said, his pleasant voice dropping away entirely. "I can measure it. I have equipment. I know it's inside you, boy. I just want to *study* it. To help people—"
 
-"Shadows?" Maya looked around nervously. "What kind of shadows?"
+"You want to *take* it," Ezra said.
 
-Before anyone could answer, Ollie started barking—the urgent kind that meant danger was close. Through the trees, they could hear voices. Adult voices. Searching.
+Fletcher's face did something complicated. "I want to use it. For science. For progress. Things too important to leave in the hands of—"
 
-"They're looking for us," Julian said. "We need to get back to the colony. To Mom and Dad. They'll protect us."
+He stepped forward and grabbed Ezra's arm.
 
-"Will they?" Tyler asked. "Dr. Fletcher is important. The grown-ups listen to him."
+The light erupted before Ezra decided to make it.
 
-"My parents will listen to me," Julian said firmly. "Come on. Stay close and stay quiet."
+It poured out of his hand, golden-warm, flooding up Fletcher's arm to his shoulder. Fletcher yelped and stumbled backward. But when he looked at his hand—the hand he'd reached out—his mouth fell open.
 
-They crept through the forest, moving from tree to tree, trying to stay hidden. Ezra's chest pulsed with each step, the star inside him humming softly. He could feel the others—Julian's fear mixed with determination, Maya's excitement, Tyler's terror, Ollie's protective instincts.
+The deep, ugly scar across his knuckles, the one he'd had since before Ezra was born, was gone.
 
-And somewhere behind them, growing stronger, he could feel something else.
+Smooth, new skin. Like it had never existed.
 
-Darkness. Cold. Hungry.
+"You," Fletcher breathed. "*You healed me.*"
 
-The Shadow Hand was watching.
+"*Now* we run," Maya said, and grabbed Declan off the ground without stopping.
 
-And they wanted what Ezra had more than anything in the universe.
-
----
-
-That night, safe in their cabin with Mom and Dad standing guard, Julian lay awake thinking.
-
-Dr. Fletcher had shown his true colors. The Shadow Hand was real. And his little brother—his five-year-old brother who loved drawing and got emotional about everything—now carried an ancient power inside him.
-
-"Julian?" Ezra's voice came from the other cot. "Are you awake?"
-
-"Yeah."
-
-"I'm scared."
-
-Julian wanted to say something brave, something that would make Ezra feel better. But he was scared too. So instead, he climbed out of bed and sat next to his brother, taking his hand.
-
-"Me too," Julian admitted. "But we'll figure it out. Together."
-
-"Promise?"
-
-"Promise."
-
-Outside, somewhere in the darkness, the crystal spire pulsed once. Then twice.
-
-The Covenant had chosen its first guardian.
-
-Now it was waiting to see what would happen next.
+This time, even Ollie didn't look back.
 
 ---
 
-**THE END (For Now)**
+They didn't stop until they reached the cabin. Julian burst through the door so hard it swung into the wall.
+
+Mom spun around from the kitchen counter. "What—"
+
+"We need to tell you something," Julian said, breathing hard. "Everything. Right now."
+
+Dad looked up from his work. He took one look at their faces—all of them, even Tyler and Maya—and quietly closed his laptop.
+
+"Okay," he said. "Tell us."
+
+So they did.
+
+It took a while. Declan mostly narrated the parts he'd actually seen, which involved a lot of sound effects. But when Ezra pressed his hand to the table and let the light show—just a flicker, soft and warm, tracing the wood grain—Mom's eyes went wide and she didn't say a word for almost thirty seconds.
+
+Then she pulled Ezra into a hug that lasted a long time.
+
+"You're not in trouble," she said against his hair. "You didn't do anything wrong."
+
+"The door opened for him," Julian said, sitting across from Dad. "Fletcher and his team tried for months. But Ezra just *touched* it."
+
+Dad was quiet, thinking. He had the same look he got before a hard decision—not scared, just careful. "This Dr. Fletcher," he said. "Would he come here?"
+
+"He'll be back," Maya said. She said it like a fact, not a guess. "My dad says the Shadow Hand doesn't stop."
+
+Nobody argued.
+
+Outside, the crystal spire pulsed in the fading evening light—one slow beat, then another. Like it was breathing. Like it was watching.
+
+Like it was waiting to see what the children would do next.
+
+Ezra pressed his hand to his chest and felt the star answer, warm and steady.
+
+*We are still here,* it seemed to say. *So are you.*
+
+That was enough. For now.
 
 ---
 
-*Next: Chapter 5 - The Hunt Begins*
+*Next: Chapter 5 — The Hunt Begins*
