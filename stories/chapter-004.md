@@ -2,7 +2,7 @@
 
 Ezra couldn't stop touching his own chest.
 
-He pressed his palm flat against his sternum, right where the warmth lived. It was still there—that tiny, pulsing light—like someone had hidden a firefly inside him while he slept. Every heartbeat fed it. Every breath made it stronger.
+He pressed his palm flat against his sternum, right where the warmth lived. It was still there—that tiny, pulsing light—like someone had hidden a firefly inside him while he slept. Every heartbeat fed it. Every breath made it feel more real.
 
 "Will you stop doing that?" Julian whispered, yanking Ezra's hand away. "You look like you're checking if you're alive."
 
@@ -24,11 +24,7 @@ Ezra wasn't really listening. He was watching Dr. Fletcher across the hall.
 
 The scientist sat at a table with his gray-uniformed team, eating quietly and pretending to look at a tablet. But every few seconds, his eyes would flick up—toward Ezra, then away, then back again. Like a fish circling the same rock over and over.
 
-Ezra could feel him.
-
-That was the new thing—the strange, scary, incredible new thing. He could feel everyone in the room, just a little, the way you can feel heat from a fire without touching it. Mom: tired but safe, a warm steady glow. Dad: worried, sharp-edged, like static. Maya, sitting two tables over with her family: excited, bouncy, practically vibrating.
-
-Dr. Fletcher felt like a cold draft from under a door.
+Ezra had always been good at reading people. Empathy, Mom called it. A gift. And right now, everything about Dr. Fletcher looked wrong—the tight set of his jaw, the way he held his fork too carefully, the small, calculated glances. Warmth was what you felt from people who liked you. From Fletcher, Ezra felt something more like the draft under a cold door.
 
 "He's watching us," Ezra said quietly.
 
@@ -96,29 +92,41 @@ Declan looked up at him with big brown eyes. Then he said, very clearly: "You're
 
 Fletcher blinked. "What?"
 
-"You feel cold. Ezwa said." Declan pointed at his older brother, who had skidded to a stop behind Fletcher. "Ezwa said you feel like a cold door."
+"You feel cold." Declan pointed at his older brother, who had skidded to a stop a few feet away. "Ezwa said you feel like a cold door."
 
-Fletcher stood and turned, and there was Ezra—and behind Ezra, Julian, fists clenched, eyes blazing.
+Fletcher stood and turned. There was Ezra—and behind Ezra, Julian, fists clenched, eyes blazing.
 
 "The fragment," Fletcher said, his pleasant voice dropping away entirely. "I can measure it. I have equipment. I know it's inside you, boy. I just want to *study* it. To help people—"
 
 "You want to *take* it," Ezra said.
 
-Fletcher's face did something complicated. "I want to use it. For science. For progress. Things too important to leave in the hands of—"
+Fletcher's face did something complicated. "I want to use it. For science. For progress. Things too important to leave in the hands of a *child*—"
 
-He stepped forward and grabbed Ezra's arm.
+He lunged forward and clamped his hand around Ezra's wrist.
 
-The light erupted before Ezra decided to make it.
+What happened next, Ezra couldn't fully explain.
 
-It poured out of his hand, golden-warm, flooding up Fletcher's arm to his shoulder. Fletcher yelped and stumbled backward. But when he looked at his hand—the hand he'd reached out—his mouth fell open.
+The warmth in his chest *rushed* outward—not into Fletcher, but through Ezra's own arm, like something was reshaping from the inside. His wrist stretched. That was the only word for it. His whole arm went long and elastic, like a rubber band being pulled too far, and Fletcher's grip closed on *nothing*. Ezra stumbled back, arm snapping to its normal length so fast it made a sound—*thwap*—like a bowstring.
 
-The deep, ugly scar across his knuckles, the one he'd had since before Ezra was born, was gone.
+Everyone froze.
 
-Smooth, new skin. Like it had never existed.
+Even Ollie stopped barking.
 
-"You," Fletcher breathed. "*You healed me.*"
+Ezra looked at his arm. It was fine. Normal. Five-year-old arm, brown eyes staring at it, completely bewildered.
 
-"*Now* we run," Maya said, and grabbed Declan off the ground without stopping.
+"*What*," said Fletcher, staring at his empty hand.
+
+"*WHAT*," said Julian, staring at his brother.
+
+"Do it again," Declan said.
+
+Ezra looked at Fletcher—at the scientist's face, which had gone from smug to stunned to hungry in about two seconds—and his star pulsed hard, like a fist squeezing around his heart.
+
+He didn't think. He grabbed Declan under the arms, spun, and flung himself sideways through the narrowest gap in the trees—a gap that no regular kid his size could have fit through. But Ezra wasn't exactly regular-sized anymore. He pressed his shoulders together, sucked his whole body into something almost impossibly thin, and *slid* through the gap like water through a crack. Declan squeaked with surprise. Behind them, Fletcher's boots crashed to a halt.
+
+"*How*—" Fletcher started.
+
+"*NOW* we run," Maya said, already running.
 
 This time, even Ollie didn't look back.
 
@@ -136,15 +144,23 @@ Dad looked up from his work. He took one look at their faces—all of them, even
 
 So they did.
 
-It took a while. Declan mostly narrated the parts he'd actually seen, which involved a lot of sound effects. But when Ezra pressed his hand to the table and let the light show—just a flicker, soft and warm, tracing the wood grain—Mom's eyes went wide and she didn't say a word for almost thirty seconds.
+It took a while. Declan mostly narrated the parts he'd actually seen, which involved a lot of sound effects and dramatic arm-waving. But the hard part—the part that made Mom go very quiet—was when Ezra tried to show them.
 
-Then she pulled Ezra into a hug that lasted a long time.
+He held out his arm over the kitchen table. Took a breath. Thought about the feeling from before—warm, stretchy, like taffy being pulled in the summer. And slowly, carefully, his fingers grew. Just an inch. Then two. Then three, reaching all the way across the table to tap lightly on the far edge, while the rest of his hand stayed where it was.
 
-"You're not in trouble," she said against his hair. "You didn't do anything wrong."
+Mom made a sound that was almost a word.
+
+Dad leaned forward slowly, like he was afraid any sudden movement would end what he was seeing.
+
+Ezra pulled his fingers back, and they snapped into place. Normal hand. Normal arm. He pressed it to his chest and felt the star beat, warm and steady.
 
 "The door opened for him," Julian said, sitting across from Dad. "Fletcher and his team tried for months. But Ezra just *touched* it."
 
-Dad was quiet, thinking. He had the same look he got before a hard decision—not scared, just careful. "This Dr. Fletcher," he said. "Would he come here?"
+"And Fletcher saw?" Dad said.
+
+"He grabbed me," Ezra said. "And then—" He shrugged. "I stretched away."
+
+Dad was quiet, thinking. He had the same look he got before a hard decision—not scared, just careful. "This Dr. Fletcher. Would he come here?"
 
 "He'll be back," Maya said. She said it like a fact, not a guess. "My dad says the Shadow Hand doesn't stop."
 
