@@ -26,7 +26,7 @@ A sci-fi universe following a crew of kids (and their dog) aboard the colony shi
 ### Ezra "EZ" Nelson (5)
 - **Personality:** Creative, empathetic, big emotions that get "too hot"
 - **Traits:** Sees things othiss miss, feels deeply, artistic
-- **Power (when unlocked):** Healing touch / matter creation (connected to his creative/empathetic nature)
+- **Power (when unlocked):** Elasticity / super stretch and flexibility (connected to his fluid, creative, emotionally flexible nature)
 - **Flaw when misusing power:** Exhausts hisself, emotions become uncontrollable firestorms
 
 ### Declan "Decker" Nelson (2)

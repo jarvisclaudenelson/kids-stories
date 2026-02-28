@@ -14,7 +14,7 @@
         "eyes": "Hazel/blue",
         "build": "Average, slightly athletic for 7",
         "distinguishing": "No freckles, determined expression",
-        "clothing": "Space colony clothes — comfortable tunic and pants"
+        "clothing": "Space colony clothes \u2014 comfortable tunic and pants"
       },
       "personality": "Competitive, fierce, loyal, bends rules to win",
       "power": "Super speed / kinetic burst (unlocked later)",
@@ -34,10 +34,10 @@
         "eyes": "Brown",
         "build": "Smaller, wiry",
         "distinguishing": "Freckles, empathetic eyes",
-        "clothing": "Space colony clothes — comfortable tunic and pants"
+        "clothing": "Space colony clothes \u2014 comfortable tunic and pants"
       },
       "personality": "Creative, empathetic, big emotions, sees things others miss",
-      "power": "Healing touch / matter creation (unlocked Chapter 3 — first Covenant fragment absorbed)",
+      "power": "Elasticity / super stretch and flexibility (unlocked Chapter 3 \u2014 first Covenant fragment absorbed)",
       "prompt_snippet": "Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants"
     },
     {
@@ -89,7 +89,7 @@
       "visual": {
         "species": "human",
         "ethnicity": "TBD",
-        "hair": "TBD — check reference image",
+        "hair": "TBD \u2014 check reference image",
         "eyes": "TBD",
         "build": "8-year-old girl",
         "distinguishing": "Colonist kid, friends with Tyler",
@@ -109,7 +109,7 @@
       "visual": {
         "species": "human",
         "ethnicity": "TBD",
-        "hair": "TBD — check reference image",
+        "hair": "TBD \u2014 check reference image",
         "eyes": "TBD",
         "build": "9-year-old boy",
         "distinguishing": "Colonist kid, friends with Maya",
@@ -129,7 +129,7 @@
       "visual": {
         "species": "human",
         "ethnicity": "TBD",
-        "hair": "TBD — check reference image",
+        "hair": "TBD \u2014 check reference image",
         "eyes": "TBD",
         "build": "Adult",
         "distinguishing": "Suspicious, Shadow Hand connection, makes secret comm calls",
@@ -141,9 +141,35 @@
     }
   ],
   "chapter_cast": {
-    "chapter-001": ["julian", "ezra", "declan", "ollie"],
-    "chapter-002": ["julian", "ezra", "declan", "ollie"],
-    "chapter-003": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"],
-    "chapter-004": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"]
+    "chapter-001": [
+      "julian",
+      "ezra",
+      "declan",
+      "ollie"
+    ],
+    "chapter-002": [
+      "julian",
+      "ezra",
+      "declan",
+      "ollie"
+    ],
+    "chapter-003": [
+      "julian",
+      "ezra",
+      "declan",
+      "ollie",
+      "maya",
+      "tyler",
+      "dr_fletcher"
+    ],
+    "chapter-004": [
+      "julian",
+      "ezra",
+      "declan",
+      "ollie",
+      "maya",
+      "tyler",
+      "dr_fletcher"
+    ]
   }
 }
