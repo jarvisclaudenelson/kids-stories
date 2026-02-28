@@ -1,0 +1,149 @@
+{
+  "characters": [
+    {
+      "id": "julian",
+      "name": "Julian \"Juju\" Nelson",
+      "age": 7,
+      "type": "main",
+      "first_appearance": "chapter-001",
+      "reference_image": "images/chapter1/page-1.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Caucasian",
+        "hair": "Sandy blonde, short cropped",
+        "eyes": "Hazel/blue",
+        "build": "Average, slightly athletic for 7",
+        "distinguishing": "No freckles, determined expression",
+        "clothing": "Space colony clothes — comfortable tunic and pants"
+      },
+      "personality": "Competitive, fierce, loyal, bends rules to win",
+      "power": "Super speed / kinetic burst (unlocked later)",
+      "prompt_snippet": "Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants"
+    },
+    {
+      "id": "ezra",
+      "name": "Ezra \"EZ\" Nelson",
+      "age": 5,
+      "type": "main",
+      "first_appearance": "chapter-001",
+      "reference_image": "images/chapter1/page-1.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Caucasian",
+        "hair": "Dark brown, medium/shoulder length",
+        "eyes": "Brown",
+        "build": "Smaller, wiry",
+        "distinguishing": "Freckles, empathetic eyes",
+        "clothing": "Space colony clothes — comfortable tunic and pants"
+      },
+      "personality": "Creative, empathetic, big emotions, sees things others miss",
+      "power": "Healing touch / matter creation (unlocked Chapter 3 — first Covenant fragment absorbed)",
+      "prompt_snippet": "Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants"
+    },
+    {
+      "id": "declan",
+      "name": "Declan \"Decker\" Nelson",
+      "age": 2,
+      "type": "main",
+      "first_appearance": "chapter-001",
+      "reference_image": "images/chapter1/page-1.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Caucasian",
+        "hair": "Light/medium brown, short toddler hair",
+        "eyes": "Brown",
+        "build": "Toddler",
+        "distinguishing": "No freckles, chubby toddler cheeks",
+        "clothing": "Small space colony tunic, pull-up"
+      },
+      "personality": "Social, helpful, fun, stubborn, surprisingly brave",
+      "power": "Sound/vibration manipulation (unlocked later)",
+      "prompt_snippet": "Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic"
+    },
+    {
+      "id": "ollie",
+      "name": "Ollie",
+      "age": null,
+      "type": "main",
+      "first_appearance": "chapter-001",
+      "reference_image": "images/chapter1/page-2.png",
+      "visual": {
+        "species": "dog",
+        "breed": "Schnoodle (schnauzer + poodle mix)",
+        "size": "Medium",
+        "coat": "Grey/silver, scruffy wavy-curly fur",
+        "build": "Sturdy, athletic",
+        "distinguishing": "Alert ears, loyal expression, blue collar"
+      },
+      "personality": "Brave, protective, intuitive, comic relief",
+      "power": "Senses ancient power / detects danger before humans",
+      "prompt_snippet": "Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression"
+    },
+    {
+      "id": "maya",
+      "name": "Maya",
+      "age": 8,
+      "type": "supporting",
+      "first_appearance": "chapter-003",
+      "reference_image": "images/chapter3/page-4.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "TBD",
+        "hair": "TBD — check reference image",
+        "eyes": "TBD",
+        "build": "8-year-old girl",
+        "distinguishing": "Colonist kid, friends with Tyler",
+        "clothing": "Space colony clothes"
+      },
+      "personality": "Friendly colonist kid",
+      "power": null,
+      "prompt_snippet": "Maya: 8-year-old girl, colonist kid (see reference image for appearance details), wearing colony clothes"
+    },
+    {
+      "id": "tyler",
+      "name": "Tyler",
+      "age": 9,
+      "type": "supporting",
+      "first_appearance": "chapter-003",
+      "reference_image": "images/chapter3/page-4.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "TBD",
+        "hair": "TBD — check reference image",
+        "eyes": "TBD",
+        "build": "9-year-old boy",
+        "distinguishing": "Colonist kid, friends with Maya",
+        "clothing": "Space colony clothes"
+      },
+      "personality": "Friendly colonist kid",
+      "power": null,
+      "prompt_snippet": "Tyler: 9-year-old boy, colonist kid (see reference image for appearance details), wearing colony clothes"
+    },
+    {
+      "id": "dr_fletcher",
+      "name": "Dr. Fletcher",
+      "age": null,
+      "type": "antagonist",
+      "first_appearance": "chapter-003",
+      "reference_image": "images/chapter3/page-7.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "TBD",
+        "hair": "TBD — check reference image",
+        "eyes": "TBD",
+        "build": "Adult",
+        "distinguishing": "Suspicious, Shadow Hand connection, makes secret comm calls",
+        "clothing": "Colony scientist/official attire"
+      },
+      "personality": "Deceptive, secretive, connected to Shadow Hand",
+      "power": null,
+      "prompt_snippet": "Dr. Fletcher: adult scientist/official, suspicious demeanor, wearing colony official attire (see reference image for appearance details)"
+    }
+  ],
+  "chapter_cast": {
+    "chapter-001": ["julian", "ezra", "declan", "ollie"],
+    "chapter-002": ["julian", "ezra", "declan", "ollie"],
+    "chapter-003": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"],
+    "chapter-004": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"]
+  }
+}
