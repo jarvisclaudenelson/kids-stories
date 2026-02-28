@@ -206,3 +206,21 @@ After each story chapter, review and update:
 - Crystal spire pulses with heartbeat rhythm
 - Beam of energy shoots into sky at end of chapter
 - Story sets up Vault discovery for Chapter 3
+
+---
+
+### Chapter 4 Updates (2026-02-28)
+- **Ezra's power manifested:** First healing performed - healed Dr. Fletcher's old lab scar
+- **Empathic sensing unlocked:** Ezra can now feel others' emotions and intentions
+- **Dr. Fletcher's true nature revealed:** Openly attempted to capture/take the fragment, confirmed Shadow Hand agent
+- **The fragment is permanent:** Lives inside Ezra's chest, described as a "tiny star" that pulses with warmth
+- **Shadow Hand actively hunting:** Dr. Fletcher and team now pursuing the kids
+- **Maya's hideout:** Secret clearing in the woods, hidden by evergreen branches - kids' safe meeting place
+- **The Covenant's sentience confirmed:** The fragment protects Ezra, acts with intention
+- **Power triggers:** Ezra's healing activated instinctively when Dr. Fletcher tried to grab him
+
+### Current Threat Level
+- Shadow Hand knows Ezra has the first fragment
+- Dr. Fletcher witnessed the healing power firsthand
+- Kids are being actively searched for
+- Parents (Mom & Dad) now standing guard, aware of danger
