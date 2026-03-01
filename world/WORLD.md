@@ -176,7 +176,7 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-02-25*
+*Last updated: 2026-03-01*
 
 ---
 
@@ -225,3 +225,36 @@ After each story chapter, review and update:
 - Dr. Fletcher witnessed the healing power firsthand
 - Parents aware and protective; kids safe for now
 - Shadow Hand described as persistent — "they don't stop"
+
+---
+
+### Chapter 5 Updates (2026-03-01)
+- **Shadow Hand surveillance confirmed:** Two agents posted at the tree line watching the Nelson cabin; multiple stations around the Deep Dig and crystal spire
+- **Captain Okonkwo involved:** Maya's father Marcus reported everything to colony captain; official investigation opened, but Fletcher expected to talk his way out
+- **Marcus (Maya & Tyler's dad):** Big, calm, former-soldier type; has colony contacts; carries emergency radio; accompanies kids as backup; very competent
+- **Ezra's power mechanics refined:**
+  - Stretching powered by emotional connection — thinking of specific loved ones amplifies it
+  - Can stretch individual body parts independently (arm, fingers, etc.)
+  - Moving while stretched is harder than stretching while still
+  - Overextending causes tingling/pins-and-needles in stretched limbs
+  - Power does NOT exhaust him at low/moderate use (no fatigue noted this chapter)
+- **Ezra's training:** First deliberate practice session in forest clearing north of colony; reached 8+ feet with arm extension; basic mastery begun
+- **Ollie's sensing ability demonstrated:** Went rigid and silent before anyone else noticed the unknown observer — early detection confirmed as a consistent power
+- **Unknown watcher:** A figure in dark clothes (NOT Fletcher's gray-uniformed team) observed the training session from 70 feet away, then left unhurried. Identity unknown. Ezra's star reacted with a "signal" sensation — different from the "cold/emptiness" of Shadow Hand agents. Possibly someone connected to a different Covenant fragment.
+- **Julian's hypothesis:** The unknown watcher may already have a Covenant fragment — suggests other fragment-holders exist in the galaxy/colony
+- **New implication confirmed:** "We're not the only ones" — the Covenant has multiple fragment-holders, not all of them threats
+
+### Updated Status
+- Ezra: Actively training; beginning controlled use of elasticity power
+- Julian: Analytical, strategist mode activated; thinking about the bigger picture
+- Declan: Still at cabin with Mom; called the watchers "coldie mans"
+- Ollie: Reliable early-warning system confirmed
+- Marcus: New trusted adult ally
+- Unknown watcher: First appearance — may return; motive unknown
+- Shadow Hand: Escalating pressure (visible surveillance); Captain Okonkwo now involved
+
+### Training Location: Northern Forest Clearing
+- North of the colony, through dense Monscollis pine forest
+- Three fallen ancient trees covered in pale blue-green moss
+- Feels "secret and forgotten"
+- Used as Ezra's first power training ground
