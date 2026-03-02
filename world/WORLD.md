@@ -176,7 +176,7 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-01*
+*Last updated: 2026-03-02*
 
 ---
 
@@ -258,3 +258,45 @@ After each story chapter, review and update:
 - Three fallen ancient trees covered in pale blue-green moss
 - Feels "secret and forgotten"
 - Used as Ezra's first power training ground
+
+---
+
+### Chapter 6 Updates (2026-03-02)
+
+#### New Character: Sable
+- **Age:** ~15-16 (teen)
+- **Appearance:** Long dark hair pulled back, tan skin, dark eyes, thin scar along her jaw
+- **Origin:** Vela Station colony, 14 light-years from Monscollis
+- **Arrival:** Traveled alone on a commercial freighter for 3 months following the Covenant "pull" to Monscollis
+- **Fragment:** Second Covenant fragment — embedded in rock near Vela Station drill site; she retrieved it alone, far underground
+- **Fragment appearance:** Cool silver-blue glow, worn on a thin cord as a pendant stone; described as "starlight through ice" — different from Ezra's warm golden star
+- **Ability nature:** Her fragment is "precise and clear — good for seeing patterns"; complements Ezra's empathic/warm fragment
+- **Role:** Tracker, information source, trainer; has been monitoring Shadow Hand for 8 months
+- **Personality:** Direct, low on words, quietly perceptive; softens slightly around Ezra; recognizes his instinct to protect others
+- **Trust status:** Guarded acceptance by Dad, Marcus, and Maya; Julian invited her to train
+
+#### Shadow Hand Intelligence (Updated)
+- Shadow Hand has **two Covenant fragments** already collected (from two unspecified remote sites)
+- They **cannot activate** the fragments — the power does not respond to them
+- Their strategy: collect all 7 fragments, then force a willing wielder to activate them
+- Goal: something "irreversible" — an act that changes the Covenant itself; Sable doesn't fully understand it yet
+- They have "collectors" — agents who wait at high-Covenant-energy sites for someone to open a fragment source
+
+#### Covenant Fragment Map (Sable's star chart)
+- **7 total fragments**
+- **Ezra:** Fragment 1 — warm gold, Monscollis
+- **Sable:** Fragment 2 — cool silver-blue, Vela Station
+- **Shadow Hand:** Fragments 3 and 4 — inactive, held captive
+- **3 yellow marks (unknown):** Other presences/power signatures Sable detected in transit — possibly other fragment holders, possibly undiscovered fragment sources, possibly something else entirely
+
+#### New World Detail: Vela Station
+- Another human colony, 14 light-years from Monscollis
+- Has a deep drill site; Sable's fragment was discovered there
+
+#### Updated Status
+- Ezra: Has Fragment 1; training underway; now has a mentor in Sable
+- Sable: Has Fragment 2; ally confirmed; will train with the group
+- Julian: Deferring to Sable on drills (barely); analytical mode continues
+- Shadow Hand: Actively collecting fragments; have 2/7; pose escalating threat
+- Unknown yellow marks on star chart: 3 more signatures to be investigated
+- Overall: 4 of 7 fragments accounted for (2 good, 2 captured)
