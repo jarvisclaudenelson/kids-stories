@@ -106,7 +106,7 @@ Style instructions:
 
 ## Page 4 ⭐ KEY SCENE
 
-**Scene:** Ollie frozen with hackles raised, all four legs planted, growling toward the dark forest, the whole group gone silent and still, a shadowy figure in dark clothes barely visible 70 feet away between alien pine trees, light filtering dramatically through the canopy
+**Scene:** Ollie frozen with hackles raised growling toward the dark forest, a shadowy figure barely visible 70 feet away between alien pine trees — then aftermath: Julian and Ezra at the clearing edge staring at where the figure vanished, Julian calculating, Ezra's hand pressed to his glowing chest, Ollie pressed against Ezra's leg
 
 **Reference images:**
 - `images/chapter1/page-1.png` (Ezra, Julian)
@@ -116,54 +116,22 @@ Style instructions:
 ```
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-Scene: Ollie frozen with hackles raised, all four legs planted, growling toward the dark forest, the whole group gone silent and still, a shadowy figure in dark clothes barely visible 70 feet away between alien pine trees, light filtering dramatically through the canopy
+Scene: Ollie frozen with hackles raised, all four legs planted, growling toward the dark forest, the whole group gone silent and still, a shadowy figure in dark clothes barely visible 70 feet away between alien pine trees. Julian gone very still and calculating, Ezra's hand pressed to his glowing chest, Ollie pressed warmly against Ezra's leg.
 
 Characters in this scene (use the uploaded reference images for consistency):
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression — hackles raised, stiff-legged, intense
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles — hand pressed to chest, eyes wide
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes — gone very still, staring ahead
+- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar — hackles raised, stiff-legged, intense
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles — hand pressed to chest, faint golden glow, eyes wide
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes — gone very still, staring ahead, expression calculating
 
 Style instructions:
 - Pixar/Disney quality 3D animation style
-- Tense dramatic lighting, adventure movie feel
+- Tense dramatic lighting fading to cool forest shadow, adventure movie feel
 - Landscape format (16:9)
 - Characters must match the uploaded reference images exactly
 - Rich detail in environment and expressions
 - Mysterious figure in dark clothing barely visible in shadows of distant alien pine trees — silhouette only, ominous
+- Faint golden glow from Ezra's chest illuminating his and Julian's faces from below
 - Atmospheric: shafts of alien light through tall canopy, copper-needle forest floor
 ```
 
 **Save to:** `images/chapter5/page-4.png`
-
----
-
-## Page 5 ⭐ KEY SCENE
-
-**Scene:** Julian and Ezra at the edge of the clearing looking at where the mystery figure vanished between the trees, Julian's expression calculating and determined, Ezra's hand pressed to his glowing chest, Ollie pressed warmly against Ezra's leg, forest going dark around them
-
-**Reference images:**
-- `images/chapter1/page-1.png` (Ezra, Julian)
-- `images/chapter1/page-2.png` (Ollie)
-
-**Prompt:**
-```
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-Scene: Julian and Ezra at the edge of the clearing looking at where the mystery figure vanished between the trees, Julian's expression calculating and determined, Ezra's hand pressed to his glowing chest, Ollie pressed warmly against Ezra's leg, forest going dark around them
-
-Characters in this scene (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build — expression serious and calculating, staring into dark trees
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles — hand pressed to chest, faint golden glow visible, thoughtful and uncertain
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, blue collar — pressed close to Ezra's leg, looking up at him loyally
-
-Style instructions:
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting fading to cool forest shadow, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- Mood: wonder mixed with unease — something bigger is beginning
-- Faint golden glow from Ezra's chest, soft light illuminating his and Julian's faces from below
-```
-
-**Save to:** `images/chapter5/page-5.png`
