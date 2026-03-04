@@ -350,4 +350,57 @@ After each story chapter, review and update:
 
 ---
 
+### Chapter 8 Updates (2026-03-04)
+
+#### New Character: Captain Okonkwo (fully introduced)
+- **Appearance:** Compact, square-shouldered Black woman, late 50s; short silver-gray locs; dark colony green jacket; carries a small notebook
+- **Personality:** Still and unhurried — stillness is her authority, not noise or hardware; gives full, undivided attention when listening; decides things without announcing them
+- **Role:** Colony scout captain; now formally leading investigation into Shadow Hand agents; investigates missing persons (Fletcher)
+- **Key trait:** Tells people what she knows before asking what they know — "that's not how investigations usually go, but you're not usual witnesses"
+- **Relationship:** Works closely with Marcus; has tracked Shadow Hand agents' positions for six days before this meeting
+
+#### Shadow Hand Intelligence (Further Updated)
+- **Voss and Crane:** Two named agents; came in on freight rotation as cargo handlers; manifests too clean; never unloaded a single crate in three years of arrivals; have been at Monscollis for 6+ days
+- **Dr. Fletcher:** Missing — last seen two days before Chapter 8; stopped reporting to south camp infirmary; now treated as missing person with two additional unnamed hypotheses (defected, fled, or eliminated by Shadow Hand)
+- **Shadow Hand timeline:** Long-term, coordinated plan; have been tracking the fragment map longer than the kids
+
+#### New Location: Bryn Dural System
+- **Distance:** 6 light-years from Monscollis; one of the three yellow marks on Sable's star chart
+- **Status:** Survey team of 15 people, six months in; last transmission received 22 days before Chapter 8 — communications silence since
+- **Significance:** Captain Okonkwo had treated it as equipment failure; now reclassified as possible Shadow Hand fragment-site activity
+- **Fragment status:** Unknown; possibly discovered and taken, possibly still present, possibly someone on the team has it
+
+#### Fragment Signal at Crystal Spire
+- **New discovery:** Ezra can detect other fragment signals by standing near the crystal spire and extending his star passively
+- **Signal received:** Faint, directional — "like a memory of a sound" — from somewhere in the direction of deep space; one clear beat received
+- **Nature:** The distant fragment is awake. Not afraid. But alone.
+- **Sable's pendant:** Did not independently pick up the signal — their fragments are "tuned to different registers"
+- **Ollie's role:** Performed comfort-lean (not alert posture) during the signal — supporting Ezra through the intensity rather than warning of danger
+- **Crystal spire mechanics (new):** The spire's heartbeat-pulse matches Ezra's heartbeat when he stands close; acts as an amplifier/receiver surface for Covenant signal detection
+
+#### Ezra's Power (Updated)
+- **Indoor practice confirmed:** Can do calm 5-foot extension indoors in a domestic setting; the power adjusts to context (no ceiling collisions)
+- **Fragment's awareness:** "It feels aware. Not like a tool. More like when Ollie knows something is wrong before any of us do."
+- **Searching-pulse:** A new mode — slow, patient, directional — different from the threat-reaction pulse or the warm steady baseline
+- **Sable's description:** Can "feel Ezra feeling" a signal even when her own pendant doesn't catch it — empathic resonance between fragment holders
+
+#### Julian's Investigation Work
+- **Spacing hypothesis:** Fragment distances may not be random — Julian began plotting calculations suggesting a deliberate pattern to fragment placement
+- **Okonkwo confirmed:** "The spacing" — she confirmed the map is not random, reinforcing Julian's instinct
+- **Notebook use:** Julian is now the team's record-keeper for both training notes and investigative calculations
+
+#### Covenant Fragment Map (Updated)
+- **Fragment 5 (probable):** Bryn Dural system, 6 light-years from Monscollis — awake, alone, signal received via crystal spire; holder/status unknown
+- **Placement pattern:** Deliberate, not random — confirmed by both Julian's math and Okonkwo
+
+#### Updated Status
+- Ezra: Receiving distant Covenant signals; indoor training established; fragment entering "searching" mode
+- Captain Okonkwo: Fully invested ally; formal investigation open; now knows about the Covenant and fragments
+- Fletcher: Missing — unknown fate
+- Voss and Crane: Named; under colony investigation; still at large
+- Bryn Dural survey team: 15 people, 22+ days silent — new urgent concern
+- Fragment 5 (Bryn Dural): Awake, alone, reaching out — sets up Chapter 9
+
+---
+
 *Last updated: 2026-03-04*
