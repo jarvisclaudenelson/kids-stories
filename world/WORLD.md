@@ -305,36 +305,48 @@ After each story chapter, review and update:
 
 ### Chapter 7 Updates (2026-03-04)
 
-#### Training Breakthrough
-- Ezra learns to control his stretch power from his chest/center, not the extended limb
-- Key insight: The power doesn't push through you, it *is* you
-- Can now hold extensions steadily without trembling or snap-back
-- Emotional connection (thinking of loved ones) amplifies the stretch
-- Reached 10-foot extension with full control; holds for ~1 minute without strain
+#### Training Breakthrough: "Start from Your Center"
+- Sable's key coaching correction: don't *reach* from the shoulder — *extend* from the chest
+- Distinction: reaching means wanting something far away; extending means taking up space that's already yours
+- Once Ezra shifts to chest-origin, tingling doesn't appear until 9 feet (was 6)
+- Emotional anchor works best with small, specific, ordinary love — not big/scary things. Big feelings make you tense; the power doesn't work in tense
+- Example that worked: picturing Declan in pajamas pointing at fog saying "Coldie"
+- 10-foot extension held steady; ~45 seconds clean hold at end of session
+- Key insight: the power lives where the love lives — not in his hands
 
-#### Connection Between Fragments Revealed
-- Ezra's gold star and Sable's silver-blue pendant pulse in sync when near each other
-- The Covenant "recognizes its own" — fragments of the same source
-- This connection is what the Shadow Hand wants to break/reshape
+#### Fragment Synchronization Confirmed
+- Ezra's gold star and Sable's silver-blue pendant pulse in rhythm when near each other — different notes that fit together
+- "The Covenant recognizes its own" — described as a handshake, sometimes a warning; not always interpretable
+- Sable honest: she doesn't always know which it is
 
 #### Shadow Hand Surveillance Intensifies
-- Two Shadow Hand agents observed the training session from treeline
-- Gray uniforms confirmed; not engaging, just watching and taking notes
-- Captain Okonkwo en route (2 minutes out)
-- Ollie detected multiple watchers; his early-warning worked
+- Two agents (gray uniforms) at the treeline, 70 feet away, during training
+- One writing/logging the session on a pad
+- Same two agents Marcus and Captain Okonkwo had been tracking since the Deep Dig incident
+- Two more at eastern ridge, additional stations rotating — systematic surveillance
+- Strategy: don't engage, gather intelligence, learn what the kids can do
+- Sable's call: don't stop training, don't run — show them something they can't use
 
-#### Sable's Role Deepens
-- Confirmed as trainer — her pattern-seeing ability complements Ezra's empathy
-- Demonstrated more talking than usual — invested in Ezra's progress
-- Confirmed Shadow Hand goal: collect all 7 fragments to reshape the Covenant into something that serves them
+#### Marcus / Captain Okonkwo
+- Marcus had pre-positioned himself for this contingency (Sable informed him in advance, said nothing to the group until needed)
+- Marcus confirmed the two agents as the same pair tracked previously
+- Captain Okonkwo now formally requesting statements from all present — investigation escalating
+- Julian-to-Marcus trust dynamic: Julian notes Sable's prep with one short nod — begrudging respect
+- Agents left when Marcus arrived. Unhurried. They got what they came for.
+
+#### Ezra's Realization
+- "We have something they don't" — and what it is isn't power or fragments, it's the group: Sable, Julian, Ollie, the specific ordinary love for Declan, Marcus
+- Ezra's power literally works better when he's thinking about Declan with toast
+- He stops treating the fragment as a tool he picks up and puts down
 
 #### Updated Status
-- Ezra: Controlled stretching achieved; 10-foot reach; training progressing
-- Sable: Active trainer; connection with Ezra's fragment confirmed
-- Julian: Present at training; wants to engage but held back
-- Marcus: Backup role confirmed; radio contact with Captain Okonkwo
-- Ollie: Early warning confirmed; detected Shadow Hand before anyone
-- Shadow Hand: Watching, learning; escalating presence near training site
+- Ezra: Controlled 10-foot extension from chest-center; emotional anchor mastered at low levels; training actively progressing
+- Sable: Primary trainer confirmed; fragment synchronization conversation completed; investigation cooperation confirmed
+- Julian: Drills acknowledged by Sable ("Left turn too wide" / "The pace changes work"); started keeping a training notebook
+- Declan: Stayed at cabin; "Coldie" fog observation; toast achievement
+- Marcus: Active ally; Sable-Marcus contingency plan revealed; colony investigation progressing
+- Ollie: Detected Shadow Hand watchers before anyone; rigid posture early warning confirmed again
+- Shadow Hand: Systematic surveillance; logging kids' capabilities; not engaging yet; two confirmed at treeline, two more on ridge
 
 ---
 
