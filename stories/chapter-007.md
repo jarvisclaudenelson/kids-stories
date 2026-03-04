@@ -32,7 +32,7 @@ Ollie stayed at the door. His nose lifted. Then he slipped out and fell into ste
 
 Ezra scratched behind Ollie's ear. "He always comes."
 
---- PAGE BREAK ---
+---
 
 The northern clearing was thirty minutes through the pine forest by the route Marcus had found—quiet, no obvious paths, hard to follow if you didn't know the turns. Ezra had memorized it after two days. Julian had memorized it after one day, which he had mentioned exactly once and which Sable had responded to by immediately moving on to the next topic.
 
@@ -66,7 +66,7 @@ Ezra thought about it. "That I'm working hard?"
 
 She stopped in front of him. "Reaching means you want something that's far away. Extending means you're taking up space that's already yours." She tapped her own sternum. "Start from here."
 
---- PAGE BREAK ---
+---
 
 Ezra let the stretch snap back—carefully, not the sharp-rubber-band snap that had happened three times in week one and hurt like a sudden cramp. He rolled his shoulder. Then he tried again.
 
@@ -108,7 +108,7 @@ Julian looked at her. "I don't have a fragment."
 
 Ezra, sitting in the silver grass to rest his arm, watched Julian process the fact that someone was actually listening to his training plan. Julian's face did something complicated—surprised, then trying not to look surprised—and then he squared his shoulders and started running the drill like he'd been waiting for someone to hand him the clipboard.
 
---- PAGE BREAK ---
+---
 
 They worked for an hour. Ezra practiced the center-extension nine more times. Sable stopped him when he was doing it wrong, let him go when he was doing it right. She didn't compliment in the way that made you feel seen and stopped working; she just moved on to the next thing, which meant you knew you'd done something right because she wasn't correcting you anymore.
 
@@ -134,7 +134,7 @@ Ollie, who had been lying at Ezra's feet in the silver grass, lifted his head.
 
 Then he went rigid.
 
---- PAGE BREAK ---
+---
 
 Ezra knew that posture now. He'd seen it in the forest with the first unknown watcher, and twice more since. Ollie's whole body went still in a particular way—not afraid-still, not alert-still, but *listening*-still, like something in him was receiving a signal that hadn't reached anyone else yet.
 
@@ -162,7 +162,7 @@ Julian looked at her. "You're serious."
 
 "If we run, they learn we run. If we stop, they learn what stops us." She met his eyes. "We're not hiding anything from them anymore. So we show them something they can't use."
 
---- PAGE BREAK ---
+---
 
 Ezra pulled his arm through the center-extension again. Steady. Ten feet.
 
@@ -190,7 +190,7 @@ Then they turned and walked away through the trees.
 
 They didn't run. They didn't hurry. They just left, which was almost worse than if they'd done something dramatic. It was the leaving of people who had already gotten what they came for.
 
---- PAGE BREAK ---
+---
 
 Marcus stood with his hands at his sides and watched the treeline for a minute after they were gone. Then he turned to the group.
 
@@ -230,7 +230,7 @@ Ezra looked at Sable, who was talking to Marcus with her arms crossed, precise a
 
 "I don't know exactly," he said honestly. "But I think it's us."
 
---- PAGE BREAK ---
+---
 
 They walked back to the cabin through the thinning fog, single file, Ollie leading.
 
