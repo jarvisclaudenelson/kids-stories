@@ -300,3 +300,42 @@ After each story chapter, review and update:
 - Shadow Hand: Actively collecting fragments; have 2/7; pose escalating threat
 - Unknown yellow marks on star chart: 3 more signatures to be investigated
 - Overall: 4 of 7 fragments accounted for (2 good, 2 captured)
+
+---
+
+### Chapter 7 Updates (2026-03-04)
+
+#### Training Breakthrough
+- Ezra learns to control his stretch power from his chest/center, not the extended limb
+- Key insight: The power doesn't push through you, it *is* you
+- Can now hold extensions steadily without trembling or snap-back
+- Emotional connection (thinking of loved ones) amplifies the stretch
+- Reached 10-foot extension with full control; holds for ~1 minute without strain
+
+#### Connection Between Fragments Revealed
+- Ezra's gold star and Sable's silver-blue pendant pulse in sync when near each other
+- The Covenant "recognizes its own" — fragments of the same source
+- This connection is what the Shadow Hand wants to break/reshape
+
+#### Shadow Hand Surveillance Intensifies
+- Two Shadow Hand agents observed the training session from treeline
+- Gray uniforms confirmed; not engaging, just watching and taking notes
+- Captain Okonkwo en route (2 minutes out)
+- Ollie detected multiple watchers; his early-warning worked
+
+#### Sable's Role Deepens
+- Confirmed as trainer — her pattern-seeing ability complements Ezra's empathy
+- Demonstrated more talking than usual — invested in Ezra's progress
+- Confirmed Shadow Hand goal: collect all 7 fragments to reshape the Covenant into something that serves them
+
+#### Updated Status
+- Ezra: Controlled stretching achieved; 10-foot reach; training progressing
+- Sable: Active trainer; connection with Ezra's fragment confirmed
+- Julian: Present at training; wants to engage but held back
+- Marcus: Backup role confirmed; radio contact with Captain Okonkwo
+- Ollie: Early warning confirmed; detected Shadow Hand before anyone
+- Shadow Hand: Watching, learning; escalating presence near training site
+
+---
+
+*Last updated: 2026-03-04*
