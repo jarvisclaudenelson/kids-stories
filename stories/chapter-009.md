@@ -56,21 +56,21 @@ Mom had planned to stay at the cabin with him while everyone else went to the re
 
 He walked to the door and stood there.
 
-"Dee," Mom said. "We're staying here today."
+"Decker," Mom said. "We're staying here today."
 
 Declan looked at the door. Then at Ezra. Then at the door again, in case the door changed his mind.
 
-"Boo," he said. This was his word for going somewhere. It meant both *boot up* and *let's go* and also, when used in a certain tone, *you are making a mistake and I am informing you of it calmly*.
+"I do it," he said. This was his phrase for going somewhere. It meant both *I am capable* and *let's go* and also, when used in a certain tone, *you are making a mistake and I am informing you of it calmly*.
 
-"Decker," Dad said, crouching down to his level. "We need you and Mom to stay safe here today. Okay?"
+"Decky," Dad said, crouching down to his level. "We need you and Mom to stay safe here today. Okay?"
 
 Declan looked at Dad with the patience of a person who has heard this before.
 
-"Boo," he repeated.
+"I do it," he repeated.
 
 "Bud—"
 
-"Boo." Then, with great deliberateness: "My boo."
+"I do it." Then, with great deliberateness: "My I do it."
 
 This was new. Ezra and Julian exchanged a look. Declan had apparently decided that wherever Ezra was going was, in some fundamental sense, also his.
 
@@ -78,7 +78,7 @@ Marcus coughed something that might have been a laugh from across the room.
 
 Mom knelt beside Declan and talked quietly to him for a few minutes. In the end they negotiated: Declan and Mom would walk to the colony main hall, which was very slightly in the direction of the relay station, and would wait there with warm drinks. This was not what Declan wanted but he accepted it with the dignity of a two-year-old diplomat who knew when to take a partial win.
 
-As they left, he pointed at Ezra and said "boo" one more time. It sounded like a promise.
+As they left, he pointed at Ezra and said "I do it" one more time. It sounded like a promise.
 
 ---
 
@@ -154,7 +154,7 @@ The room was quiet.
 
 "Are they alive?" Captain Okonkwo said.
 
-Ezra pressed his hand flat to his chest. Tried to listen harder. The signal was fraying at the edges, like a voice over a bad connection that keeps cutting out. He thought of Declan saying *my boo*. He thought of Mom's voice. Small, specific, ordinary things.
+Ezra pressed his hand flat to his chest. Tried to listen harder. The signal was fraying at the edges, like a voice over a bad connection that keeps cutting out. He thought of Declan saying *my I do it*. He thought of Mom's voice. Small, specific, ordinary things.
 
 The star steadied.
 
@@ -216,7 +216,7 @@ Okonkwo's voice came from across the room. "Not *we*, not yet." She'd been liste
 
 That evening, Declan wanted a full debrief.
 
-He didn't call it a debrief. He called it "Moo me boo?" which was *tell me about the going*, and he asked it about fourteen times over dinner until Dad finally sat him on his knee and gave him a simplified version. Someone far away. Signal like a voice. Ezra heard it. We're going to help.
+He didn't call it a debrief. He called it "I do it? I do it?" which was *tell me about the going*, and he asked it about fourteen times over dinner until Dad finally sat him on his knee and gave him a simplified version. Someone far away. Signal like a voice. Ezra heard it. We're going to help.
 
 Declan thought about this for a while.
 
@@ -228,7 +228,7 @@ Declan thought about this for a while.
 
 "Not yet," Ezra said. "We have to get there first."
 
-"Boo," Declan said, which meant: exactly, so let's go.
+"I do it," Declan said, which meant: exactly, so let's go.
 
 Ezra looked at Julian across the dinner table. Julian raised one eyebrow. Sable, sitting at the corner of the table, looked at her bowl like she was pretending not to have heard any of this, but the corner of her mouth had moved in a direction that was not down.
 
