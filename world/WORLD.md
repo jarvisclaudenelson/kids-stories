@@ -403,4 +403,54 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-04*
+### Chapter 9 Updates (2026-03-05)
+
+#### Bryn Dural Fragment-Holder: First Contact
+- **Signal confirmed received:** Ezra made contact with a Covenant fragment-holder at Bryn Dural via the colony relay station — the relay acts as a signal surface; the fragment amplifies in both directions
+- **Signal character:** Ragged, worn — someone who has been holding on for a long time; impression of cold, enclosed space, something heavy overhead; not afraid but deeply tired
+- **Fragment 5 status:** Awake; confirmed holder alive; needs rescue urgently
+- **Signal duration:** ~90 seconds; exhausting but not physically harmful to Ezra
+
+#### Relay Station Mechanics
+- **Location:** North ridge of Monscollis colony; squat metal building with tall antenna tower
+- **Standard relay:** Compressed burst protocol, long-distance colony comms; Okonkwo had sent bursts every 48 hours for 3 weeks with no response
+- **Covenant amplification:** Fragment-holder near relay can amplify signal in both directions — Ezra acts as a living relay node; does not require direct hardware contact (Sable insisted: no touching the equipment directly)
+- **Engineers involved:** Pella (broad-faced, former-solder-smell, practical, very competent) and Sevi (younger, nervous around the kids)
+
+#### Sable's Personal History (Expanded)
+- Was alone with her fragment for 4 months before following the Covenant pull to Monscollis
+- Describes the experience: "the fragment is the same, but you don't have anyone to ask what it means. You just carry it and try not to break anything."
+- Admitted fear when retrieving the fragment: afraid nothing would happen and she'd have come all that way for a rock
+- Shows the first clear crack in her professional composure in Chapter 9 — the dinner scene, Declan's "Lone-ee?" lands
+
+#### Declan Updates
+- **"My boo":** New language development — claimed Ezra's departure as also his departure; "my boo" = wherever you go is mine too; shows deepening bond and an early instinct to stay close to the Covenant
+- **Declan's Bryn Dural debrief:** "Moo me boo?" = tell me about the going; understood the emotional core (someone lonely) before most adults framed it
+- **"Lone-ee?":** Asked Ezra directly if the Bryn Dural person was lonely — cut to the emotional truth of the chapter; visibly affected Sable
+
+#### Julian Updates
+- Keeps training notebook; now adding investigation notes alongside
+- "Then we go get them" — first time Julian has explicitly committed to a rescue mission
+- Stayed behind during the relay session to work fragment-spacing calculations; accepted this without negotiating (first sign of discipline over impulse)
+
+#### Ezra's Power (Updated)
+- **Relay amplification:** Can project fragment presence outward through external signal infrastructure; range: 6+ light-years demonstrated
+- **Cost of contact:** Not physically tiring, but requires a re-centering period afterward; described as having leaned hard in one direction for a long time
+- **New instinct confirmed:** Thinks of the Bryn Dural signal as someone who went somewhere they couldn't explain — same as him and Sable; the pull is real regardless of logic
+- **Emotional anchor breadth:** "Small, specific, ordinary love" as anchor confirmed; expanded from one person to the whole group
+
+#### Covenant Theory (Updated)
+- **Why scatter the fragments?** Two theories now in play: (1) to ensure no single person could have all of it; (2) to ensure fragment-holders had to find each other — the scattering creates the team
+- The Covenant doesn't just sit and wait — it found Ezra in a crash, pulled Sable across 14 light-years; it is active in finding its holders
+
+#### Updated Status
+- Ezra: Confirmed ability to reach Bryn Dural via relay amplification; established contact with Fragment 5 holder; rescue mission now the clear next objective
+- Sable: First personal vulnerability shown; actively part of the group, not just adjacent to it
+- Julian: Mission-oriented; committed to rescue
+- Declan: Emotional compass of the group confirmed; "Lone-ee?" is now part of the family vocabulary
+- Fragment 5 (Bryn Dural): Holder alive, exhausted, cold, enclosed — needs rescue soon
+- Okonkwo: Formally organizing response; "not yet" on travel, but preparing
+
+---
+
+*Last updated: 2026-03-05*
