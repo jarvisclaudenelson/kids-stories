@@ -453,4 +453,68 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-05*
+### Chapter 10 Updates (2026-03-06)
+
+#### New Character: Rafe
+- **Age:** 12
+- **Appearance:** Red hair, pale skin, dark freckles, dark eyes; eyes have the same "slightly ahead" quality as Ezra's — Covenant sensing confirmed
+- **Origin:** Bryn Dural survey team member; no prior colony affiliations mentioned
+- **Fragment:** Third Covenant fragment — warm amber-orange stone on a simple cord; retrieved from the Bryn Dural drill site deposit when the rest of the team walked away; had it for 7 months
+- **Fragment appearance:** Amber-orange, warm in any light; different from Ezra's interior gold and Sable's silver-blue pendant
+- **Status when found:** Isolated for 25 days due to rockslide cutting communications; Shadow Hand had visited twice and was expected for a third visit; hid fragment in the habitat
+- **Personality:** Quiet, observant, resilient; uses physical counting to manage difficult circumstances; determined; said "Whatever's next — I want to help" immediately upon being rescued
+- **Trust level:** Immediately accepted into the group
+
+#### New Character: Dr. Ingrid Baas
+- **Role:** Leader of the Bryn Dural survey team
+- **Appearance:** Tall, weathered, calm
+- **Personality:** The specific calm of someone who has maintained composure for other people for three weeks; practical; grateful; shook Marcus's hand for a long time
+- **Status:** Survived the Bryn Dural isolation; now en route back to Monscollis with her team
+
+#### New Character: Wren
+- **Role:** Colony pilot of the *Ariadne*; assigned to this mission
+- **Appearance:** Compact, close-cropped grey hair
+- **Personality:** Minimal words (averaged 12 per hour); calm, professional; Sable respects her; perceptive enough to know when Ezra felt the fragment shift before he said anything (Ollie was her signal); said "Sit with it" — a rare extended observation
+- **Trust:** Competent, reliable
+
+#### New Ship: The Ariadne
+- **Type:** Colony survey runner; compact, angular, functional
+- **Crew capacity:** 4 standard; carried ~18 people for the return journey
+- **Aesthetic:** All function, no elegance; has seen a lot of use; kept going by stubbornness; has a small cargo bay with a folding table, two bunkrooms, a cockpit with two seats
+- **Status:** Successfully completed the Bryn Dural mission
+
+#### New Location: Bryn Dural
+- **Planet characteristics:** Grey-green, overcast; three small moons; heavy, close sky
+- **Habitat:** Underground survey habitat; reinforced door in cliff face; 15-person crew; life support functional; rockslide blocked the antenna array
+- **Rockslide:** Natural event; snapped external antenna and secondary transmitter in the same hour; cut communications; occurred the day before Shadow Hand's third planned visit — protected Rafe and the fragment
+- **Drill site:** Deep deposit site where Fragment 3 was found; drill team found it but only Rafe retrieved it
+
+#### Three-Fragment Chord (Major Plot Milestone)
+- **First confirmed:** When Ezra, Sable, and Rafe stood in proximity with all three fragments exposed
+- **Effect:** Three different glows — gold, silver-blue, amber-orange — pulsing in rhythm but not unison; described as "three notes fitting together" / "three instruments staying in the same key even when playing different notes"
+- **Significance:** The Covenant recognizes three of its pieces; this is qualitatively different from the two-fragment pulse that Ezra and Sable had
+- **Shadow Hand cannot replicate this:** They hold two fragments but cannot activate them; they cannot form a chord
+
+#### Shadow Hand Updates
+- Sent agents to Bryn Dural twice; were expected for a third visit; the rockslide prevented it — Rafe and Fragment 3 escaped capture
+- Now know Rafe has escaped the planet (the *Ariadne* landing would be visible)
+
+#### Covenant Fragment Map (Updated)
+- **Fragment 1 (Ezra):** Warm gold, Monscollis — training actively
+- **Fragment 2 (Sable):** Cool silver-blue, Vela Station origin — active holder
+- **Fragment 3 (Rafe):** Warm amber-orange, Bryn Dural — newly rescued; now at Monscollis
+- **Fragments 4 & 5 (Shadow Hand):** Inactive, held captive — cannot be activated
+- **Fragments 6 & 7:** Unknown locations; Sable's star chart has remaining yellow marks
+
+#### Updated Status
+- Rafe: New fragment-holder; now at Monscollis; part of the group; has been alone with his power for 7 months — will need orientation/training
+- Ezra: 3 fragments together for the first time; experienced the chord; returning home with a new ally
+- Sable: Three-fragment synchronization confirmed; the chord is something she had not experienced before
+- Julian: Immediately noted "more than half" when three fragments came together; investigation mode continues; will likely begin analyzing Rafe's experience and the fragment spacing with new data
+- Bryn Dural survey team: 15 people, safely evacuated; returning to Monscollis
+- Shadow Hand: Lost Fragment 3; now know Rafe has escaped; likely to escalate
+- Monscollis: Homecoming established; Declan's reunion with Ollie; Rafe's first view of the crystal spire
+
+---
+
+*Last updated: 2026-03-06*
