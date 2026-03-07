@@ -517,4 +517,63 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-06*
+### Chapter 11 Updates (2026-03-07)
+
+#### Shadow Hand's True Goal (Major Revelation)
+- **Dr. Fletcher confessed:** Turned himself in at the south ridge secondary relay station after four days alone; was recruited by the Shadow Hand nine years ago
+- **The real plan:** Shadow Hand does not want to *use* the Covenant fragments — they want to *shatter* them. All seven.
+- **Mechanism unknown:** Fletcher didn't fully understand how; the word he used was "shatter"
+- **Motive:** Fear. The Shadow Hand is afraid of what the Covenant could do if wielded. Their goal is to make it permanently inert, so no one can ever use it.
+- **Risk to fragment-holders:** Unknown. Fletcher admitted he didn't ask. That's part of why he got scared.
+- **Current status:** Fletcher is talking; Okonkwo has been interviewing him for three-plus hours
+
+#### Rafe — First Days on Monscollis
+- Slept 14 hours on first night — expected after months of habitat stress
+- First morning: borrowed clothes slightly too large, holding fragment out of habit
+- Declan immediately adopted Rafe; gave him toast; did the two-pat-on-knee check — Rafe accepted both
+- Rafe's training: began in the northern forest clearing alongside Ezra; watched Ezra's full extension sequence as orientation
+
+#### Rafe's Power (Confirmed and Named)
+- **Type:** Telekinesis — external object movement, not internal body modification
+- **Demonstrated:** Lifted his amber fragment three inches off his palm and rotated it; controlled and deliberate
+- **Range:** Unknown; never tested far; first deliberate session underway
+- **Limitations:** Small objects at close range so far; not fast; requires focus
+- **Power origin:** Fragment responds to external intention — complementary to Ezra's internal elasticity
+- **Julian's note:** Rafe's power is external where Ezra's is internal; two different modes of the Covenant
+
+#### Julian — Training Notebook (Updated)
+- Notebook now has two sections: "Ez" (Ezra's training log) and "R" (Rafe's training log, newly added)
+- Julian is formally tracking both training progressions
+- Confirmed: Julian extrapolates from sample sizes of one with complete confidence
+
+#### Sable (Updated)
+- Confirmed: She suspected Rafe might have a telekinetic ability based on fragment character ("precise and clear — good for seeing patterns")
+- First genuine, surprised laugh on record — Declan's "Too loud" interruption
+- Relationship with the group continues to deepen naturally
+
+#### Fragment Map (Updated)
+- Fragment 1 (Ezra): Monscollis — training progressing; 10-foot extension stable
+- Fragment 2 (Sable): Vela Station origin — active
+- Fragment 3 (Rafe): Bryn Dural origin — now on Monscollis; telekinesis confirmed
+- Fragments 4 & 5 (Shadow Hand): Inactive, held captive; Shadow Hand cannot activate them
+- Fragment 6 (Sable's third yellow mark): ~4 light-years from Monscollis; signal stronger near Monscollis; no identified holder yet; unnamed star system
+- Fragments 6 & 7: May be dormant (no holder), or holder has not yet been found
+
+#### Declan (Updated)
+- "Too loud" — walked into a silent post-briefing room, assessed it, declared it too loud (it wasn't), and went back to bed satisfied
+- Broke the tension after Okonkwo's revelation; produced the chapter's key laugh from Sable
+- Continues to function as the group's emotional compass and unofficial quality-assurance officer
+
+#### Updated Status
+- Ezra: Steady 10-foot extension; knows the Shadow Hand's real plan; resolved, not afraid
+- Rafe: Integrated into the group; telekinesis confirmed; training begun; Declan has vetted him
+- Sable: Full group member; first genuine laugh
+- Julian: Two-section training notebook; investigation mode fully active
+- Fletcher: In custody, talking; investigation ongoing
+- Voss and Crane: Still at large on Monscollis; under investigation
+- Shadow Hand: Plan confirmed (fragment-shattering); escalating threat; timeline unknown
+- Next logical step: Follow the third yellow mark (Fragment 6, ~4 light-years)
+
+---
+
+*Last updated: 2026-03-07*
