@@ -576,4 +576,65 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-07*
+### Chapter 12 Updates (2026-03-08)
+
+#### Shadow Hand Timeline Escalation (Critical)
+- **Five fragments = shattering threshold:** The Shadow Hand does not need all seven fragments to force the shattering — five is enough. Fletcher revealed this via continued interrogation with Okonkwo
+- **Current count:** Shadow Hand has 2; good-side group has 3. Net = 5 — but Shadow Hand needs 5 *controlled*, which means they need to take 3 more
+- **Strategic implication:** The race is now explicit. Whoever gets to Fragments 6 and 7 first changes the outcome
+
+#### Shadow Hand's "Pattern Reader" (New Intel)
+- **Source confirmed:** The Shadow Hand has a source who understands the Covenant fragment scattering pattern — referred to by Fletcher as a "pattern reader"
+- **Nature:** Someone who was close to the Covenant before the first fragments were discovered; knows how the power scatters and where it lands
+- **Sable's theory:** If the pattern reader had true Covenant access, the fragments may have adjusted their scatter pattern in response — meaning the Shadow Hand's map could be wrong or behind
+- **Unknown:** Who the pattern reader is; whether they are still actively working for the Shadow Hand
+
+#### New Location: HD 34729
+- **Catalog designation:** HD 34729 — unnamed star system, surveyed but not colonized
+- **Distance:** ~3.9 light-years from Monscollis
+- **Fragment status:** Fragment holder confirmed alive and waiting; signal described as "sharp, present, careful" — someone who has been watching a doorway for a long time
+- **Signal quality:** Cleaner and less tired than Rafe's Bryn Dural signal; holder has been okay but knows the situation won't stay okay; has been expecting contact but didn't know when
+
+#### Fragment 4 Signal — First Contact Made
+- **Signal established:** Ezra made contact with the HD 34729 holder via the crystal spire (same amplification method as Bryn Dural relay)
+- **Signal character:** "Sharp, present, careful" — not afraid, just watchful; the relief when Ezra answered was unmistakable
+- **Fragment personality:** Eager to connect; described as having been wanting to reach out for a while
+- **Three-hour range:** The holder's fragment was already pulsing toward the group three hours before the Ariadne arrived at the destination — strong signal reach
+
+#### Mission: HD 34729
+- **Ship:** The Ariadne, piloted by Wren
+- **Team:** Ezra, Julian, Sable, Rafe, Ollie, Marcus (and possibly Dad — not explicitly stated)
+- **Window:** Three hours at destination before jump window closes
+- **Departed:** Chapter 12 ends with the Ariadne en route
+
+#### The Three-Note Chord (New Development)
+- **En route signal:** Three hours out from Monscollis, the HD 34729 fragment began pulsing toward the ship
+- **Effect:** The amber (Rafe) and gold (Ezra) fragments began syncing; the new signal added a third note — "tentative but present"
+- **Sable's read:** Could feel the change even though her own fragment doesn't catch it directly; described the approaching holder as "eager — they've been wanting to connect for a while"
+
+#### Declan (Updated)
+- **"For the lone-ee":** Declan gave Ezra a crumpled piece of pocket-toast before departure — specifically for the person at HD 34729
+- **Established pattern:** Declan's toast-gift is becoming a recognized ritual; he gives toast to people who need something true and simple
+- **The two-knee-pat:** Used on Ezra at departure; Declan's official seal of approval
+
+#### Fragment Map (Updated)
+- Fragment 1 (Ezra): Warm gold, Monscollis — active, training
+- Fragment 2 (Sable): Cool silver-blue, Vela Station origin — active
+- Fragment 3 (Rafe): Warm amber-orange, Bryn Dural origin — active, telekinesis training
+- Fragments 4 & 5 (Shadow Hand): Inactive, held; cannot be activated
+- Fragment 6 (HD 34729): Sharp and careful signal; holder alive; the Ariadne en route; close enough to pulse toward the ship at 3.9 light-years
+- Fragment 7: Unknown; one remaining yellow mark on Sable's chart
+
+#### Updated Status
+- Ezra: En route to HD 34729; pocket-toast mission activated; fragment entering three-note chord phase
+- Rafe: En route; amber fragment syncing with the approaching signal
+- Sable: En route; first time she's actively chasing a signal rather than following one that found her
+- Julian: Asleep on the Ariadne with his notebook (this is a discipline); will have calculated everything when he wakes up
+- Ollie: Went; head on Ezra's knee; confirmed going
+- Declan: Stayed on Monscollis with Mom; fulfilled his mission with the toast
+- Shadow Hand: Has pattern reader advantage but may have wrong/stale map; 2/5 fragments needed; still at large on Monscollis (Voss and Crane)
+- HD 34729 holder: Identity unknown; fragment color/character unknown; signal: sharp, careful, eager, relieved
+
+---
+
+*Last updated: 2026-03-08*
