@@ -637,4 +637,68 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-08*
+### Chapter 13 Updates (2026-03-09)
+
+#### New Character: Petra
+- **Age:** ~13 (was 12 when she arrived on Gerald, 13 now)
+- **Appearance:** Short red hair, close-cropped at sides; pale skin gone weather-tanned; dark eyes; practical worn clothes (not colony-issue, stretched past intended use)
+- **Origin:** Grew up on survey ships; uncle is a geologist doing contract work for multiple colony consortiums; more addresses by age 11 than most adults have by 50
+- **Fragment:** Fourth Covenant fragment — iridescent violet-white stone on a simple cord; color shifts depending on the angle, like the inside of a shell; described as "clear and strange, like the feeling you get when something impossible turns out to be real"
+- **Fragment retrieved from:** HD 34729 (Gerald) drill core sample; found because it was warm when everything else on the planet was cold
+- **Time alone with fragment:** 4 months
+- **Power (demonstrated):** When cornered by the Shadow Hand agent, extreme anger caused a survey outbuilding wall to light up completely — purple-white light; she did not mean to do it; agent fled. Power nature: external light/energy projection, triggered by intensity of emotion; she does not have full control yet
+- **Personality:** Practical, dry humor, blunt (told Ezra he was "shorter than I expected"), resilient; has the self-sufficiency of someone who has been alone and survived it; softens genuinely once she trusts; immediately said "Whatever's next — I want to help" after rescue in Ch 10 analogy
+- **Toast:** Ate Declan's pocket-toast without making a face; ate every bit of it
+- **Declan check:** Received the two-knee-pat; Declan said "Pretty" about her fragment and somehow already knew about Gerald
+- **Trust level:** Immediately integrated; the group closed around her naturally
+
+#### New Location: HD 34729 (Gerald)
+- **Catalog designation:** HD 34729-c — third body around a yellow-orange star; unnamed, not colonized
+- **Distance:** ~3.9 light-years from Monscollis
+- **Appearance:** Blue-grey with green at the poles; cloud cover thin enough to see through; low pewter-grey sky; grey rock surface; heavier air than Monscollis; rain-three-days-ago smell; four moons (two visible at horizon, pale and close together)
+- **Nickname:** "Gerald" — named by Petra; she needed something dependable, and Gerald felt dependable. Now canon.
+- **History:** Survey runner swept it twice, concluded nothing worth colonizing, left. Petra arrived with her uncle's team. Shadow Hand procurement agent embedded in the team tried to take the fragment; Petra ran; wall incident scared him off; survey crew evacuated in emergency runner without realizing Petra wasn't there
+- **Petra's time there:** 11 months total (7 pre-fragment, 4 post-fragment)
+- **Fragment site:** Drill core sample — fragment was warm when everything else was cold
+- **Status:** Evacuated; Petra has left; one small rock in her bag from day one
+
+#### Covenant Fragment Map (Updated)
+- **Fragment 1 (Ezra):** Warm gold, Monscollis — active, training
+- **Fragment 2 (Sable):** Cool silver-blue, Vela Station origin — active
+- **Fragment 3 (Rafe):** Warm amber-orange, Bryn Dural origin — active, telekinesis training
+- **Fragment 4 (Petra):** Iridescent violet-white, Gerald (HD 34729) — newly recovered; power: light/energy projection (not yet controlled)
+- **Fragments 5 & 6 (Shadow Hand):** Inactive, held captive; cannot be activated
+- **Fragment 7:** Unknown; one remaining yellow mark on Sable's chart
+
+*Note: Renumbering — what was previously called Fragment 6 (HD 34729) in earlier entries is now Fragment 4 (Petra) given the discovery order. Shadow Hand holds two fragments which remain unactivated.*
+
+#### The Four-Note Chord
+- **First formed:** Aboard the Ariadne on return to Monscollis; all four fragments together for the first time
+- **Effect:** Gold + amber + silver-blue + iridescent violet-white pulsing in rhythm but not unison; described as "four notes fitting together" / "what music is made of before it becomes sound"
+- **Rafe's description:** His fragment felt like "standing up straighter" near Petra's
+- **Sable's experience:** First time she could feel the full chord directly (not just as change)
+- **Shadow Hand cannot replicate:** Their two fragments are dark and silent; they cannot form any chord
+
+#### Julian Updates
+- Notebook now has entries for Ezra (Ez), Rafe (R), and beginning observations on Petra
+- Immediately logged that Petra's power was external (light projection) while Ezra's is internal (elasticity) and Rafe's is also external (telekinesis) — three different modes of the Covenant
+- Asked Petra what color the wall lit up; wrote it down; underlined it
+- Wrote "Gerald" and underlined it
+
+#### Declan Updates
+- Said "Gerald" before anyone told him about the planet's unofficial name — source of this knowledge unknown and unexplained
+- Gave the two-knee-pat to Petra; said "Pretty" about her fragment
+- Continues to demonstrate awareness beyond what his age should allow
+
+#### Updated Status
+- Ezra: 4 fragments together for first time; carrying Declan's toast mission completed
+- Petra: Integrated; Gerald evacuated; power uncontrolled but demonstrated; training upcoming
+- Rafe: Fragment responded to Petra's arrival three hours before landing; "standing up straighter"
+- Sable: First time experiencing the full four-note chord; something new for her
+- Julian: Three-section training notebook; investigation continues
+- Fragment 7 (remaining yellow mark): Unknown; one more to find
+- Shadow Hand: Have two inactive fragments; pattern reader intelligence may be stale; threat remains
+
+---
+
+*Last updated: 2026-03-09*
