@@ -701,4 +701,58 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-09*
+*Last updated: 2026-03-10*
+
+---
+
+### Chapter 14 Updates (2026-03-10)
+
+#### Shadow Hand Intelligence (Critical Update)
+- **Five-fragment threshold confirmed:** Shadow Hand needs 5 controlled fragments to force the shattering. They have 2; the good-side group has 3. They need 3 more. The race is now explicit.
+- **Pattern reader confirmed:** The Shadow Hand's "pattern reader" has provided accurate fragment location data for at least 2-3 years. They knew about Monscollis before the Mayflower arrived. They knew about Bryn Dural. They knew about Gerald. BUT: the pattern reader cannot identify *who* will pick up a fragment — the Covenant chooses, and that choice is not readable. The pattern reader's advantage is limited.
+- **Sable's theory:** The Covenant may have adjusted its scatter pattern in response to the pattern reader's knowledge — meaning the Shadow Hand's map could be wrong or stale. Not confirmed, but possible.
+- **Voss and Crane (RESOLVED for now):** Both agents quietly moved off Monscollis via freight rotation. They don't know they've been identified until the ship passes the first jump point. NOT a permanent solution — the Shadow Hand will send replacements. But it creates a window.
+- **Leverage strategy confirmed:** Fletcher's intel reveals the Shadow Hand planned to take a fragment *holder* (not the fragment itself) as leverage — they know the power responds to love for the holder, not to the holder directly. This explains the surveillance focus on the kids.
+
+#### Fragment 7 — Seventh Signal
+- **First contact (indirect):** Ezra reached out from the cabin steps at night via slow-pulse method; received a faint, scattered, on-and-off flicker
+- **Character of the signal:** Like someone who noticed a hand reaching toward them in the dark. Not pulling away. Not grabbing on. Just registering.
+- **Hypothesis:** The holder may be young, scared, or not yet accepting the fragment — consistent with Sable's early history of dismissing her own fragment as geology. Scattered signal = holder hasn't acknowledged the power yet.
+- **Pattern reader advantage:** Because the signal is scattered, the Shadow Hand's pattern reader may also be unable to locate Fragment 7 clearly. This is the window Okonkwo referenced.
+
+#### Training Update (Chapter 14)
+- **Ezra:** 10-foot extension clean; tingling started at 9 feet (slight regression from nerves about Voss/Crane); corrected via small ordinary anchor (Declan + noodle incident); recovers quickly now
+- **Petra's power confirmed (controlled):** Mapping focus (cartographic attention, describing a space outward from the center) activates the light projection at low levels; fingertips lit up on first deliberate attempt; violet-white glow visible even in daylight; power is external (same direction as Rafe's — outward, not inward)
+- **Rafe's training:** Successfully lifted and held an unfamiliar object (no prior fragment connection); object wobbles more than the familiar amber fragment; demonstrated at ~3 inches off ground
+- **The Declan Incident:** Declan bypassed Marcus, entered the training area, picked up Rafe's telekinesis stone mid-session, examined it, gave it back. Marcus confirmed Declan is "very fast and moves sideways." Nobody observed him enter. This incident is now in Julian's notebook.
+
+#### Declan (Updated)
+- **Knew about Gerald:** Said the word "Gerald" before anyone in earshot had mentioned it — unknown source; explanation: "Decker know." Now a documented unexplained incident.
+- **"Boo" confirmation:** Chapter 14 exchanges: Declan's usage of "boo" is now recognized as indicating he expects to be included in wherever Ezra goes
+- **Pre-departure ritual:** Gave Ezra the two-knee-pat and said "You go. I stay. Tell lone-ee." — confirmed understanding of the mission and the seventh fragment's situation
+- **Petra adopted:** Declan conducted full soup-technique supervision at dinner; declared Petra's spoon use acceptable
+
+#### Petra — First Days on Monscollis (Updated)
+- **Power training begun:** First deliberate light projection in the new training area; cartographic focus is the anchor
+- **Declan check:** Received two-knee-pat at breakfast the day of arrival; received full soup supervision at dinner; fully vetted
+- **Gerald:** The unofficial name for HD 34729 is now part of the group vocabulary
+
+#### Julian — Training Notebook (Updated)
+- Notebook now has three active training sections: Ez (Ezra), R (Rafe), P (Petra, new)
+- Investigating Petra's power direction (external, like Rafe but different material)
+- Noted: Declan's unauthorized training area entry with the notation "incredible"
+
+#### The Window
+- With Voss and Crane gone and the Shadow Hand temporarily off-balance, the group has a window to locate Fragment 7 before replacements arrive
+- Next logical step: Identify the scattered signal's location; determine if the holder is moving, scared, or simply hasn't accepted the fragment
+
+#### Updated Status
+- Ezra: 10-foot extension stable; first indirect contact with Fragment 7 made; mission focus on the seventh
+- Petra: First power expressed deliberately; integrated into training; soup-approved
+- Rafe: External object telekinesis progressing; stone incident survived
+- Sable: Suspects the Covenant may have adjusted fragment scatter to make the pattern reader's map stale; first time she's proactively chasing a signal
+- Julian: Three-section notebook; Declan incident logged
+- Declan: Vetted Petra; bypassed Marcus; knows about Gerald; has pre-departure ritual
+- Voss and Crane: Gone from Monscollis (temporarily)
+- Shadow Hand: Pattern reader advantage may be stale; leverage strategy confirmed; will send replacements
+- Fragment 7: Scattered signal; holder possibly not yet accepting the power; first flicker of contact received
