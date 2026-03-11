@@ -701,7 +701,68 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-10*
+*Last updated: 2026-03-11*
+
+---
+
+### Chapter 15 Updates (2026-03-11)
+
+#### Fragment 7 Signal — Breakthrough Method
+- **Petra's insight:** Instead of listening for the full signal at once, map it in pieces — same method she used to map Gerald. Start from the center, describe outward.
+- **Result:** Ezra received a clean directional bearing for the first time from Fragment 7 — faint but consistent, not scattered when asked a smaller question
+- **Signal character confirmed:** Warm. Not afraid. Not lonely in the exhausted way Rafe was, not tired the way the Bryn Dural signal felt. Trying to be okay and mostly succeeding — but better if not alone.
+- **Rafe's read:** If the holder is warm, they probably still have their people. Fragment emotional register tracks the holder's circumstances.
+- **Sable's read:** Scattered signal could mean a holder in transit, in high stress, or one who hasn't fully accepted the fragment yet (consistent with Sable's own early history of dismissing the power as geology)
+- **Bearing:** Consistent single direction — not random interference. This is the first clean bearing on Fragment 7.
+
+#### New Location: Meridian Point
+- **Designation:** Commercial transit hub, independent, not colony-affiliated
+- **Appearance:** Three prefab modules bolted together in orbit around an unimpressive star
+- **Distance:** ~8-hour jump from Monscollis; one of two systems along the Fragment 7 bearing
+- **Population:** Ships in transit — resupply, jump prep, short stays; nobody from anywhere in particular
+- **Coffee:** Famously bad (per Wren)
+- **Significance:** If the holder is in transit or lives aboard ships, the signal scattering makes sense; Meridian Point is the likely location of Fragment 7's holder
+- **Status:** The Ariadne departed for Meridian Point at noon; chapter ends en route
+
+#### Shadow Hand — Pattern Reader Limitation Confirmed
+- Cannot identify who will pick up a fragment — the Covenant chooses, and that choice is not readable
+- The scattered nature of Fragment 7's signal means the pattern reader may also be unable to locate it clearly — both sides searching with interference
+- Window created by Voss and Crane's departure remains active
+
+#### Covenant Fragment Signal Mechanics (Updated)
+- **Piece-by-piece method:** Asking for a single aspect of a scattered signal (direction, or emotional register, or warmth) yields cleaner results than trying to receive the whole signal at once
+- **Fragment pulse range confirmed:** Rafe's amber fragment was pulsing toward Fragment 7 from Monscollis — the seventh is close enough to register at planetary range
+- **Crystal spire as amplifier:** Multiple fragments present simultaneously caused the spire to display four color registers: amber, blue, gold, and violet — each fragment adds to the spectrum
+- **En-route signal:** Halfway through the jump to Meridian Point, the Fragment 7 signal became clear and steady — like a heartbeat that knew another heartbeat was coming
+
+#### Origin vs. Intention (New Theory)
+- Julian's hypothesis: Fragment scatter has structure, implying an origin point
+- Sable's counter: "Origin means it happened once and spread outward. Intention means something decided where each one would land."
+- Julian noted this in his notebook (circled twice). Not resolved. To be developed.
+
+#### Mom (Updated)
+- Has a private checklist for evaluating whether a mission is safe enough: three names — Wren, Marcus, Sable
+- Trusts Ezra to go when those three names are present; no longer argues, only asks the three names
+- This change happened gradually; Ezra noted it but doesn't know when exactly it shifted
+
+#### Fragment Map (Updated)
+- Fragment 1 (Ezra): Warm gold, Monscollis — active, training; piece-by-piece method used to find Fragment 7 bearing
+- Fragment 2 (Sable): Cool silver-blue, Vela Station origin — active
+- Fragment 3 (Rafe): Warm amber-orange, Bryn Dural origin — active; already pulsing toward Fragment 7 at planetary range
+- Fragment 4 (Petra): Iridescent violet-white, Gerald — active; piece-by-piece method was Petra's idea
+- Fragments 5 & 6 (Shadow Hand): Inactive, held captive
+- Fragment 7: Warm, not afraid, not lonely; bearer possibly in transit or aboard ships; signal now directional; the Ariadne en route to Meridian Point
+
+#### Updated Status
+- Ezra: First clean directional bearing on Fragment 7; carrying Declan's rock for the seventh holder; en route
+- Petra: Her cartographic insight unlocked the piece-by-piece method; becoming a key contributor to signal strategy
+- Rafe: Fragment actively pulsing toward 7 at long range
+- Sable: Origin-vs-intention theory introduced; en route on the Ariadne for the first time as a full group member (not solo tracker)
+- Julian: Star map triangulation underway; origin-vs-intention noted; new system "Meridian Point" logged; still writing everything down
+- Declan: Gave Ezra a smooth grey rock "for lone-ee" — his rock, not toast; "Lone-ee need it more" — pre-departure ritual complete; stayed on Monscollis
+- Mom: Three-name checklist confirmed; trusts Ezra; she said okay
+- Wren: Confirmed competent transit; Meridian Point familiarity confirmed; first 12 or fewer words this chapter
+- Fragment 7 holder: Warm, not in distress, possibly in transit; identity unknown; will be introduced in Chapter 16
 
 ---
 
