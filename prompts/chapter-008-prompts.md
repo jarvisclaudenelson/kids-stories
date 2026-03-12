@@ -145,7 +145,7 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 
 ## Page 5
 
-**Scene:** Ezra in the cabin living room doing a calm five-foot center-extension — arm extended, soft gold glow from his chest, expression focused and quiet; Sable watching from across the room leaning against the wall; Ollie looking up from his spot by the door
+**Scene:** Ezra eating a sandwich at the kitchen table with the others — he's thinking about the Bryn Dural team, his expression deep in thought; the gold star in his chest pulses with a searching light; Ollie sitting by his feet
 
 **Reference images:**
 - `images/chapter1/page-1.png` (Ezra)
@@ -155,30 +155,86 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ```
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Ezra stands in the middle of the cabin's main living area, right arm extended five feet with the center-extension technique — steady, warm gold glow flowing from his sternum outward through his arm. The power looks calm and indoor-appropriate, self-aware of the low ceiling. Sable leans against the far wall watching him with quiet attention. Ollie lifts his head from his place by the door and looks at Ezra.
+**Scene:** Ezra sitting at the wooden kitchen table, halfway through eating a sandwich. The room is quiet as everyone processes the news about Bryn Dural. Ezra is staring into space, deep in thought about the fifteen missing people. A soft, warm golden glow pulses from his chest through his shirt—a patient, searching heartbeat from the fragment. Ollie is sitting faithfully at his feet, looking up at him.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles — standing still in the middle of the room, right arm extended with warm golden glow from his chest outward; expression focused but not strained; at home in the power now
-- Sable: teenage girl, long dark hair pulled back, tan skin — leaning against the wall with arms loosely crossed, watching Ezra with calm, evaluative attention; not coaching this time, just watching
-- Ollie: medium-sized scruffy Schnoodle, grey-silver curly fur, blue collar — lying near the cabin door, head lifted, looking at Ezra; tail position shows comfortable familiarity, not concern
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, freckles — expression is somber and contemplative; one hand is near his chest where the golden pulse is visible.
+- Ollie: scruffy grey Schnoodle — sitting by Ezra's chair, sensing his owner's mood.
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
-- Afternoon cabin light — warm and ordinary, the practice feeling routine now, not miraculous
+- Afternoon cabin light, slightly dimmed, creating a reflective atmosphere.
 - Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- The gold glow in an indoor, domestic setting — low ceiling, wood walls, a table with cups on it — makes the power feel intimate and personal rather than epic
-- Ezra's posture: grounded, not performing; this is practice, not display
-- Sable's position apart and leaning says: I trust him to do this; I'm not needed right now
-- Mood: something extraordinary becoming ordinary through practice — the domestication of the miraculous
+- Characters must match the uploaded reference images exactly.
+- Mood: Heavy and thoughtful — the moment the stakes of the mission really sink in for Ezra.
 ```
 
 **Save to:** `images/chapter8/page-5.png`
 
 ---
 
-## Page 6 ⭐ KEY SCENE
+## Page 6
+
+**Scene:** Ezra talking to Sable across the table about being scared; Sable sitting with her back to the wall, holding her pendant; Marcus visible in the background checking his radio
+
+**Reference images:**
+- `images/chapter1/page-1.png` (Ezra)
+
+**Prompt:**
+```
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** A close, honest conversation between Ezra and Sable at the kitchen table. Sable is sitting on the floor with her back against the wooden wall, her silver-blue pendant held tight in her hand. Ezra is leaning toward her, asking if she was scared when she found her fragment. In the background, Marcus is standing by the window, checking his radio.
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Ezra: 5-year-old Caucasian boy, dark brown hair — leaning in, expression earnest and seeking truth.
+- Sable: teenage girl, tan skin, long dark hair — expression is open and vulnerable for the first time as she admits her fear; holding her glowing silver-blue pendant.
+- Marcus: (background) tall, capable man, checking a handheld radio.
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Focus on the two children in the foreground; background slightly soft-focus.
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly.
+- Mood: Vulnerable and brave — a moment of shared secret between two people who carry the same weight.
+```
+
+**Save to:** `images/chapter8/page-6.png`
+
+---
+
+## Page 7 ⭐ KEY SCENE
+
+**Scene:** Julian standing up from his notebook, pointing a pencil at the communication relay tower visible through the window — Ezra and Sable looking at him with sudden realization; Ollie alert
+
+**Reference images:**
+- `images/chapter1/page-1.png` (Ezra, Julian)
+
+**Prompt:**
+```
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** Julian stands up quickly from the kitchen table, pointing his pencil toward the window where the colony's tall communication relay tower is visible in the distance. Ezra and Sable are looking at him with eyes wide in sudden realization. The star chart is still visible on the table. Julian has just figured out that someone might be piggybacking a signal.
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair — standing up, pencil pointing toward the window, expression "I've got it!" — triumphant and urgent
+- Ezra: 5-year-old Caucasian boy, dark brown hair, freckles — sitting at the table, looking at Julian with sudden hope and understanding
+- Sable: teenage girl, long dark hair — also looking at Julian, her hand going to her pendant, reacting to his theory
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Dramatic afternoon light; the tall metal communication relay tower is visible through the window, framed by alien trees
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+- Mood: the "Eureka" moment — the sudden shift from theorizing to a plan
+```
+
+**Save to:** `images/chapter8/page-7.png`
+
+---
+
+## Page 8 ⭐ KEY SCENE
 
 **Scene:** Ezra and Sable at the base of the crystal spire at dusk — the tall pale spire rises behind them pulsing with faint light; Sable's pendant glows silver-blue in her open hand; Ezra has his hand pressed to his chest with a warm gold glow; Ollie leans hard against Ezra's leg; Dad and Marcus visible in the background doing a perimeter walk
 
@@ -209,4 +265,4 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 - Mood: the chapter's emotional and narrative peak — something far away and alone has just been heard; the last beat before Chapter 9
 ```
 
-**Save to:** `images/chapter8/page-6.png`
+**Save to:** `images/chapter8/page-8.png`
