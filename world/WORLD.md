@@ -701,7 +701,7 @@ After each story chapter, review and update:
 
 ---
 
-*Last updated: 2026-03-11*
+*Last updated: 2026-03-12*
 
 ---
 
@@ -817,3 +817,62 @@ After each story chapter, review and update:
 - Voss and Crane: Gone from Monscollis (temporarily)
 - Shadow Hand: Pattern reader advantage may be stale; leverage strategy confirmed; will send replacements
 - Fragment 7: Scattered signal; holder possibly not yet accepting the power; first flicker of contact received
+
+---
+
+### Chapter 16 Updates (2026-03-12)
+
+#### New Character: Noa Vasquez
+- **Age:** 12
+- **Appearance:** Dark skin, close-cropped natural hair, enormous headphones (worn around neck), patched colony jacket three sizes too large, practical and self-sufficient
+- **Origin:** Grew up on her mother's cargo ship (*Kessler*, medium-haul, four-colony circuit, 2-year rotation); saw more of the galaxy by age 8 than most people see in a lifetime
+- **Fragment:** Fifth Covenant fragment — warm yellow-green stone looped on a cord at her wrist; found in a cargo crate from a drill site three systems over; was warm when everything else was cold; "warm at me, not just warm"
+- **Fragment retrieved from:** Survey depot stopover; crate logged as "unusual mineral, warm to the touch, inert" — scheduled for lab analysis; Noa wrote a fake authorization line on the manifest and never followed up; survey team never pursued it
+- **Time alone with fragment:** ~14 months
+- **Power:** Not yet demonstrated; fragment is fifth in the group, completing the five-note chord; power nature TBD
+- **Why at Meridian Point:** Her mother's ship took an 18-month deep survey contract (communications-minimal); Noa couldn't follow the Monscollis pull on that route; asked to stay at Meridian Point with hub manager arrangement and 2 months of provisions; had been waiting 6 weeks when the Ariadne arrived
+- **Shadow Hand encounter:** Two agents came through Meridian Point ~4 weeks before rescue; one asked about unusual cargo finds; a second found her alone and offered "help" with her fragment; she read them correctly ("lying about which part he wanted to help with"), moved tables daily for 2 weeks, they left after 5 days; has been watching for their return ever since
+- **Personality:** Practical and self-possessed; reads rooms fast (has done it her whole life); blunt but not unkind; softened noticeably once trust was established; named planets "Gerald" — not her specifically but appreciates the impulse
+- **Declan check:** Passed immediately — Declan waited at the dock unauthorized, held toast, called her "Lone-ee," gave the two-knee-pat, appeared satisfied; Noa ate the toast without making a face; said "I like him"
+- **Ollie check:** Paw on knee, full eye contact, then released — passed; said "I have never had a dog"; was told "You have one now"
+- **Trust level:** Full group integration from first meeting; "Whatever's next — I want to help" implied throughout
+- **Packed in:** 17 minutes; had been ready to leave since day two
+
+#### New Location: Meridian Point
+- **Designation:** Commercial transit hub; officially unnamed, called "Meridian Point" by ships that stop there
+- **Type:** Three prefab modules bolted together in orbit around an unimpressive star; no planet of note; exists entirely because the jump geometry is useful
+- **Atmosphere:** 60 meters wide main module; smells like a decade of recycled meals; mismatched bolted furniture; a bad coffee service counter; famously bad coffee (per Wren)
+- **Population:** In-transit ships; no permanent colony; people from everywhere and nowhere
+- **Hub manager:** Unnamed; holds arrangements for short-term stays
+- **Status:** Noa has left; no significant plot events remaining there
+
+#### Five-Fragment Chord (Major Milestone)
+- **First formed:** Aboard the Ariadne on return to Monscollis; all five active fragments together for the first time
+- **Colors:** Gold (Ezra) + Silver-blue (Sable) + Amber-orange (Rafe) + Iridescent violet-white (Petra) + Warm yellow-green (Noa)
+- **Effect:** Not a sound — "the space between sounds, the pause before a chord resolves"; five different registers in pattern; not unison but structured
+- **Noa's fragment change:** Was warm and scattered before; upon joining the group, became clean and steady — "more itself, the way some things become more clearly what they always were once they're in the right company"
+- **Sable's description:** "The Covenant is less afraid. Of itself. Of what it might become."
+- **Shadow Hand cannot replicate:** Two captured fragments remain dark and silent
+
+#### Noa's Fragment Character (Signal)
+- Pre-group: Warm, not afraid, not lonely; scattered due to movement/transit
+- On arrival at Meridian Point: Warm and increasingly directional; pulling hard toward the Ariadne's signal for the last 3 hours before landing; "enthusiastic"
+- Post-chord: Steady, clear, yellow-green deepened
+
+#### Fragment Map (Final Chapter 16 Status)
+- Fragment 1 (Ezra): Warm gold, Monscollis — active
+- Fragment 2 (Sable): Cool silver-blue, Vela Station — active
+- Fragment 3 (Rafe): Warm amber-orange, Bryn Dural — active
+- Fragment 4 (Petra): Iridescent violet-white, Gerald (HD 34729) — active
+- Fragment 5 (Noa): Warm yellow-green, Meridian Point recovery — newly recovered, now at Monscollis
+- Fragments 6 & 7 (Shadow Hand): Inactive, held captive
+- Fragment 7 (Unknown): One remaining yellow mark on Sable's chart; location unknown; final fragment
+
+#### Updated Status
+- Ezra: Carried and delivered Declan's rock to Noa ("for lone-ee"); five fragments together achieved
+- Noa: Integrated; fragment no longer scattered; at Monscollis; power TBD
+- Declan: Unauthorized dock appearance; toast delivery successful; said "One more" looking at the evening sky — referring to Fragment 7
+- Sable: Five-chord milestone complete; first time this configuration has existed
+- Julian: Five of seven counted immediately upon meeting Noa; notebook logging continues
+- Shadow Hand: Have two inactive fragments; Noa's recovery means 5 active vs. 2 inactive; race for Fragment 7 now the central stakes
+- Fragment 7: One remaining yellow mark; holder unknown; Declan's "One more" sets next chapter direction
