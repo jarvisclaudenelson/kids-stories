@@ -1,37 +1,27 @@
-# Chapter 16 Image Prompts
-
-Generated: 2026-03-12
-
----
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 1
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Julian)
-  • none  (Ollie)
-  • none  (Petra)
-  • none  (Rafe)
-  • none  (Sable)
-  • none  (Wren)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+  • images/chapter16/page-1.png  (Noa)
+  • images/chapter12/page-3.png  (Petra)
+  • images/chapter10/page-4.png  (Rafe)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** The Ariadne docks at Meridian Point — three prefab modules bolted together in orbit around a dim star, angular and functional, six ships in the bays including a massive freight hauler
+**Scene:** Ezra placing his golden star fragment into a hole at the base of the white crystal spire, the other kids holding their fragments.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Julian, 7-year-old boy, sandy blonde hair, hazel/blue eyes, no freckles, competitive expression, wearing colony-style adventure clothes
-- Sable, 15-year-old girl, long dark hair pulled back, tan skin, dark eyes, thin scar along jaw, practical traveler's clothes, silver-blue glowing pendant at neck
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Petra, 13-year-old girl, short red hair close-cropped at sides, pale skin weather-tanned, dark eyes, practical worn clothes, iridescent violet-white glowing fragment on cord
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
-- Wren, adult woman, compact build, close-cropped grey hair, colony pilot uniform, minimal expression, very competent
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
+- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
+- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -43,41 +33,20 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-1.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 2
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Declan)
-  • none  (Ezra)
-  • none  (Julian)
-  • none  (Marcus)
-  • none  (Noa)
-  • none  (Ollie)
-  • none  (Petra)
-  • none  (Rafe)
-  • none  (Sable)
-  • none  (Wren)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Meridian Point main module interior: mismatched chairs and bolted tables, a service counter with bad coffee, a dozen people in colony jumpsuits, a family eating, two engineers at a whiteboard
+**Scene:** A giant beam of rainbow-colored light shooting from the top of the white crystal spire into the starry night sky.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Julian, 7-year-old boy, sandy blonde hair, hazel/blue eyes, no freckles, competitive expression, wearing colony-style adventure clothes
-- Sable, 15-year-old girl, long dark hair pulled back, tan skin, dark eyes, thin scar along jaw, practical traveler's clothes, silver-blue glowing pendant at neck
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Petra, 13-year-old girl, short red hair close-cropped at sides, pale skin weather-tanned, dark eyes, practical worn clothes, iridescent violet-white glowing fragment on cord
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
-- Marcus, adult man, big calm former-soldier type, colony clothes, carries emergency radio, steady protective expression
-- Wren, adult woman, compact build, close-cropped grey hair, colony pilot uniform, minimal expression, very competent
-- Declan, 2-year-old toddler, light brown hair, brown eyes, no freckles, brave cheerful expression, wearing toddler-sized colony clothes
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -89,25 +58,20 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-2.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 3
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Noa)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Ezra scanning the crowded transit hub room with his hand to his glowing chest, following the warm signal, his gaze drawn toward a corner table where Noa sits alone with headphones and a tablet
+**Scene:** The dark Shadow Hand base in the distance with its lights flickering and going out under the rainbow sky.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -119,35 +83,20 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-3.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 4
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Julian)
-  • none  (Noa)
-  • none  (Ollie)
-  • none  (Petra)
-  • none  (Rafe)
-  • none  (Sable)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Noa at her corner table in the transit hub — dark skin, close-cropped hair, huge headphones around her neck, patched oversized jacket, yellow-green glowing fragment stone barely visible at her wrist — looking up calmly as Ezra and the group approach
+**Scene:** The people of the Monscollis colony cheering and waving under the beautiful rainbow-colored sky.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Julian, 7-year-old boy, sandy blonde hair, hazel/blue eyes, no freckles, competitive expression, wearing colony-style adventure clothes
-- Sable, 15-year-old girl, long dark hair pulled back, tan skin, dark eyes, thin scar along jaw, practical traveler's clothes, silver-blue glowing pendant at neck
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Petra, 13-year-old girl, short red hair close-cropped at sides, pale skin weather-tanned, dark eyes, practical worn clothes, iridescent violet-white glowing fragment on cord
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -159,37 +108,30 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-4.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 5
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Julian)
-  • none  (Marcus)
-  • none  (Noa)
-  • none  (Ollie)
-  • none  (Petra)
-  • none  (Rafe)
-  • none  (Sable)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+  • images/chapter16/page-1.png  (Noa)
+  • images/chapter12/page-3.png  (Petra)
+  • images/chapter10/page-4.png  (Rafe)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Noa sitting at the corner table telling her story — how she found the warm fragment in a cargo crate at a survey depot, opened it against the rules, and pocketed it; Julian's notebook open, the whole group leaning in to listen
+**Scene:** The five kids (Julian, Ezra, Rafe, Petra, Noa) wearing shiny gold medals, standing together at a happy party with balloons and music.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Julian, 7-year-old boy, sandy blonde hair, hazel/blue eyes, no freckles, competitive expression, wearing colony-style adventure clothes
-- Sable, 15-year-old girl, long dark hair pulled back, tan skin, dark eyes, thin scar along jaw, practical traveler's clothes, silver-blue glowing pendant at neck
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Petra, 13-year-old girl, short red hair close-cropped at sides, pale skin weather-tanned, dark eyes, practical worn clothes, iridescent violet-white glowing fragment on cord
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
-- Marcus, adult man, big calm former-soldier type, colony clothes, carries emergency radio, steady protective expression
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
+- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
+- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -201,29 +143,24 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-5.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 6
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Noa)
-  • none  (Ollie)
-  • none  (Rafe)
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Ezra)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Ollie walks up to Noa's chair, sits in front of her, makes eye contact, and places one paw on her knee briefly — the group watching; Noa looking back at Ollie, surprised and touched
+**Scene:** Ezra and little Declan sitting on their cabin porch at night, looking at the softly glowing crystal spire in the distance.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -235,35 +172,34 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-6.png
-
 ============================================================
 IMAGE PROMPT — Chapter 16, Page 7
 ============================================================
 
 📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Ezra)
-  • none  (Julian)
-  • none  (Noa)
-  • none  (Ollie)
-  • none  (Petra)
-  • none  (Rafe)
-  • none  (Sable)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+  • images/chapter16/page-1.png  (Noa)
+  • images/chapter1/page-2.png  (Ollie)
+  • images/chapter12/page-3.png  (Petra)
+  • images/chapter10/page-4.png  (Rafe)
+  • images/chapter6/page-1.png  (Sable)
 
 📋 PASTE THIS PROMPT IN CHATGPT:
 ----------------------------------------
 
 Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
 
-**Scene:** Aboard the Ariadne on the jump back to Monscollis: five glowing Covenant fragments held up together — gold, silver-blue, amber-orange, iridescent violet-white, and warm yellow-green — pulsing in rhythm, five different colors mixing in the jump-blue light
+**Scene:** The whole group of friends (Ezra, Julian, Sable, Rafe, Petra, Noa) and Ollie the dog sitting together under a starry sky, looking happy and peaceful.
 
 **Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-- Sable, 15-year-old girl, long dark hair pulled back, tan skin, dark eyes, thin scar along jaw, practical traveler's clothes, silver-blue glowing pendant at neck
-- Rafe, 12-year-old boy, red hair, pale skin, dark freckles, dark eyes, quiet resilient expression, wearing slightly-too-large borrowed colony clothes, amber-orange glowing stone on cord
-- Petra, 13-year-old girl, short red hair close-cropped at sides, pale skin weather-tanned, dark eyes, practical worn clothes, iridescent violet-white glowing fragment on cord
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Julian, 7-year-old boy, sandy blonde hair, hazel/blue eyes, no freckles, competitive expression, wearing colony-style adventure clothes
-- Ollie, Schnoodle dog, grey/silver curly coat, medium-sized, scruffy and loyal, expressive intelligent eyes
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
+- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
+- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
+- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
+- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
 
 **Style instructions:**
 - Pixar/Disney quality 3D animation style
@@ -275,35 +211,3 @@ Generate a Pixar-style 3D animated illustration for a children's sci-fi adventur
 ----------------------------------------
 
 💾 Save output to: images/chapter16/page-7.png
-
-============================================================
-IMAGE PROMPT — Chapter 16, Page 8
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • none  (Declan)
-  • none  (Ezra)
-  • none  (Noa)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Monscollis dock at dusk: Declan standing at the bottom of the Ariadne's ramp holding a piece of toast, looking up at Noa who is stepping off the ramp with her bag for the first time; Ezra nearby; the crystal spire glowing in the background with five colors
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Declan, 2-year-old toddler, light brown hair, brown eyes, no freckles, brave cheerful expression, wearing toddler-sized colony clothes
-- Noa, 12-year-old girl, dark skin, close-cropped natural hair, large headphones around neck, patched oversized colony jacket, confident self-sufficient expression, warm yellow-green glowing stone on wrist cord
-- Ezra, 5-year-old boy, dark brown hair, brown eyes, freckles, gentle curious expression, wearing colony-style clothes, warm gold glow at his chest
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter16/page-8.png
