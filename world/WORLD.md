@@ -53,4 +53,19 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
 - Fragment 7 location still unknown.
 - Noa's power (Fragment 5) has not yet been demonstrated.
 
-*Last updated: 2026-03-13 (Chapter 17 — Season 2 begins)*
+### Chapter 19 — The Final Piece
+
+- **Fragment 7 (Blazing Yellow):** Located in orbit around a dead white dwarf star at the heart of the **Unmapped Belt** (beyond the Outer Ring). Not on a planet — floating free in space. Retrieved by Rafe using telekinesis.
+- **The Unmapped Belt:** Dense rotating asteroid field around a cold white dwarf star. No reliable navigation charts; debris orbits shift continuously. Noa's power activated here to navigate it.
+- **Noa's Power Revealed — "The Boost":** Activated while navigating the Belt. She can *hear* patterns in the debris via her headphones. Power manifested as a yellow-green glow spreading from her fragment through her fingertips into the navigation display. She can translate complex signal patterns into navigational paths. She is annoyed she doesn't have a manual.
+- **The Seven-Fragment Chord:** When all seven fragments were united, they resonated together as a complete chord — not a battle or signal, but a musical whole. Declan felt it most intensely. The dead white dwarf pulsed once with white light in response.
+- **Declan's Role:** Can sense the "song" of the Covenant; heard it building as each fragment was added. Confirmed all seven are now gathered.
+- **Fragment Status:** All 7 fragments now held by the Guardians. The Covenant is complete. Fragment 7 is blazing yellow.
+- **The Covenant Purge:** Still active and aware of the Guardians. Not yet confronted in full — they fled in Chapter 18. They know Fragment 6 was retrieved from the Shale Drift.
+- **Season 2 Open Threads (updated):**
+  - The Covenant is now whole — what does that activate?
+  - The Covenant Purge still hunts the group.
+  - What was the Rift Entity's true nature? It brought Fragment 6 to the kids and then disappeared.
+  - What does the "song being finished" actually mean?
+
+*Last updated: 2026-03-14 (Chapter 19 — All seven fragments united)*
