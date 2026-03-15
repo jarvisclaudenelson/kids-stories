@@ -68,4 +68,20 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - What was the Rift Entity's true nature? It brought Fragment 6 to the kids and then disappeared.
   - What does the "song being finished" actually mean?
 
-*Last updated: 2026-03-14 (Chapter 19 — All seven fragments united)*
+### Chapter 20 — The Covenant Whole
+
+- **The Covenant Cradle:** An ancient underground chamber discovered beneath the red-rock plain on the western edge of Monscollis Colony. Round chamber, smooth black stone walls covered in spiral carvings (matching Shale Drift). Contains a seven-sided stone dais with seven fragment-shaped depressions. Hidden — no visible entrance until the seven fragments activated it.
+- **The Key / Beacon:** When all seven fragments were brought together near the Cradle, they broadcast a combined signal that activated the spiral carvings in the rock and opened a door. Declan sensed the location immediately ("Here").
+- **Fragment Placement:** Declan placed all seven fragments in their dais depressions, one by one. Each one emitted a single clean note as it settled. All seven together produced the complete Covenant chord.
+- **Fragments Now Resting:** The seven fragments hover in a slow ring above the dais, glowing in their combined light. They are no longer carried by individual Guardians — they are "home."
+- **What the Broadcast Means (Noa):** The seven-fragment signal is broadcasting "somewhere." Destination unknown. Noa can hear it through her headphones but cannot yet decode the content.
+- **Declan's Role:** Sensed the Cradle location immediately. Directed the placement of every fragment. Acts as the "song-keeper" of the Covenant — he heard it building from Fragment 1 and recognized when it was complete.
+- **Colony Impact:** Colony went about its day unaware. The Covenant activation was felt only by the Guardians. The spiral carvings now radiate outward under the plain — extent unknown.
+- **Season 2 Open Threads (updated):**
+  - The Covenant is now whole and active — what does the broadcast activate or summon?
+  - Where is the signal going? Is it an invitation, a warning, or a lock being opened?
+  - The Covenant Purge still hunts the group — do they know the Cradle has been found?
+  - The Rift Entity's fate and true nature remain unknown.
+  - What did the dead star's single white pulse in Chapter 19 mean?
+
+*Last updated: 2026-03-15 (Chapter 20 — The Covenant Whole; Cradle discovered on Monscollis)*
