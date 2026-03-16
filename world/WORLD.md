@@ -84,4 +84,21 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - The Rift Entity's fate and true nature remain unknown.
   - What did the dead star's single white pulse in Chapter 19 mean?
 
-*Last updated: 2026-03-15 (Chapter 20 — The Covenant Whole; Cradle discovered on Monscollis)*
+### Chapter 21 — What the Covenant Opens
+
+- **Noa's Decode:** Noa decoded the seven-fragment broadcast signal over four days. It has two parts: (1) a deep-space coordinate address — a location far outside known space — and (2) a structure matching the Cradle door mechanism. She describes it as a "charging dock signal" reaching out to somewhere.
+- **The New Script:** A section of the Cradle chamber wall activated after the seventh fragment was placed. Sable read one cluster of it: *"What remains when the song is whole?"* — a question directed at the Guardians themselves, not at the Covenant.
+- **Ezra's Answer:** Ezra concluded that "what remains" is the Guardians — the fragments are home, the mission is complete, and the question is about who the kids are and what they do next.
+- **"They're Coming":** Declan pressed his palm to the unread wall section, causing the entire chamber to illuminate. He announced: *"They're coming."* He communicated (via gesture + simple words) that the Covenant was built *for* the Guardians, the signal went up and far, and the builders are now on their way back.
+- **Ten Days:** Declan indicated (ten fingers) that arrival is approximately ten days away.
+- **The Builders:** Identity unknown — the people/beings who created the Covenant fragments and the Cradle. Not confirmed hostile or benign. Their arrival is the next major story event.
+- **Petra's Snack Bar Habit:** Started keeping snack bars in her jacket pocket since the Shale Drift mission. Now on her third in two days. Not a power. Just a detail.
+- **Season 2 Open Threads (updated):**
+  - Who built the Covenant, and what are they? (Arriving in ~10 days)
+  - What does the deep-space coordinate address point to?
+  - What does "What remains when the song is whole?" fully mean for the Guardians?
+  - The Covenant Purge — do they know the Cradle has been found and the signal is broadcasting?
+  - The Rift Entity's fate and true nature remain unknown.
+  - What did the dead star's single white pulse in Chapter 19 mean?
+
+*Last updated: 2026-03-16 (Chapter 21 — What the Covenant Opens; builders inbound, ten days)*
