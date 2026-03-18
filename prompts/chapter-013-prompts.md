@@ -1,231 +1,37 @@
-============================================================
-IMAGE PROMPT — Chapter 13, Page 1
-============================================================
+# Chapter 13 Image Prompts
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter16/page-1.png  (Noa)
-  • images/chapter1/page-2.png  (Ollie)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-  • images/chapter6/page-1.png  (Sable)
+## Page 1
+**Scene:** Arriving at HD 34729 (Gerald). A blue-grey planet with green poles seen from space. Low pewter sky with two pale moons close together on the horizon.
+**Prompt:** Pixar-style 3D animation, 16:9. A blue-grey planet with green poles (HD 34729) seen from a sci-fi ship's window. A low, pewter-colored sky with two pale moons close together on the horizon. Beautiful, quiet space vista. No text bubbles.
 
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
+## Page 2
+**Scene:** Finding Petra on the ridge. She is an eleven-year-old girl with cropped red hair, sitting on a flat rock. She has an iridescent violet-white fragment on a cord around her neck.
+**Prompt:** Pixar-style 3D animation, 16:9. On a rocky ridge of a desolate planet. Petra (11-year-old girl, cropped red hair, weather-tanned skin, practical clothes) is sitting on a flat rock. She wears an iridescent violet-white fragment stone on a cord. No text bubbles.
 
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+## Page 3
+**Scene:** Meeting Petra. Ezra (5, dark hair), Sable (16, dark hair), and Rafe (teen, dark hair) meet Petra on the ridge. Ollie (grey Schnoodle) is already at Petra's knee.
+**Prompt:** Pixar-style 3D animation, 16:9. Ezra (5, dark hair), Sable (16), and Rafe (teen) meeting Petra on the rocky ridge. Ollie (grey Schnoodle) is already standing by Petra, looking friendly. The fragments are all glowing softly. No text bubbles.
 
-**Scene:** The giant metal space station Meridian Point with many different spaceships docked around it.
+## Page 4
+**Scene:** The four-note chord. Inside the Ariadne ship, the four fragments (gold, amber, silver-blue, and violet-white) are all glowing together, creating a magical atmosphere.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the sci-fi ship Ariadne. The four fragments (gold, amber, silver-blue, and iridescent violet-white) are all glowing together on the table, creating a beautiful and complex chord of light. Magical atmosphere. No text bubbles.
 
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
+## Page 5
+**Scene:** Petra's story. She is sitting in the ship, telling the group about the "purple-white" wall incident. She looks serious and a bit haunted by the memory.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the ship. Petra is sitting with the group, telling a story. She looks serious and intense. The others are listening with expressions of wonder and concern. Warm interior lighting. No text bubbles.
 
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
+## Page 6
+**Scene:** Gerald. Petra is explaining why she named the planet "Gerald." Julian (7, sandy blonde) is writing the name "Gerald" in his notebook, looking thoughtful.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the ship. Petra is talking, and Julian (7, sandy blonde) is writing the name "Gerald" in his notebook with an expression of thoughtful acceptance. A lighthearted moment amidst the seriousness. No text bubbles.
 
-----------------------------------------
+## Page 7
+**Scene:** Leaving Gerald. The Ariadne is taking off from the grey-green planet. Petra is standing with her hand against the viewport glass, looking at the retreating ground.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the ship. Petra is standing with her hand against the viewport glass, looking down at the grey-green planet of Gerald as the ship ascends. A look of quiet reflection and relief on her face. No text bubbles.
 
-💾 Save output to: images/chapter13/page-1.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 2
-============================================================
+## Page 8
+**Scene:** The toast gift. Petra is eating the small, crumpled piece of pocket-toast that Ezra gave her. Ezra is watching her with a warm, caring expression.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the ship. Petra is eating a small, crumpled piece of toast. Ezra (5, dark hair) is watching her with a warm, caring, and happy expression. Emotional connection between the two characters. No text bubbles.
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter16/page-1.png  (Noa)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Noa sitting in a busy space station coffee shop, large headphones around her neck, showing her yellow-green glowing stone to Ezra.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-2.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 3
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter16/page-1.png  (Noa)
-  • images/chapter12/page-3.png  (Petra)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** The kids (Ezra, Noa, Julian, Petra, Rafe) hiding behind large cargo crates in a narrow space station hallway, Shadow Hand agents walking past.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-3.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 4
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter16/page-1.png  (Noa)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Ezra handing a smooth grey rock to Noa inside the spaceship cabin, Noa looking touched.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-4.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 5
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter16/page-1.png  (Noa)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Five fragments (gold, blue, orange, purple, yellow-green) pulsing together in a beautiful chord of light inside the spaceship.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-5.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 6
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter16/page-1.png  (Noa)
-  • images/chapter1/page-2.png  (Ollie)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Noa smiling and petting Ollie the scruffy grey dog who has his head on her knee.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-6.png
-============================================================
-IMAGE PROMPT — Chapter 13, Page 7
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter16/page-1.png  (Noa)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** The group of five friends sitting together in the spaceship at night, looking out at the stars, feeling happy and safe.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-- Noa: 12-year-old Black girl, short cropped natural hair, dark observant eyes, wearing a large patched jacket and a yellow-green glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter13/page-7.png
+## Page 9
+**Scene:** Return to Monscollis. The whole team (Ezra, Julian, Sable, Rafe, Petra, and Ollie) is walking toward the colony hall. Declan is at the door, pointing and saying "Gerald?"
+**Prompt:** Pixar-style 3D animation, 16:9. Back at the Monscollis colony. The whole team of kids (Ezra, Julian, Sable, Rafe, and Petra) is walking toward the hall with Ollie. Declan (2, toddler) is at the cabin door, pointing and looking curious. Everyone looks unified. No text bubbles.

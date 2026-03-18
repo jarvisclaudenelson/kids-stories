@@ -1,209 +1,37 @@
-============================================================
-IMAGE PROMPT — Chapter 11, Page 1
-============================================================
+# Chapter 11 Image Prompts
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Declan)
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter10/page-4.png  (Rafe)
+## Page 1
+**Scene:** Rafe in the cabin doorway after waking up from a long sleep. He is wearing borrowed colony clothes that are slightly too big and holding his amber fragment loosely in his hand.
+**Prompt:** Pixar-style 3D animation, 16:9. Rafe (teen boy, tan skin, dark hair) standing in the cabin doorway. He is wearing borrowed green colony clothes that are a bit too large for him. He is holding his amber fragment stone loosely in his hand. No text bubbles.
 
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
+## Page 2
+**Scene:** Mealtime at the Main Hall. Rafe is sitting between Ezra (5, dark hair) and Sable (16, dark hair). Julian (7, sandy blonde) is sitting across from them with his notebook open.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the bustling Monscollis Main Hall. Rafe is sitting between Ezra and Sable at a long wooden table. Julian is sitting across from them, intensely focused on his notebook. No text bubbles.
 
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+## Page 3
+**Scene:** Declan and Rafe. Declan (2, toddler) is holding up a piece of toast to Rafe. Rafe looks surprised but is taking the toast with a small smile.
+**Prompt:** Pixar-style 3D animation, 16:9. Declan (2, toddler) in his pajamas is holding up a piece of toast as an offering to Rafe. Rafe looks surprised but touched, taking the toast with a small smile. Ollie is sitting nearby. No text bubbles.
 
-**Scene:** Declan handing a piece of toast to a smiling Rafe, Ezra watching in the background, a warm colony cabin setting.
+## Page 4
+**Scene:** Ezra training in the clearing. He is extending his arm ten feet long while Rafe watches from a mossy fallen log. Sable is supervising.
+**Prompt:** Pixar-style 3D animation, 16:9. In the secret forest clearing. Ezra (5, dark hair) is training his elasticity power—his arm is stretched out long toward a tree. Rafe is sitting on a mossy fallen log, watching the demonstration with interest. No text bubbles.
 
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+## Page 5
+**Scene:** Rafe's power demonstration. The amber-orange fragment is lifting three inches off Rafe's open palm and rotating slowly in the air.
+**Prompt:** Pixar-style 3D animation, 16:9. Rafe is holding his palm up, and his amber-orange fragment stone is levitating three inches above it, rotating slowly. It emits a soft orange glow. Magical telekinesis moment. No text bubbles.
 
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
+## Page 6
+**Scene:** Close-up of Julian's training notebook. The page is open, showing divider tabs labeled "Ez" and "R" in careful block letters.
+**Prompt:** Pixar-style 3D animation, 16:9. Close-up of Julian's training notebook. The notebook is open to a page with divider tabs on the edge labeled "Ez" and "R" in neat block letters. Numbers and notes are written on the pages. No text bubbles.
 
-----------------------------------------
+## Page 7
+**Scene:** Captain Okonkwo's news. She is sitting with the group in the cabin at night, her expression serious as she tells them about the Shadow Hand's "shatter" plan.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the cabin at night under warm light. Captain Okonkwo is sitting with the group (Sable, Julian, Ezra, Rafe). She has a very serious expression as she speaks. Everyone looks shocked and concerned. No text bubbles.
 
-💾 Save output to: images/chapter11/page-1.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 2
-============================================================
+## Page 8
+**Scene:** Sable's star chart. She is pointing to the remaining yellow marks on the map. There are three remaining signatures left.
+**Prompt:** Pixar-style 3D animation, 16:9. Sable is pointing to the three remaining yellow marks on her star chart. The group is gathered around the table, focusing on the map. Intense, focused atmosphere. No text bubbles.
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter8/page-1.png  (Captain)
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Captain Okonkwo and Sable in a serious meeting at a wooden table, Ezra and Julian listening intently.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Captain Okonkwo: adult Black woman, short silver-gray locs, compact build, calm wise expression, wearing a dark green colony jacket
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-2.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 3
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Julian)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Julian counting on his fingers with a determined look, 2 fingers on one hand and 3 on the other.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-3.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 4
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter10/page-4.png  (Rafe)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Ezra in the forest stretching his arm out 10 feet to touch a high tree branch, Rafe watching with wide eyes.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-4.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 5
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-2.png  (Ollie)
-  • images/chapter10/page-4.png  (Rafe)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Rafe focusing on a heavy fallen tree branch that is floating in the air, Ollie the dog looking up at it.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-5.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 6
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Sable talking to Julian who is drawing lines and patterns in his notebook, a starry map in the background.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-6.png
-============================================================
-IMAGE PROMPT — Chapter 11, Page 7
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Declan)
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter10/page-4.png  (Rafe)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Declan tucking a small blanket around Rafe's feet in a bunk bed, Ezra watching from his own bed, a cozy nighttime feel.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter11/page-7.png
+## Page 9
+**Scene:** Ezra in the dark cabin at night. He is looking at his hand, and the golden star fragment in his chest is glowing through his shirt, illuminating the room softly.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the dark cabin at night. Ezra (5, dark hair) is looking at his hand. The golden star fragment in his chest is glowing softly through his shirt, casting a warm golden light around him. Peaceful, magical atmosphere. No text bubbles.

@@ -1,137 +1,37 @@
 # Chapter 5 Image Prompts
 
-Generated for: **Chapter 5 — The Hunt Begins** (Ezra's first deliberate power training; unknown watcher appears)
-
----
-
 ## Page 1
-
-**Scene:** Ezra standing at the cabin window watching two Shadow Hand agents in the tree line, golden star glow visible under his shirt, Ollie growling at the front door, Julian holding Declan, Dad looking through window crack
-
-**Reference images:**
-- `images/chapter1/page-1.png` (Declan, Ezra, Julian)
-- `images/chapter1/page-2.png` (Ollie)
-
-**Prompt:**
-```
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-Scene: Ezra standing at the cabin window watching two Shadow Hand agents in the tree line, golden star glow visible under his shirt, Ollie growling at the front door, Julian holding Declan, Dad looking through window crack
-
-Characters in this scene (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-
-Style instructions:
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- Two shadowy figures visible through the window in the tree line outside; cabin interior is warm and cozy but tense
-```
-
-**Save to:** `images/chapter5/page-1.png`
-
----
+**Scene:** Inside the cabin at dawn. Dad is looking through the window at the forest, looking calm but serious. Ollie is growling at the front door.
+**Prompt:** Pixar-style 3D animation, 16:9. Early morning inside the cozy cabin. Dad is looking out the window with a calm, serious expression. Ollie (grey Schnoodle) is standing by the door, growling softly. Blue morning light. No text bubbles.
 
 ## Page 2
+**Scene:** Two of Fletcher's men (gray uniforms) standing in the tree line just outside the cabin. They aren't hiding, just watching. They look "empty."
+**Prompt:** Pixar-style 3D animation, 16:9. Exterior view of the forest edge near the cabin. Two men in gray uniforms (Fletcher's team) standing still in the tree line, watching the cabin. They look cold and empty-eyed. Foggy morning light. No text bubbles.
 
-**Scene:** Maya bursting through the back door with Tyler, spreading Marcus's hand-drawn colony map on the counter showing red circles marking Shadow Hand positions around the colony buildings and Deep Dig
+## Page 3
+**Scene:** Maya and Tyler in the cabin kitchen. Maya is showing the family a hand-drawn map of the colony with red circles on it.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the cabin kitchen. Maya (8, red hair) is showing a hand-drawn map of the colony to Julian, Ezra, and their parents. The map has several spots circled in red. Everyone looks serious and focused. No text bubbles.
 
-**Reference images:**
-- `images/chapter3/page-4.png` (Maya, Tyler)
+## Page 4
+**Scene:** The training group heading into the dense north forest. Marcus (Maya's dad, big and quiet) is walking with them. Ollie is leading the way.
+**Prompt:** Pixar-style 3D animation, 16:9. A group (Julian, Ezra, Dad, Marcus, Maya, Tyler, and Ollie the dog) walking through a dense, beautiful alien forest with towering pines and copper-colored needles on the ground. Marcus is a big, quiet Black man in practical clothes. Natural forest lighting. No text bubbles.
 
-**Prompt:**
-```
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+## Page 5
+**Scene:** The secret training clearing. Three massive fallen trees covered in blue-green moss. Ezra is standing in the middle, trying to concentrate.
+**Prompt:** Pixar-style 3D animation, 16:9. A secret forest clearing with three massive fallen tree trunks covered in blue-green moss. Ezra (5, dark hair) is standing in the center, concentrating hard. Julian and the others are watching from the side. Peaceful, hidden atmosphere. No text bubbles.
 
-Scene: Maya bursting through the back door with Tyler, spreading Marcus's hand-drawn colony map on the counter showing red circles marking Shadow Hand positions around the colony buildings and Deep Dig
+## Page 6
+**Scene:** Ezra's arm stretching six feet across the clearing. It looks like a rubber band reaching for a distant tree. Everyone is watching in awe.
+**Prompt:** Pixar-style 3D animation, 16:9. Ezra (5, dark hair) is training his power—his arm has stretched six feet across the clearing, reaching toward a tree trunk like a long rubber band. Julian is cheering, Marcus is watching with interest. Magical elasticity power. No text bubbles.
 
-Characters in this scene (use the uploaded reference images for consistency):
-- Maya: 8-year-old girl, colonist kid (see reference image for appearance details), wearing colony clothes
-- Tyler: 9-year-old boy, colonist kid (see reference image for appearance details), wearing colony clothes
+## Page 7
+**Scene:** Ezra stretching both arms at once, looking like "person-shaped silly putty." He is laughing/grinning as he experiments with his power.
+**Prompt:** Pixar-style 3D animation, 16:9. Ezra is grinning as he stretches both of his arms and legs simultaneously, looking like a person-shaped piece of flexible putty. He is experimenting with his new powers. Playful, magical moment. No text bubbles.
 
-Style instructions:
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- Hand-drawn map visible on kitchen counter with red circles marked around colony landmarks
-```
+## Page 8
+**Scene:** Ollie goes still, hackles up, looking into the northeast trees. The group has stopped training and is looking where Ollie is looking.
+**Prompt:** Pixar-style 3D animation, 16:9. Ollie (grey Schnoodle) has gone completely still in the forest, hackles up, growling at something in the distance. The kids and adults have stopped training and are looking toward the northeast woods with concerned expressions. Tense atmosphere. No text bubbles.
 
-**Save to:** `images/chapter5/page-2.png`
-
----
-
-## Page 3 ⭐ KEY SCENE
-
-**Scene:** Ezra in the northern forest clearing stretching his arm eight feet to reach a tree trunk, mouth open in surprise, Julian and Tyler watching in amazement, Dad and Marcus smiling from a mossy log, Ollie sitting nearby
-
-**Reference images:**
-- `images/chapter1/page-1.png` (Ezra, Julian)
-- `images/chapter1/page-2.png` (Ollie)
-- `images/chapter3/page-4.png` (Tyler)
-
-**Prompt:**
-```
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-Scene: Ezra in the northern forest clearing stretching his arm eight feet to reach a tree trunk, mouth open in surprise, Julian and Tyler watching in amazement, Dad and Marcus smiling from a mossy log, Ollie sitting nearby
-
-Characters in this scene (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-- Tyler: 9-year-old boy, colonist kid (see reference image for appearance details), wearing colony clothes
-- Dad: 30s Caucasian man, steady thoughtful expression, colony survivor clothes
-- Marcus (Maya/Tyler's dad): large, calm, broad-shouldered man with a quiet soldier bearing, colony clothes
-
-Style instructions:
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- Ezra's arm stretches impossibly long across the clearing like rubber, golden glow at the shoulder where it stretches
-- Forest clearing: three massive fallen logs covered in pale blue-green moss, tall alien pine trees surrounding
-```
-
-**Save to:** `images/chapter5/page-3.png`
-
----
-
-## Page 4 ⭐ KEY SCENE
-
-**Scene:** Ollie frozen with hackles raised growling toward the dark forest, a shadowy figure barely visible 70 feet away between alien pine trees — then aftermath: Julian and Ezra at the clearing edge staring at where the figure vanished, Julian calculating, Ezra's hand pressed to his glowing chest, Ollie pressed against Ezra's leg
-
-**Reference images:**
-- `images/chapter1/page-1.png` (Ezra, Julian)
-- `images/chapter1/page-2.png` (Ollie)
-
-**Prompt:**
-```
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-Scene: Ollie frozen with hackles raised, all four legs planted, growling toward the dark forest, the whole group gone silent and still, a shadowy figure in dark clothes barely visible 70 feet away between alien pine trees. Julian gone very still and calculating, Ezra's hand pressed to his glowing chest, Ollie pressed warmly against Ezra's leg.
-
-Characters in this scene (use the uploaded reference images for consistency):
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar — hackles raised, stiff-legged, intense
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles — hand pressed to chest, faint golden glow, eyes wide
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes — gone very still, staring ahead, expression calculating
-
-Style instructions:
-- Pixar/Disney quality 3D animation style
-- Tense dramatic lighting fading to cool forest shadow, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-- Mysterious figure in dark clothing barely visible in shadows of distant alien pine trees — silhouette only, ominous
-- Faint golden glow from Ezra's chest illuminating his and Julian's faces from below
-- Atmospheric: shafts of alien light through tall canopy, copper-needle forest floor
-```
-
-**Save to:** `images/chapter5/page-4.png`
+## Page 9
+**Scene:** A mysterious shadow figure in dark clothes watching from seventy feet away. It's not a gray-uniformed scientist, but someone else.
+**Prompt:** Pixar-style 3D animation, 16:9. A distant, mysterious figure in dark, shadowy clothes standing still between the massive alien trees, watching the group from seventy feet away. The figure looks enigmatic and quiet. Deep forest shadows. No text bubbles.

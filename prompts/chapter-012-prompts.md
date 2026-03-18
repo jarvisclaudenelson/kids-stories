@@ -1,219 +1,37 @@
-============================================================
-IMAGE PROMPT — Chapter 12, Page 1
-============================================================
+# Chapter 12 Image Prompts
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter6/page-1.png  (Sable)
+## Page 1
+**Scene:** Early morning in the cabin. Julian (7, sandy blonde) is sitting at the table with his hands flat on the star chart, staring intensely at it like he's solving a puzzle.
+**Prompt:** Pixar-style 3D animation, 16:9. Early morning in the cozy cabin. Julian (7, sandy blonde) is sitting at the wooden table with his hands flat on a hand-drawn star chart, staring at it with intense focus. Blue morning light. No text bubbles.
 
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
+## Page 2
+**Scene:** Close-up of the star chart. A small handwritten scale is visible at the edge. A finger is pointing at the yellow mark labeled "HD 34729."
+**Prompt:** Pixar-style 3D animation, 16:9. Close-up of a hand-drawn star chart on a table. A small, neat handwritten scale is in the corner. A finger (Julian's) is pointing to a yellow mark labeled with the code "HD 34729." Detailed map. No text bubbles.
 
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+## Page 3
+**Scene:** Breakfast at the Main Hall. Rafe (teen boy, dark hair) is holding a steaming cup of coffee with both hands, looking more refreshed. Declan (2, toddler) is pointing at the coffee pot.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the Monscollis Main Hall at breakfast. Rafe is sitting at a table, holding a steaming mug of coffee and looking refreshed. Declan (2, toddler) is pointing at the coffee pot with a serious expression. No text bubbles.
 
-**Scene:** Julian shouting excitedly and pointing to his notebook, Ezra and Sable looking at a star map on a screen.
+## Page 4
+**Scene:** Captain Okonkwo's update. She is sitting with the group, her face serious. She is telling them about the Shadow Hand's plan to shatter the fragments with only five pieces.
+**Prompt:** Pixar-style 3D animation, 16:9. Captain Okonkwo is sitting with Ezra, Julian, Sable, and Rafe at the cabin table. She looks very serious as she speaks. Everyone is listening with expressions of concern and focus. No text bubbles.
 
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
+## Page 5
+**Scene:** Signal search at the Crystal Spire. Ezra (5, dark hair) is at the base of the massive crystal structure at midday. His eyes are closed and he is concentrating deeply.
+**Prompt:** Pixar-style 3D animation, 16:9. Midday at the base of the massive, translucent Crystal Spire. Ezra (5, dark hair) is standing close to the crystal with his eyes closed, concentrating deeply on sending a signal. Bright, natural lighting. No text bubbles.
 
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
+## Page 6
+**Scene:** The response signal. Ezra's face shows a look of relief and connection. A soft golden glow is coming from his chest. Sable and Rafe are watching him.
+**Prompt:** Pixar-style 3D animation, 16:9. Ezra's face lights up with a look of relief and connection. A soft golden glow is emanating from his chest. Sable and Rafe are watching him with expressions of hope. High-stakes, magical moment. No text bubbles.
 
-----------------------------------------
+## Page 7
+**Scene:** Packing for the mission. Julian is standing with his clipboard and notebook, checking off items on a list while the others pack gear into bags.
+**Prompt:** Pixar-style 3D animation, 16:9. Inside the cabin. Julian (7, sandy blonde) is standing with a clipboard, checking off items on a list. Sable, Rafe, and Ezra are packing gear and supplies into bags in the background. Busy, purposeful atmosphere. No text bubbles.
 
-💾 Save output to: images/chapter12/page-1.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 2
-============================================================
+## Page 8
+**Scene:** Declan's gift. Declan (2, toddler) is giving Ezra a small, crumpled piece of toast. Ezra is taking it carefully and putting it in his shirt pocket.
+**Prompt:** Pixar-style 3D animation, 16:9. Declan (2, toddler) in his pajamas is giving Ezra a small, crumpled piece of toast. Ezra is taking it carefully and tucking it into his front shirt pocket with a serious, grateful look. Emotional, sweet moment. No text bubbles.
 
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Declan)
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter1/page-2.png  (Ollie)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** The silver spaceship Ariadne zooming through a field of stars and small moons.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
-- Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-2.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 3
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter12/page-3.png  (Petra)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Petra running on the rocky surface of planet Gerald, a man in a grey suit chasing her in the distance.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-3.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 4
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter12/page-3.png  (Petra)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Petra standing tall with her hands glowing with bright purple-white light, a Shadow Hand agent running away in fear.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-4.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 5
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Ezra and Rafe showing their glowing fragments to a surprised and happy Petra.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-5.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 6
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Declan)
-  • images/chapter12/page-3.png  (Petra)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** Declan handing a piece of crumpled toast to Petra, who is taking a big bite and smiling.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-6.png
-============================================================
-IMAGE PROMPT — Chapter 12, Page 7
-============================================================
-
-📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
-  • images/chapter1/page-1.png  (Ezra)
-  • images/chapter1/page-1.png  (Julian)
-  • images/chapter12/page-3.png  (Petra)
-  • images/chapter10/page-4.png  (Rafe)
-  • images/chapter6/page-1.png  (Sable)
-
-📋 PASTE THIS PROMPT IN CHATGPT:
-----------------------------------------
-
-Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
-
-**Scene:** The team of kids (Ezra, Julian, Sable, Rafe, Petra) standing together on the spaceship, all their fragments glowing in different colors.
-
-**Characters in this scene** (use the uploaded reference images for consistency):
-- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
-- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
-- Sable: 15-year-old girl, long dark hair pulled back, dark eyes, thin scar on jaw, wearing practical explorer clothes and a silver-blue glowing pendant
-- Rafe: 12-year-old Caucasian boy, bright red messy hair, dark eyes, lots of freckles, lanky build, wearing survey team habitat clothes and an amber-orange glowing stone
-- Petra: 13-year-old Caucasian girl, short red hair, sharp dark eyes, athletic build, wearing practical traveler clothes and a violet-white glowing stone
-
-**Style instructions:**
-- Pixar/Disney quality 3D animation style
-- Warm cinematic lighting, adventure movie feel
-- Landscape format (16:9)
-- Characters must match the uploaded reference images exactly
-- Rich detail in environment and expressions
-
-----------------------------------------
-
-💾 Save output to: images/chapter12/page-7.png
+## Page 9
+**Scene:** Lift-off in the Ariadne. The white sci-fi ship is lifting off from the colony landing pad. Below it, the colony buildings and the pulsing Crystal Spire are getting smaller.
+**Prompt:** Pixar-style 3D animation, 16:9. The white sci-fi ship (Ariadne) lifting off into the sky. Below, the Monscollis colony buildings and the pulsing Crystal Spire are visible, getting smaller as the ship ascends. Beautiful, epic vista. No text bubbles.
