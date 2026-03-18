@@ -101,4 +101,25 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - The Rift Entity's fate and true nature remain unknown.
   - What did the dead star's single white pulse in Chapter 19 mean?
 
-*Last updated: 2026-03-16 (Chapter 21 — What the Covenant Opens; builders inbound, ten days)*
+### Chapter 22 — Ten Days
+
+- **Julian's Whiteboard:** Julian's response to the Builders' arrival was a detailed plan whiteboard labeled "TEN DAYS — A PLAN." It had a column called "Things We Already Know." The column was empty. This is accurate.
+- **Sable's Chamber Work:** Sable spent mornings in the Cradle working through the spiral carvings via pattern-sense. She can feel structure and language but cannot fully translate — except the section Declan touched, which she believes refers specifically to the Guardians (not the Covenant, not the fragments).
+- **Noa's Coordinate Decode:** Noa decoded two more lines of the coordinate string. The Builders' point of origin is in a completely unmapped region — zero surveys, zero colony records. Could be current home or historical origin point.
+- **The Gold Fragment's Mood:** Ezra noticed the gold fragment's urgency is gone. Replaced by something like patience. He interprets this as a positive sign.
+- **Declan in the Cradle:** Declan visited the Cradle alone on Day 5, slipping out after his nap. Mom found him there. He was sitting with the fragments in complete stillness (unusual for him). He told her he was "waiting for big friends." He was not afraid.
+- **Julian Admits the Plan Is Theater:** Privately told Ezra the whiteboard is mostly for the feeling of doing something. He has no real plan for alien first contact.
+- **The Signal Changes — Day 7:** At 2:14 AM on Day 7, Sable felt the Covenant chord get louder. She went to the Cradle; the fragments were blazing brighter, spinning faster. Declan was already there in pajamas. He had been there a while.
+- **Noa Hears an Echo:** Noa detected an echo in the signal — something coming *back* from the northwest direction. A reply. The Builders responded to the broadcast.
+- **"Hurrying" — Three Days:** Declan revised the arrival estimate from ten days to three. His explanation: they are hurrying. The original ten-day estimate was presumably based on normal travel speed; they have accelerated.
+- **The Eyes:** Declan has started calling the two small paired stars visible from his window "the eyes." Significance unclear.
+- **Season 2 Open Threads (updated):**
+  - Builders arrive in approximately 3 days (revised from 10).
+  - What does the Covenant signal say to the Builders? Is it "we're here," "we're ready," or something else?
+  - What does the unread section of Cradle wall (the Guardians-specific section) actually say?
+  - The Covenant Purge — do they know the Cradle is active? Do they know the Builders are coming?
+  - The Rift Entity's fate and true nature remain unknown.
+  - What did the dead star's single white pulse in Chapter 19 mean?
+  - What are "the eyes" (the paired stars Declan named)?
+
+*Last updated: 2026-03-18 (Chapter 22 — Ten Days; Builders now 3 days out, hurrying)*
