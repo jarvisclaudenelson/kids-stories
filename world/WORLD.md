@@ -122,4 +122,23 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - What did the dead star's single white pulse in Chapter 19 mean?
   - What are "the eyes" (the paired stars Declan named)?
 
-*Last updated: 2026-03-18 (Chapter 22 — Ten Days; Builders now 3 days out, hurrying)*
+### Chapter 23 — What Comes First
+
+- **Julian's New Whiteboard:** The THREE DAYS — REAL PLAN board reduced the plan to two entries: "Say hello" and "Be ready." Declan added an orange rectangle. Nobody knows what it means. Julian did not erase it.
+- **Noa's Signal Decode — Steps:** The echo from the Builders now contains a structured sequence — seven steps, in order. Noa cannot yet decode the content of each step, only that there are seven and they are not random. Parallel to the seven fragments.
+- **The Gold Fragment — Shift to Alertness:** Ezra noticed the fragment's patience (Chapter 22) has been replaced by alertness — forward-leaning, like a dog hearing something. Not fear. Readiness.
+- **"The Eyes" Confirmed as Ship/Arrival:** The two paired stars Declan called "the eyes" are getting visibly brighter from the surface. By Day 8 they were noticeably more intense. Ezra confirmed Declan's read: the Builders are getting closer and fast.
+- **The Covenant Purge — Return:** Sable detected a pattern in the colony grid on Day 8: someone had been moving through the settlement for at least a day. Small steps, scattered, carefully disguised. Identified as the Covenant Purge.
+- **The Silver-Haired Woman (New Character):** A Purge operative. Encountered at midnight at the rock shelf near the Cradle entrance. Did not try to enter. Waited. Close-cropped silver hair, dark eyes, weathered face, jaw that has been through something. She presented as a warning, not an attack. Claims the Covenant was not a gift but a test, and that not all worlds who completed it are "still intact." Admitted the Purge was wrong about *how* to prevent the Builders' arrival — but insists they were right about the danger. Name unknown.
+- **Declan's Verdict:** Declan walked to the silver-haired woman, looked at her, and shook his head — slowly, clearly, certain. Then walked back into the Cradle. The group followed him. No further discussion with the Purge operatives.
+- **Builders — Already in Orbit:** Noa's signal decode confirmed the echo is no longer coming from space. It is coming from low orbit. The Builders arrived early — not in three days but now. The seven fragments blazed white (same pulse as Fragment 7 retrieval) when this was confirmed.
+- **Declan's Final Word:** "Tomorrow." The Builders will make contact tomorrow. He was not afraid.
+- **Season 2 Open Threads (updated):**
+  - The Builders are in orbit and will make first contact tomorrow (Chapter 24).
+  - Who is the silver-haired woman, and is her warning about the Covenant test credible?
+  - What are the seven steps Noa detected in the Builder signal?
+  - What does the Covenant Purge do now — wait, run, or act?
+  - What did the dead star's single white pulse in Chapter 19 mean?
+  - What does the orange rectangle Declan drew mean?
+
+*Last updated: 2026-03-19 (Chapter 23 — What Comes First; Builders now in orbit, first contact tomorrow)*
