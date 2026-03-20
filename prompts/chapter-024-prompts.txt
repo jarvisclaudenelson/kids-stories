@@ -1,0 +1,241 @@
+# Chapter 24: First Contact — Image Prompts
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 1
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** The group sleeping in the Covenant Cradle's ancient black stone chamber, seven fragments blazing in a slow ring above the dais casting warm multi-colored light, Declan (2-year-old boy) sitting awake alone in front of the dais while the others sleep against the walls
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-1.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 2
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** Sable standing on a red rock shelf outside at dawn, staring at the northwest horizon which glows in the combined color of seven fragments — gold, silver-blue, amber, violet-white, yellow-green, rust-red, blazing yellow — not a sunrise, something else entirely
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-2.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 3
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** Wide view of Monscollis Colony at 6 AM, sixty colonists stopping in the lanes between the red-rock buildings, staring northwest at a large shape descending through the pale sky, catching light in a way that isn't metal, casting long shadows on the red dust
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-3.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 4
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** The seven Guardians — Julian, Ezra, Declan, Sable, Rafe, Petra, Noa — spread across the flat red Monscollis plain in a wide line, fragments blazing, Noa on one knee with both palms pressed to the earth and yellow-green glow spreading from her fingertips into the ground
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-4.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 5
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Ezra)
+  • images/chapter1/page-1.png  (Julian)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** A sleek alien craft — dark, smooth, no visible seams, shaped like nothing in any catalog — settled without drama on the red Monscollis dust 300 meters from the Guardians, hatch open, one tall layered alien figure stepping out and looking at the group
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-5.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 6
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Ezra)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** Close-up of the Builder alien — tall, layered texture like sediment or very old stone, roughly human in shape, looking down at Ezra with one flat hand raised toward him acknowledging the Gold Fragment; the gold fragment visible as a warm glow against Ezra's chest
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-6.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 7
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** The Builder alien producing a small warm orange rectangle from its own chest, holding it out toward Declan; Declan (2-year-old boy) walking forward alone across the red dust to meet it, standing in front of the enormous alien figure looking up without fear
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-7.png
+
+============================================================
+IMAGE PROMPT — Chapter 24, Page 8
+============================================================
+
+📎 UPLOAD THESE REFERENCE IMAGES TO CHATGPT:
+  • images/chapter1/page-1.png  (Declan)
+  • images/chapter1/page-1.png  (Julian)
+
+📋 PASTE THIS PROMPT IN CHATGPT:
+----------------------------------------
+
+Generate a Pixar-style 3D animated illustration for a children's sci-fi adventure book.
+
+**Scene:** Declan holding the warm glowing orange rectangle up toward Julian, who stares at it with wide eyes; behind them the colony, the Guardians, and the alien Builder in the background; the orange rectangle matches exactly the drawing on Julian's whiteboard; all seven fragment colors blaze in the Monscollis sky
+
+**Characters in this scene** (use the uploaded reference images for consistency):
+- Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic
+- Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants
+
+**Style instructions:**
+- Pixar/Disney quality 3D animation style
+- Warm cinematic lighting, adventure movie feel
+- Landscape format (16:9)
+- Characters must match the uploaded reference images exactly
+- Rich detail in environment and expressions
+
+----------------------------------------
+
+💾 Save output to: images/chapter24/page-8.png

@@ -141,4 +141,25 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - What did the dead star's single white pulse in Chapter 19 mean?
   - What does the orange rectangle Declan drew mean?
 
-*Last updated: 2026-03-19 (Chapter 23 — What Comes First; Builders now in orbit, first contact tomorrow)*
+### Chapter 24 — First Contact
+
+- **The Colony Witnesses:** First contact was not private. Sixty colonists watched the Builder's craft descend at 6 AM from the lanes between the residence blocks. The group could not contain it. The colony now knows the Builders exist.
+- **The Builder:** One figure emerged. Tall, roughly human-shaped, but layered in texture — like sediment, or something that has been old for a very long time and let that oldness settle on the surface. Moved with the ease of something that has been standing for eons. Not alarming in behavior; patient and specific.
+- **Fragment Identification — Step 1:** Noa decoded the first step of the Builder sequence as a question: *Who are you?* The fragments answered on behalf of the Guardians automatically. Each Guardian's fragment blazed its acknowledgment. Declan spread his arms and all seven colors rose above the plain. The Guardians passed Step 1.
+- **The Builder Acknowledges Ezra:** The Builder paused on Ezra specifically and raised one flat hand toward him — a gesture of acknowledgment. The gold fragment responded: *I know you too.* Fragment 1 (Gold) is the Builder's primary point of recognition.
+- **The Orange Rectangle:** The Builder produced a warm orange rectangular object from its own chest (a practiced, ordinary gesture) and held it out to Declan. The object matches exactly the orange rectangle Declan drew on Julian's whiteboard three days ago. It glowed warm when Declan held it. When pressed to Declan's chest alongside the Gold Fragment's location, their colors overlapped and something in the air resonated.
+- **Declan's Role Confirmed:** The Builder addressed Declan with a specific inclination of its head — more specific than the group acknowledgment. Declan took the orange object without hesitation. He told Julian it was "for the plan." The Builder's final communication was not in words but in resonance — a sound carrying the shape of all seven fragments compressed to a syllable — directed at Declan.
+- **Seven Steps — Step 1 Complete:** Noa confirmed Step 1 (Who are you?) is complete and passed. Six steps remain. Steps 2–7 are unknown in content.
+- **Petra's Snack Bar Count:** Seven. She faced first contact fed. No regrets.
+- **Season 2 Open Threads (updated):**
+  - Six steps remain in the Builder sequence — what are they?
+  - What is the orange rectangle, and what does it do?
+  - What does the Builder's specific acknowledgment of Ezra (Fragment 1) mean?
+  - What does the Builder's specific acknowledgment of Declan mean — is he more than a song-keeper?
+  - The silver-haired Purge woman's warning: the Covenant is a test, not all worlds who completed it are still intact. Is this true?
+  - What does the Covenant Purge do now that first contact has happened?
+  - The Rift Entity's fate and true nature remain unknown.
+  - What did the dead star's single white pulse in Chapter 19 mean?
+  - What does "Six Steps" actually require of the Guardians?
+
+*Last updated: 2026-03-20 (Chapter 24 — First Contact; Builder landed, Step 1 passed, orange rectangle given to Declan)*
