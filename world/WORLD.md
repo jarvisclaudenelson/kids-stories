@@ -162,4 +162,24 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - What did the dead star's single white pulse in Chapter 19 mean?
   - What does "Six Steps" actually require of the Guardians?
 
-*Last updated: 2026-03-20 (Chapter 24 — First Contact; Builder landed, Step 1 passed, orange rectangle given to Declan)*
+### Chapter 25 — Six Steps
+
+- **Step 2 — Verification (Noa):** The Builder read the complete Covenant record through Noa's signal. She did not initiate it; the yellow-green glow ran from her fragment through her fingertips into the air, and the Builder read it directly. History of every fragment, every location, every Guardian transferred automatically. Step 2 passed.
+- **Step 3 — Roll Call:** The Builder raised both arms, summoning all seven fragments simultaneously — including the two still underground in the Cradle. All seven lights rose sixty feet above the plain in daylight, visible to the sixty colonists watching. The Covenant being complete is no longer a private fact. Step 3 passed.
+- **Declan's Communication Confirmed:** Declan has been in two-way contact with the Builder via the orange rectangle for three days — since he drew it on Julian's whiteboard. He communicated this to Ezra through gesture: temple → chest → rectangle → Builder (a chain). He did not volunteer this information before.
+- **Step 4 — The Question (Ezra):** Step 4 was shaped as an invitation for the Guardians to ask. Ezra asked "Who is Declan?" — and the gold fragment blazed white before he finished. The Builder kneeled to Declan's eye level, pressed its hand to its own chest, and spoke Declan's name in the compressed-fragment resonance. Declan said "Oh." — the specific "oh" of recognition, not surprise. Step 4 passed.
+- **Declan's True Nature:** Not yet stated in words. The Builder's acknowledgment was specific — more particular than the group acknowledgment. Declan's response ("Oh. That's where I left that.") suggests he already knew something was there to be named. His role as "song-keeper" understates what he is.
+- **The Silver-Haired Woman — Doubt Forming:** She watched Steps 1–4 from the rock shelf for the full morning. She has never encountered a Covenant completion that included a child under seven, and never one that included anyone like Declan. She is no longer certain the Purge's records apply to this situation.
+- **Noa's Notes — Step 5–7 Still Dark:** Steps five through seven remain unreadable until each prior step completes. Noa is tracking in real time. She circled "dead star — Rafe's question" on page six as a post-seven question.
+- **The Builder's Patience:** Has not moved from the plain since landing. Adjusted stance when Declan fell asleep — settled in to wait, recognizing the toddler's rest as a natural pause in proceedings.
+- **Declan Asleep:** Fell asleep at 1 PM after 32 hours awake, on Ezra's jacket, still holding the orange rectangle. Orange rectangle glow continues even in sleep.
+- **Season 2 Open Threads (updated):**
+  - What are Steps 5, 6, and 7?
+  - Who or what is Declan truly? The Builder's specific acknowledgment suggests "song-keeper" is incomplete.
+  - What does the orange rectangle do and how did Declan know to draw it three days early?
+  - What does the Covenant Purge do now? The silver-haired woman's certainty is cracking.
+  - What was the dead star's white pulse when Fragment 7 was retrieved?
+  - The Rift Entity's true nature remains unknown.
+  - The silver-haired woman's warning — is the Covenant a test with consequences?
+
+*Last updated: 2026-03-21 (Chapter 25 — Six Steps; Steps 2/3/4 passed, Declan's two-way Builder contact revealed, Ezra's question asked, silver-haired woman's certainty cracking)*
