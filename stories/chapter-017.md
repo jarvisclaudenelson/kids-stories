@@ -1,169 +1,82 @@
 ---
 format: graphic-novel
 title: "Chapter 17: Something Woke Up"
-date: 2026-03-30
 ---
 
 **Page 1**
 
-Three weeks after the party, things at Monscollis Colony were almost normal. Almost.
+Three weeks after the party, things at Monscollis Colony were almost normal. Almost. The crystal spire hummed with five colors now — gold, silver-blue, amber, violet-white, and yellow-green — and the colonists had mostly stopped staring at it during breakfast. The garden was growing again. The water pumps ran smooth thanks to Noa's daily tune-ups. Julian had started keeping a list in his notebook called "Things That Could Still Go Wrong." It had fourteen items, each one carefully numbered and annotated with probability estimates and contingency plans that a seven-year-old probably shouldn't have known how to write. Item number three was "Shadow Hand returns with bigger ships." Item number seven was "Declan learns to fly." Rafe leaned in the doorway of their shared cabin, watching Julian scribble with his tongue poking out, and shook his head. "You know that list is just going to make you anxious, right?" Julian didn't look up. "It already has. That's the point."
 
-Julian had started keeping a list called "Things That Could Still Go Wrong." It had fourteen items.
-
-<!-- PROMPT: Interior of a cozy colony cabin. {{julian}} sits cross-legged on a bunk bed, writing intently in a worn notebook titled "THINGS THAT COULD STILL GO WRONG" — the page filled with tiny numbered lines. Morning light through a porthole window. {{rafe}} leans in a doorway behind him, smirking, arms crossed. Warm domestic atmosphere with an undercurrent of tension. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Interior of a cozy colony cabin, morning light streaming through a porthole window. {{julian}} sits cross-legged on a bunk bed in his dark blue colony jacket, writing intently in a worn notebook. The visible page is titled "THINGS THAT COULD STILL GO WRONG" in careful block letters, with tiny numbered lines filling the page. His sandy blonde hair falls over one eye, expression serious and focused. {{rafe}} leans against the doorframe behind him, red messy hair, arms crossed, smirking with affectionate exasperation. Warm domestic atmosphere with an undercurrent of tension. -->
 
 ---
 
 **Page 2**
 
-In the garden behind the cabin, Ezra stretched his arm twelve feet toward a high branch — two whole feet past the tingling — holding steady, thinking about Declan and toast.
+In the garden behind the cabin, Ezra was practicing. He stood on the grass in his orange hoodie, right arm stretched impossibly upward — twelve feet of elastic, golden-glowing limb reaching for a high branch on one of the colony's engineered fruit trees. Two whole feet past where the tingling usually started, past where his body normally said "that's enough," and he was holding steady. The trick, he had learned, was not to think about the stretch itself. When he focused on the physics of it — the impossibility, the weirdness — the arm snapped back like a rubber band. But when he thought about Declan, about making toast, about the way Ollie's ears flopped when he ran, the stretch just... happened. His body did what it needed to do, and his mind stayed somewhere warm and easy. Below him, Declan sat in the grass stacking spoons into a wobbly tower, not even looking up at his brother's impossible arm. Ollie lay beside the toddler, eyes half-closed, tail occasionally thumping. None of this was remarkable anymore. That was the strangest part.
 
-<!-- PROMPT: Outdoor colony garden, morning sun. {{ezra}} stands on green grass, his right arm impossibly stretched upward twelve feet toward a tree branch, his arm glowing faintly gold along its elastic length. His face is calm, concentrated. {{declan}} sits nearby on the ground stacking spoons into a wobbly tower, not even looking up. {{ollie}} lies beside Declan, eyes half-closed, serene. Whimsical and warm. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Outdoor colony garden bathed in warm morning sun. {{ezra}} stands on green grass in his orange hoodie, his right arm impossibly stretched upward twelve feet toward a tree branch, the arm glowing faintly gold along its elastic length. His face is calm, eyes gently focused, brown messy hair catching the light, freckles visible. Below him on the grass, {{declan}} sits in his green jumpsuit, completely unbothered, stacking metal spoons into a precarious tower with intense toddler concentration. {{ollie}} lies beside Declan in the grass, grey-silver curly coat, eyes half-closed, serene. Whimsical, warm, domestic magic treated as ordinary. -->
 
 ---
 
 **Page 3**
 
-On a Tuesday that felt perfectly unremarkable, Sable burst through the cabin door with her map tablet and a look that said: *the list was right.*
+On a Tuesday that felt perfectly unremarkable — the kind of Tuesday where the biggest decision should have been what to eat for lunch — Sable burst through the cabin door. She was holding a glowing holographic map tablet and wearing an expression that Julian had privately categorized as "Level Four Urgency" in his notebook. Level Four meant something was wrong, but nobody was actively in danger yet. "We have a problem," Sable said, and the way she said it made Rafe put down his cards and Petra look up from the engine manual she was reading. Julian was on his feet in half a second, notebook already open. Even Ezra's arm snapped back to normal length as the mood in the cabin shifted from lazy morning to battle stations. Sable held up the tablet. A holographic star map projected into the air above it, casting a blue-white glow across everyone's faces. A small yellow dot pulsed at the edge of the Outer Ring — far past Meridian Point, past the last outpost, past the line on old star charts that just said *unmapped.* "Fragment Six," Sable said.
 
-"We have a problem."
-
-<!-- PROMPT: Dramatic low angle shot. {{sable}} kicks open the cabin door, standing in the doorway holding a glowing holographic map tablet, her dark ponytail swinging, expression urgent. Behind her, bright daylight floods in. Inside, {{julian}} springs upright from a chair, eyes wide. The tablet projects a faint yellow pulse of light across Sable's face. Cinematic tension. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Dramatic low-angle shot. {{sable}} stands in the cabin doorway, one hand on the door she just threw open, the other holding a glowing holographic map tablet. Her dark ponytail swings with the momentum, jaw scar visible, expression urgent and commanding. Bright daylight floods in behind her. Inside, the cabin snaps to attention — {{julian}} springs up from a chair, notebook flying open, eyes wide. {{rafe}} drops playing cards. {{petra}} looks up sharply from a manual. The tablet projects a faint blue-white holographic map into the air, with a single yellow pulsing dot at its far edge. Cinematic tension, the moment everything changes. -->
 
 ---
 
 **Page 4**
 
-She held up the tablet. A small yellow dot pulsed at the edge of the Outer Ring — far past Meridian Point, past the last outpost, past the line on old star charts that just said *unmapped.*
+"I thought the Shadow Hand had Fragment Six," Rafe said, leaning forward to study the pulsing dot. His amber-orange stone glowed warm at his neck, responding to the proximity of fragment energy even through a hologram. Sable shook her head. "They did. Until three days ago, when whatever was holding it... stopped holding it." She let that sink in. Julian's pen was already scratching across his notebook, writing down coordinates and questions in equal measure. "Stopped holding it how?" he asked without looking up. "That's what we need to find out," Sable said. She pointed to a cluster of moons at the far edge of the map. "This is the Shale Drift. Nobody goes there. Mostly fog and old rock formations. But three days ago, the fragment's energy signature reappeared on our sensors — unshielded, unmoved, just... sitting there." From the floor, Declan looked up from his collapsed spoon tower. His big brown eyes were wide, and the amber sphere at his chest flickered with a pulse that matched the yellow dot on the map. "Uh-oh," he said, in the tone of a toddler who understood more than anyone wanted to admit.
 
-"Fragment Six," Sable said.
-
-<!-- PROMPT: Close-up of a glowing holographic star map floating above a tablet on a kitchen table. A bright yellow pulsing dot sits at the far edge of the map, beyond labeled zones, in a dark region marked with faded text reading "UNMAPPED." Multiple hands reach toward the map from different sides of the table. The yellow dot casts a warm glow on the surrounding faces — {{julian}}, {{ezra}}, {{rafe}}, and {{petra}} all leaning in, expressions ranging from worry to fascination. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Close-up of the holographic star map floating above a tablet on the cabin kitchen table. A bright yellow pulsing dot sits at the far edge of the map, beyond labeled zones, in a dark region with faded text reading "UNMAPPED." Multiple hands reach toward the map from different sides — {{rafe}}'s with his amber stone glowing at the wrist, {{julian}}'s holding a pen. Their faces are visible behind the map glow: {{julian}} intense and analytical, {{rafe}} brow furrowed with concern, {{sable}} jaw set with determination. In the lower foreground, {{declan}} sits on the floor surrounded by scattered spoons, looking up at the map with big knowing brown eyes, amber chest-sphere pulsing in sync with the yellow dot. -->
 
 ---
 
 **Page 5**
 
-"I thought the Shadow Hand had Fragment Six," Rafe said.
+Sable zoomed the map into the Shale Drift. The cluster of jagged moons hung in holographic space like broken teeth, surrounded by swirling representation of grey fog and drifting rock dust. "There might be a second Shadow Hand," Sable said carefully. "A splinter group we didn't know about. If they had Fragment Six and lost control of it, that means something at the Drift is powerful enough to take it from them." The cabin was very quiet. Even Ollie had stopped thumping his tail. Noa leaned in the doorway holding a piece of bread, mid-chew, and her yellow-green wrist-stone was humming at a frequency that made her headphones buzz around her neck. She swallowed and said, "Or something woke up." Nobody had a good response to that. Julian wrote it in his notebook anyway: *Item 15: Something woke up at the Shale Drift.* He underlined it twice.
 
-"They did. Until three days ago, when whatever was holding it... stopped holding it."
-
-Declan looked up from his spoon tower. "Uh-oh."
-
-<!-- PROMPT: Split panel page. Top panel: {{rafe}} and {{sable}} face each other across the kitchen table, the holographic map between them. Rafe's brow is furrowed, Sable's jaw is set, scar visible. Bottom panel: low angle looking up at {{declan}} sitting on the floor surrounded by scattered spoons from a collapsed tower, his big brown eyes wide, mouth forming the word "uh-oh." His amber chest-sphere glows faintly. Comedic yet ominous. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. {{sable}} leans over the kitchen table, pointing at the holographic map with one finger. The map shows a zoomed-in cluster of small jagged moons surrounded by swirling grey fog and rock debris — the Shale Drift, looking ominous and alien. The whole group gathers around the table in tense silence: {{julian}} writing rapidly in his notebook, {{ezra}} holding {{declan}} on his hip, {{rafe}} and {{petra}} exchanging a worried glance. {{noa}} leans in the doorway holding a piece of bread, mid-chew, large headphones buzzing around her neck, yellow-green wrist-stone glowing. Dark moody lighting from the map glow casts dramatic shadows on everyone's faces. -->
 
 ---
 
 **Page 6**
 
-Sable pointed to a cluster of moons on the far edge of the map. "This is the Shale Drift. Nobody goes there. Mostly fog and old rock formations."
+They left the next morning on Captain Okonkwo's old scout ship. It was smaller than the *Ariadne*, smaller than anything they'd flown in before — a compact, battered vessel with patched hull plates and scorch marks from encounters nobody had bothered to explain. The corridors were so narrow that Rafe and Petra had to walk single file. The cockpit smelled like engine grease and old sandwiches and something vaguely metallic that Julian suspected was dried coolant. Sable took the pilot's seat like she'd been flying since birth, running through pre-flight checks with practiced efficiency while Noa boosted the ship's systems from the engine room, her yellow-green glow making the old instruments hum with unexpected life. "I like it," Declan announced from the corridor, standing on his tiptoes with both small palms pressed flat against the metal wall. He said this about every new place they visited, but the way his amber sphere pulsed warm against the ship's hull suggested the ship liked him back. Ollie sat beside the toddler, tail wagging, apparently sharing the sentiment.
 
-"There might be a second Shadow Hand. A splinter group we didn't know about."
-
-<!-- PROMPT: {{sable}} leans over the kitchen table, pointing at the holographic map with one finger. The map zooms into a cluster of small jagged moons surrounded by swirling grey fog — the Shale Drift. The whole group gathers around: {{julian}}, {{ezra}}, {{rafe}}, {{petra}}, and {{noa}} leaning in the doorway holding a piece of bread, mid-chew, looking alarmed. Dark moody lighting from the map glow. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Exterior establishing shot of a small, battered scout ship lifting off from the Monscollis Colony landing pad at dawn. The ship is compact and weathered with patched hull plates and charming scorch marks — scrappy and endearing. The crystal spire glows with five colors in the background. Inset panel in the corner: interior shot of {{declan}} standing on tiptoes in the cramped corridor, both small palms pressed flat against the metal wall, grinning broadly in his green jumpsuit, amber sphere glowing at his chest. {{ollie}} sits beside him, grey-silver curly coat, tail wagging. Warm golden dawn light bathes the scene. -->
 
 ---
 
 **Page 7**
 
-They left the next morning on Captain Okonkwo's old scout ship. It was smaller than their usual transport and smelled like engine grease and old sandwiches.
+Six hours into the flight, the ship had settled into the comfortable rhythm of a long journey. Noa and Rafe played cards on an overturned crate, both fiercely competitive — Noa counted cards with the same precision she used to analyze machine frequencies, and Rafe kept trying to use his telekinesis to peek at her hand, which Noa caught every single time. Petra sat alone by a round viewport, chin resting on her hand, watching the stars slide past with an expression that was half wonder, half homesickness for a home she couldn't quite remember. Ezra had fallen asleep against Ollie on a bench seat, the two of them curled together like a boy-shaped puzzle piece and a dog-shaped puzzle piece that had been designed to fit. Julian sat in the co-pilot seat next to Sable, rigid with planning, his notebook open to a page covered in diagrams and contingency scenarios. "You're catastrophizing," Sable said, without looking away from the controls. "Sleep." Julian did not sleep. He added item sixteen to his list: *Unknown entity at Shale Drift may be hostile, friendly, or incomprehensible. Prepare for all three.*
 
-"I like it," Declan announced, patting the wall.
-
-<!-- PROMPT: Exterior establishing shot of a small, battered scout ship lifting off from a colony landing pad at dawn. The ship is compact and weathered, with patched hull plates and scorch marks — charming and scrappy. Inset panel in the corner: interior shot of {{declan}} standing on tiptoes in the cramped corridor, both palms pressed flat against the metal wall, grinning. {{ollie}} sits beside him, tail wagging. Warm golden dawn light. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Interior of the cramped scout ship during mid-flight, stars visible through windows. Montage-style composition showing the crew: {{noa}} and {{rafe}} play cards competitively on a crate, Rafe's red hair catching the cabin light, Noa's headphones around her neck. {{petra}} sits alone by a round viewport, chin on hand, stars reflected in her brown eyes, short red hair silhouetted. {{ezra}} sleeps curled against {{ollie}} on a bench, both peaceful. In the foreground, {{julian}} sits rigidly in the co-pilot seat, notebook crammed with diagrams, while {{sable}} gives him a pointed sideways look from the pilot seat, scar visible. Cozy blue starlight fills the cabin. -->
 
 ---
 
 **Page 8**
 
-Six hours in. Noa and Rafe played cards. Petra stared out the window. Ezra slept against Ollie. Julian sat in the co-pilot seat trying to plan for every possible thing.
+The Shale Drift looked like the inside of a broken snow globe. Instead of snow, grey rock dust drifted in slow, heavy curtains. Instead of a village, jagged black cliff faces rose from swirling fog like the bones of a planet that had given up. There was no color here — no green, no warmth, no sign that anything living had ever considered this place worth visiting. Sable brought the ship down on a narrow ledge, the landing struts scraping against black rock. The fog rolled past the viewports in waves so thick they couldn't see twenty feet. When they stepped out, the air tasted like wet stone and old iron. Ollie's grey fur stood up along his spine, every muscle in his body taut and alert. His ears rotated like satellite dishes, tracking something the others couldn't hear. "He senses something," Ezra said, kneeling beside the dog with one hand on Ollie's bristling back. Nobody asked what. Nobody wanted to know yet.
 
-"You're catastrophizing," Sable said. "Sleep."
-
-<!-- PROMPT: Interior of the cramped scout ship cockpit and cabin, mid-flight, stars visible through windows. Montage-style composition: {{noa}} and {{rafe}} playing cards on a crate, both competitive; {{petra}} sitting alone by a round window, chin on hand, stars reflected in her eyes; {{ezra}} asleep curled against {{ollie}} on a bench, both peaceful; foreground — {{julian}} sits rigidly in the co-pilot seat with a notebook full of plans, and {{sable}} in the pilot seat gives him a pointed sideways look. Cozy blue starlight. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. The group exits the scout ship onto a narrow rock ledge on a massive black cliff face. Thick grey fog rolls past in slow heavy waves, obscuring the landscape beyond. The rock is alien and stark — sharp black formations jutting from swirling grey mist, utterly lifeless. {{ollie}} stands at the front of the group, ears forward, hackles raised, grey curly fur bristling, every muscle alert. {{ezra}} kneels beside him in his orange hoodie, one hand on the dog's back, looking where Ollie looks. Behind them, {{sable}}, {{julian}}, {{rafe}}, {{petra}}, and {{noa}} emerge from the ship hatch into the fog. {{declan}} puts one small hand flat against the cliff rock, curious not afraid. Eerie, foreboding atmosphere. -->
 
 ---
 
 **Page 9**
 
-The Shale Drift looked like the inside of a snow globe — except instead of snow, grey rock dust, and instead of a village, a jagged black cliff.
+The passage was narrow and smelled like wet stone that had been wet for a thousand years. Petra walked point, her open palm raised to cast a warm violet-white glow from her fragment that made the dark cave walls glitter with moisture and mineral deposits. The passage opened into a cave the size of a gymnasium, and when Petra's light hit the walls, everyone stopped breathing. Ancient carvings covered every surface — spirals and geometric lines and shapes that predated anything in the colony archives by millennia. In the center of the cave, resting in a small hollow of dark rock like an offering left on an altar, was a fragment. But it was wrong. It was dark red, almost brown, like dried rust or old blood. And it was not glowing. "Fragments always glow," Sable whispered, her silver-blue pendant pulsing uneasily. "Unless they've been drained." Then Ollie started barking — a sharp, urgent, terrified bark that echoed through the carved chamber. From the far wall, where the deepest carvings spiraled into darkness, a shape emerged. Tall. Not quite shadow, not quite fog. Deep shifting grey with edges like cut glass and two faint pale lights where eyes might be. It hummed — a sound that came from the walls themselves, from the floor, from the bones of the ancient moon.
 
-<!-- PROMPT: Dramatic wide exterior shot. The small scout ship descends toward a massive jagged black cliff face shrouded in rolling grey fog and drifting rock dust particles. The landscape is alien and stark — sharp black rock formations jutting from swirling grey mist, no vegetation, no color. Tiny lights from the ship cut through the haze. The mood is eerie, foreboding, beautiful. Muted grey and black palette with the ship's warm lights as the only color. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Dramatic double reveal in an enormous ancient cave. The foreground shows a dark red-brown fragment sitting in a stone hollow — rough, dull, completely lightless like dried rust. No glow at all. The surrounding fragments on the children glow around the frame's edges for contrast. In the background, a tall shape materializes from the far carved wall — made of deep shifting grey smoke-like substance with defined geometric edges, almost humanoid but ancient and alien, with two faint pale lights where eyes would be. {{ollie}} barks furiously in the middle ground. The children react: {{ezra}} steps in front of {{declan}}, {{petra}}'s violet light blazes, {{sable}} reaches for her pendant, {{julian}} holds ground with wide eyes. Ancient spiral carvings cover every wall surface. Awe and terror combined. -->
 
 ---
 
 **Page 10**
 
-The ship bumped down on a narrow ledge. Fog rolled in slow heavy waves. Ollie's grey fur stood up along his spine.
+Declan walked forward. Nobody stopped him — not because they didn't want to, but because something in the way the toddler moved made it clear that stopping him would be wrong. He walked past his brothers, past the older kids, past Ollie who whined but let him go, and he stood in the center of the cave floor looking up at the towering grey shape. The entity hummed again. Declan opened his mouth and made the exact same sound back. Not an imitation — a *response*, as natural as a child answering "hello" with "hello." The sound waves rippled between them, visible in the way the dust motes caught the light, matching frequencies that harmonized into something that made the ancient carvings on the walls pulse faintly. "Hi," Declan said. "I'm Decker." The shape slowly stepped back two feet. Not leaving. Not attacking. Just making room, the way you would for someone you recognized. They didn't take the dark fragment that day. They needed to learn more. On the ship home, Noa crouched down to Declan's eye level and asked what the shape was. He thought about it seriously, brow furrowed, as if sorting through a vocabulary that didn't have the right words yet. Then his face softened into a small knowing smile. "Old friend," he said. And far below, in the empty cave on the Shale Drift, the dark-red fragment pulsed once. Dim. But there. Something was waking up.
 
-"He senses something," Ezra said.
-
-<!-- PROMPT: The group exits the scout ship onto a narrow rock ledge on the black cliff face. Thick grey fog rolls past them in slow waves. {{ollie}} stands at the front, ears forward, hackles raised, grey curly fur bristling along his spine — alert and tense. {{ezra}} kneels beside him, one hand on Ollie's back, looking where the dog looks. Behind them, {{sable}}, {{julian}}, {{rafe}}, {{petra}}, and {{noa}} emerge from the ship hatch. {{declan}} puts his small hand flat against the cliff rock. Eerie fog-shrouded atmosphere. -->
-
----
-
-**Page 11**
-
-The passage was narrow and smelled like wet stone. Petra made a small light with her palm — not a shield, just a warm glow.
-
-It opened into a cave the size of a gymnasium, walls covered in ancient carvings — spirals and lines and shapes older than memory.
-
-<!-- PROMPT: The group walks single-file through a narrow dark stone passage. {{petra}} leads, her open palm raised, casting a warm violet-white glow from her fragment that illuminates the wet cave walls. The passage opens ahead into a vast cavern. Ancient carved spirals, geometric lines, and mysterious symbols cover every surface of the walls, catching Petra's light. The children are small silhouettes against the enormous carved cave. Awe-inspiring underground cathedral atmosphere. -->
-
----
-
-**Page 12**
-
-In the center of the cave, resting in a small hollow of rock, was a fragment. Dark red, almost brown. Like dried rust.
-
-It was not glowing.
-
-"Fragments always glow," Sable whispered. "Unless they've been drained."
-
-<!-- PROMPT: Close-up dramatic shot looking down into a shallow natural hollow in dark stone at the cave's center. A dark red-brown fragment sits in the hollow — rough, dull, completely lightless, like a piece of dried rust. No glow at all. The other fragments on the children glow around the edges of frame — blue, gold, amber, violet, silver-blue, yellow-green — making the dead fragment's darkness more striking. {{sable}} and {{julian}} crouch near it without touching, faces lit by the surrounding fragment-light, expressions grave. Ancient carvings spiral outward on the floor around the hollow. -->
-
----
-
-**Page 13**
-
-At that exact moment, Ollie started barking.
-
-A shape emerged from the far wall. Tall. Not quite shadow, not quite fog — deep shifting grey with edges. Two faint lights where eyes might be.
-
-<!-- PROMPT: Full-page dramatic reveal. From the far carved wall of the enormous cave, a tall shape materializes — made of deep shifting grey smoke-like substance but with defined edges, almost humanoid but ancient and strange. Two faint pale lights sit where eyes would be. {{ollie}} barks furiously in the foreground, teeth bared. The children react — {{ezra}} steps protectively in front of {{declan}}, {{rafe}} and {{petra}} flank wide, {{sable}} reaches for her pendant, {{julian}} holds his ground, {{noa}} grips her wrist stone. The shape towers above them all. Dramatic dark atmosphere with the pale eye-lights as focal point. -->
-
----
-
-**Page 14**
-
-The shape hummed — a sound from the walls themselves.
-
-Declan made the same sound back. Perfectly.
-
-"Hi," he said to the shape. "I'm Decker."
-
-The shape slowly stepped back two feet. Not leaving. Not attacking. Just... making room.
-
-<!-- PROMPT: Intimate powerful shot. Tiny {{declan}} stands alone in the center of the cave floor, looking up at the towering grey smoke-figure without any fear, his amber chest-sphere glowing warmly. His mouth is open, making a sound. Visible sound waves ripple between Declan and the shape — matching frequencies, harmonizing. The tall grey figure has stepped back, its posture shifted from looming to almost... respectful. The other children stand frozen behind Declan, watching in stunned silence. The ancient wall carvings seem to subtly pulse in response to the shared hum. Warm amber glow against cold grey shadow. -->
-
----
-
-**Page 15**
-
-They didn't take the fragment that day. They needed to learn more.
-
-On the way home, Noa asked Declan what the shape was. He thought about it seriously.
-
-"Old friend," he said.
-
-<!-- PROMPT: Two-panel page. Top panel: interior of the scout ship flying through stars, warm amber cockpit light. {{noa}} leans down to {{declan}}'s eye level in the narrow corridor, her headphones around her neck, asking a question. Declan's face is thoughtful, serious for a toddler — brow slightly furrowed, considering. Bottom panel: extreme close-up of Declan's round face breaking into a small knowing smile, brown eyes warm, amber sphere glowing at his chest. Behind him through the ship window, stars streak past. The word balloon reads: "Old friend." Warm, mysterious, hopeful. -->
-
----
-
-**Page 16**
-
-Far below, in the empty cave on the Shale Drift, the dark-red fragment pulsed once. Dim. But there.
-
-Something was waking up.
-
-<!-- PROMPT: Final page, no characters. The vast empty cave on the Shale Drift, ancient carvings covering every wall, the tall grey smoke-figure standing motionless in the far background like a sentinel. In the center hollow, the dark red-brown fragment pulses with one faint dim glow — the tiniest flicker of deep red light breaking through the dead rust color. The glow catches the nearest carved spirals on the cave floor. Silence. Stillness. A single breath of light in the darkness. Ominous and beautiful. Wide cinematic shot, dark palette with that one point of deep red light. -->
+<!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Intimate, powerful scene. Tiny {{declan}} stands alone in the center of the vast cave floor in his green jumpsuit, looking up without fear at the towering grey smoke-figure with its pale eye-lights. His mouth is open, making a sound. Visible sound waves ripple between the toddler and the entity — matching frequencies, harmonizing. The grey figure has shifted its posture from looming to almost respectful, stepping back. The amber sphere at Declan's chest glows warmly. Behind Declan, the other children stand frozen in stunned silence — {{ezra}}, {{julian}}, {{sable}}, {{rafe}}, {{petra}}, {{noa}}. {{ollie}} whines but stays back. The ancient wall carvings pulse faintly in response to the shared hum. Warm amber glow against cold grey shadow. The moment a toddler greets something ancient. -->
