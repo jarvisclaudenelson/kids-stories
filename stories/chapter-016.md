@@ -1,4 +1,10 @@
-# Chapter 16: The Girl at the Edge of the Map
+---
+format: graphic-novel
+title: "Chapter 16: Meridian Point"
+date: 2026-03-30
+---
+
+# Chapter 16: Meridian Point
 
 <!-- PROMPT: Establishing shot of Meridian Point space station — three metal modules connected by tubes, orbiting a dim orange star. The Ariadne (a sleek white-and-blue ship) is docked at one of the bays. Deep space background. -->
 
