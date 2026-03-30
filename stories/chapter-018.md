@@ -1,189 +1,173 @@
-# Chapter 18: The Old Friend
+---
+format: graphic-novel
+title: "Chapter 18: The Old Friend"
+date: 2026-03-30
+---
 
-The return flight from the Shale Drift was significantly louder than the one there.
+**Page 1**
 
-This was mostly because Julian had filled three separate pages with theories about the shadow-fog entity and was currently trying to cross-reference them with Petra's sketches. Petra, for her part, was trying to eat a protein bar and was becoming increasingly blunt about her desire for silence.
+"It has edges," Julian said. "Smoke doesn't have edges unless it's being contained by a field."
 
-"It has edges," Julian said, tapping a drawing. "Smoke doesn't have edges, Petra. Unless it's being contained by a field. A localized containment field that mimics organic movement—"
+"It was a ghost," Petra said. "A big grey humming ghost that likes toddlers."
 
-"It was a ghost," Petra said, not looking up. "A big, grey, humming ghost that likes toddlers. Can we move on?"
-
-"Ghost is not a scientific category."
-
-"Neither is 'Things That Could Still Go Wrong,' but you have a whole list for that."
-
-Rafe, sitting across from them, caught Ezra's eye and made a 'here we go' face. Ezra smiled. The tension was familiar. It felt like home, even in a cramped scout ship that smelled like old sandwiches.
-
-Sable, at the controls, didn't turn around. "Whatever it is, it's guarding a fragment that isn't glowing. That's the priority."
+<!-- PROMPT: Interior of the cramped scout ship cockpit, in flight, stars visible through the windshield. {{julian}} sits cross-legged in the co-pilot seat, notebook open across three filled pages covered in diagrams and annotations, gesturing emphatically at his sketches. {{petra}} leans against the bulkhead opposite, arms crossed, eyebrow raised, smirking. Between them, Petra's own sketchbook lies open showing a rough charcoal drawing of the tall grey smoke-figure. Warm amber cockpit lighting, playful sibling-rivalry energy. -->
 
 ---
 
-Monscollis Colony looked peaceful as they descended. The crystal spire was doing its slow, rhythmic pulse—the five-color version now, a beautiful shifting rainbow that the colonists had mostly stopped staring at.
+**Page 2**
 
-Declan was asleep against Ollie's flank. He'd been quiet since they left the cave, which was usually a sign that he was either very tired or very busy thinking about something he didn't have words for yet.
+Sable didn't look up from the controls. "Whatever it is, it's guarding a fragment that isn't glowing. That's the priority."
 
-When the ship's ramp hissed open, Captain Okonkwo was waiting.
+Behind them, Declan slept against Ollie, the amber sphere at his chest pulsing softly in time with his breathing.
 
-"Report," she said, before they even hit the ground.
-
-Julian handed over his notebook. "It's a gymnasium-sized cave, Captain. Covered in pre-Covenant carvings. And there's a guardian. A shifting grey entity that responds to vocal vibrations."
-
-Okonkwo flipped through the pages. She stopped at Petra's sketch of the entity. "A Rift Entity," she murmured.
-
-Sable stopped halfway down the ramp. "You've seen one?"
-
-"In the old records. From the first expansion." Okonkwo looked up, her expression more serious than usual. "They were said to be the keepers of the light. Beings that stayed behind when the Covenant scattered to make sure the pieces didn't fall into the wrong hands."
-
-"It stepped back for Declan," Ezra said.
-
-Okonkwo's gaze moved to the two-year-old, who was currently trying to climb down the ramp backwards. "He called it an 'old friend'."
+<!-- PROMPT: Over-the-shoulder shot from behind {{sable}} at the pilot controls, her ponytail silhouetted against the starfield through the windshield. Her hands are steady on the flight stick, expression focused, scar visible in profile. In the background cabin behind her, {{declan}} sleeps curled against {{ollie}} on a bench seat, both peaceful, the amber sphere at Declan's chest casting a soft warm glow across the dog's silver-grey fur. Quiet determined atmosphere, blue starlight mixed with amber glow. -->
 
 ---
 
-That evening, the Nelson cabin felt crowded.
+**Page 3**
 
-Maya and Tyler had come over, and Marcus was leaning against the kitchen counter, listening to the story for the third time. Mom was making a big pot of soup—actual soup, not habitat rations—and the smell was the best thing about the day.
+Monscollis Colony appeared below — the crystal spire pulsing with five colors against the evening sky. Captain Okonkwo was waiting at the bottom of the ramp.
 
-"If it's a Rift Entity," Sable said, sitting on the floor with her back to the wall, "then it's been there for centuries. Guarding that red fragment."
+"Report."
 
-"But the fragment isn't glowing," Rafe pointed out. "If it's a guardian, why is the thing it's guarding broken?"
-
-"Maybe it's not broken," Noa said from the corner, where she was tinkering with her headphones. "Maybe it's just... sleeping. Like Noa's headphones when the battery dies."
-
-"Fragment Six," Julian corrected. "Not Noa's headphones."
-
-Noa gave him a look that suggested item sixteen on his list should be 'Noa's foot in your shin'.
-
-Declan wandered into the middle of the room. He was holding his carved wooden Ollie figure. He walked straight to the map Sable had left on the table—the one with the Shale Drift circled in red.
-
-"He's not broken," Declan said.
-
-The room went quiet. Mom stopped stirring the soup.
-
-"Who's not broken, Decker?" Ezra asked gently.
-
-Declan pointed at the red circle. "Friend. He's just... waiting for the song."
-
-"What song?" Julian asked, pen poised.
-
-Declan looked at his brother with the pity a wise elder might show a particularly slow student.
-
-"The *real* song," he said.
+<!-- PROMPT: Wide establishing shot from above. The battered scout ship descends toward the Monscollis Colony landing pad at dusk. The great crystal spire rises in the background, pulsing with five distinct colors — blue, gold, amber, violet, and silver-blue — against a purple-orange sunset sky. At the base of the landing pad, a single figure stands waiting — Captain Okonkwo, a tall authoritative woman in a dark colony uniform, arms behind her back, watching the ship land. Cinematic wide composition, beautiful alien colony at twilight. -->
 
 ---
 
-The "real song" turned out to be a literal vibration.
+**Page 4**
 
-Late that night, while the others were asleep, Ezra sat on the porch with Ollie. The twin moons were high, casting silver light over the garden. The star in Ezra's chest felt heavy—not bad heavy, just... present.
+Julian handed over his notebook. "Gymnasium-sized cave, pre-Covenant carvings, and a shifting grey entity that responds to vocal vibrations."
 
-He reached into the feeling. He thought about the Shale Drift. The cold fog. The jagged black cliff. The tall, smoky shape that had hummed at them.
+Okonkwo stopped at Petra's sketch. "A Rift Entity. In the old records from the first expansion — beings that stayed behind to guard the pieces."
 
-The star pulsed.
-
-And then, from inside the cabin, he heard it.
-
-A sound. Low. A rumble that wasn't thunder and wasn't the ship. It was coming from the back bedroom.
-
-Ezra stood up and slipped inside.
-
-Declan was sitting up in his bed. He wasn't crying. He wasn't even awake, technically—his eyes were closed, his face peaceful. But a sound was coming from his chest. A hum. The exact same hum the Rift Entity had made in the cave.
-
-It vibrated through the floorboards. It made the glass in the windows chatter.
-
-Ollie walked into the room and sat down next to Declan's bed, resting his chin on the mattress. The dog started humming too—a high, whining note that perfectly harmonized with Declan's low rumble.
-
-Ezra's star went bright. Not golden anymore. It was turning a deep, rusty red.
-
-"The song," Ezra whispered.
+<!-- PROMPT: Close-up of weathered adult hands holding open {{julian}}'s notebook to a page showing Petra's detailed sketch of the tall grey smoke-figure with its faint eye-lights. Captain Okonkwo's face is visible above the notebook — her expression shifting from professional calm to something deeper, a flash of recognition and old fear. {{julian}} stands beside her on the landing pad, looking up, reading her reaction. Colony lights glow warm behind them. The sketch catches the fading daylight. -->
 
 ---
 
-The next morning, the "splinter group" showed up.
+**Page 5**
 
-Not at the Shale Drift. At Monscollis.
+"It stepped back for Declan," Ezra said quietly.
 
-A single, small ship, painted a dull charcoal grey, dropped out of the clouds and hovered over the landing pad. It didn't fire. It didn't send a signal. It just sat there, like a silent threat.
+Okonkwo looked down at Declan, who was trying to climb down the ramp backwards on his hands and knees. "He called it an 'old friend.'"
 
-Captain Okonkwo called the alert. Within minutes, the survivors were gathered in the main hall.
-
-"They're calling themselves the Covenant Purge," Okonkwo said, her voice tight. "They sent a text-only transmission. They say we have something that belongs to them."
-
-"Fragment Six," Sable said. "They know we found it."
-
-"But we didn't even take it!" Julian protested. "Item four on my list was literally 'Leaving things where we found them'."
-
-"They don't care," Marcus said, checking his gear. "They saw our ship at the Drift. They followed the signature."
-
-A holographic screen flickered to life in the hall. A man appeared. He wasn't wearing a gray uniform. He was wearing dark, practical armor, and his face was covered in thin, jagged scars that looked like lightning bolts.
-
-"Survivors of the Mayflower," the man said. His voice was like grinding stones. "You have trespassed on sacred ground. The Rift Entity has judged you, but the Purge will execute that judgment. Deliver the Youngest, or we will level your colony."
-
-The room went cold.
-
-Ezra felt a hand on his shoulder. It was Sable. Her silver-blue fragment was glowing hard.
-
-"They want Declan," she whispered.
+<!-- PROMPT: Two-panel page. Top panel: {{ezra}} looks up at Captain Okonkwo with serious brown eyes, his orange hoodie rumpled from travel, the gold glow at his chest visible through the fabric. His expression carries a weight beyond his five years. Bottom panel: {{declan}} crawls backwards down the ship ramp on hands and knees, tongue poking out in concentration, completely unconcerned with the gravity of the conversation happening above him. {{ollie}} follows behind, watching the toddler carefully. Okonkwo stares down at the small boy, her expression unreadable. Contrast between the serious and the mundane. -->
 
 ---
 
-"No," Mom said. It wasn't a shout. It was a flat, final sound that made even the Purge leader's voice seem small.
+**Page 6**
 
-Dad stood beside her, his face set in a look that Ezra had only seen once before—during the crash. "They aren't getting him."
+That evening, the Nelson cabin was crowded. Mom made soup while Marcus leaned against the kitchen counter. Maya and Tyler sat on the bench by the door.
 
-"We need a plan," Julian said. He was pale, but his notebook was open. "They have a ship. We have... we have a dog and some glowing rocks."
+"If it's a Rift Entity," Sable said, "it's been there for centuries. Guarding that red fragment."
+
+<!-- PROMPT: Warm interior of the Nelson family cabin, evening. A busy domestic scene — Mom stirs a large pot of soup on the stove, steam rising. Marcus leans against the kitchen counter, arms crossed, expression serious. The cabin table is surrounded: {{sable}} stands at the head, hands on the table, speaking with authority. {{julian}}, {{ezra}}, {{rafe}}, {{petra}}, and {{noa}} fill the remaining seats. Maya and Tyler sit together on a bench by the door. {{declan}} sits on the floor near the table with {{ollie}}. A holographic map glows on the table surface. Warm lamplight, crowded but safe. -->
+
+---
+
+**Page 7**
+
+"But the fragment isn't glowing," Rafe said. "If it's a guardian, why is the thing it's guarding broken?"
+
+Declan walked to the map. "He's not broken. He's just... waiting for the song."
+
+<!-- PROMPT: {{rafe}} gestures toward the holographic map on the table, his amber-orange stone glowing at his neck, red hair catching the lamplight, expression troubled. Across from him, {{declan}} has climbed onto a chair and leans over the table toward the map, one small hand reaching out to touch the pulsing dot that marks the Shale Drift. His face is calm and certain — the only person in the room who isn't worried. Every adult and older child watches the toddler with a mix of awe and confusion. The amber sphere at his chest glows in sync with the map pulse. -->
+
+---
+
+**Page 8**
+
+"What song?" Julian asked.
+
+Declan looked at his brother with the pity a wise elder might show a slow student. "The *real* song," he said.
+
+<!-- PROMPT: Close-up two-shot. {{julian}} leans forward, brow furrowed, notebook and pencil ready, asking a question with his usual analytical intensity. {{declan}} faces him from across the table, and despite being a toddler, his expression is one of patient, almost pitying wisdom — eyebrows raised slightly, head tilted, a look that says "isn't it obvious?" The contrast between Julian's desperate need to understand and Declan's effortless knowing is the heart of the frame. Warm golden light from Declan's amber sphere illuminates both faces. -->
+
+---
+
+**Page 9**
+
+Late that night, Ezra sat on the porch with Ollie. The twin moons were high. The star in his chest felt heavy.
+
+Then he heard it from inside — a low sound coming from the back bedroom.
+
+<!-- PROMPT: Nighttime exterior of the Nelson cabin porch. {{ezra}} sits on the wooden steps in his orange hoodie, {{ollie}} beside him, both looking up at a sky with twin moons casting silver-blue light. The gold glow at Ezra's chest is visible but muted, heavy-looking. His expression is contemplative, restless. From the cabin behind him, warm light spills from a window — and faint visible sound waves ripple outward through the glass, distorting the light. Ollie's ears prick toward the sound. Quiet, atmospheric, the moment before something changes. -->
+
+---
+
+**Page 10**
+
+Declan sat up in bed, eyes closed, face peaceful. A deep hum vibrated from his chest — the exact same sound the Rift Entity had made.
+
+The windows chattered. Ollie walked in and started humming too — a high note that perfectly harmonized with Declan's rumble.
+
+<!-- PROMPT: Interior of the children's dark bedroom. {{declan}} sits upright in his small bed, eyes closed, face serene, mouth slightly open. Visible concentric sound waves radiate from his amber chest-sphere, deep and powerful. The floorboards vibrate. Window glass rattles in its frame, catching moonlight. {{ollie}} sits beside the bed, head tilted up, mouth open in a high whining harmony — his own thinner sound waves interweaving with Declan's. {{ezra}} stands frozen in the doorway, hand on the frame, eyes wide, the gold glow at his chest responding — shifting, changing color. Two-tone harmony made visible in light and vibration. -->
+
+---
+
+**Page 11**
+
+Ezra's star went bright. Not golden anymore — turning a deep, rusty red.
+
+"The song," he whispered.
+
+<!-- PROMPT: Extreme close-up of {{ezra}}'s chest. His orange hoodie is pulled aside and the star at his chest blazes with light — but the color is wrong, shifting from its usual warm gold through amber into a deep vibrant rusty red. The red light spills across Ezra's chin and hands as he looks down at himself. His brown eyes reflect the red glow, wide with wonder, not fear. His lips form the whispered words. Behind him, the combined sound waves from Declan and Ollie ripple through the air like visible music. Intimate, transformative moment. -->
+
+---
+
+**Page 12**
+
+Morning. A single charcoal-grey ship dropped through the clouds. No signal. No warning. Just hovering.
+
+A scarred man in dark armor appeared on the holographic screen. "Deliver the Youngest, or we will level your colony."
+
+<!-- PROMPT: Split page. Top panel: wide exterior shot of Monscollis Colony at dawn, the crystal spire catching early light — and above it, a menacing charcoal-grey angular warship hangs motionless in the clouds, dark and predatory against the pale morning sky. Colony alarm lights flash red along the ground. Bottom panel: interior of the colony command center. A holographic screen displays a terrifying figure — a man in dark angular armor, his face covered in jagged scars like lightning strikes, eyes cold. Captain Okonkwo, {{sable}}, and {{julian}} face the screen. Sable whispers: "They want Declan." Tension and dread. -->
+
+---
+
+**Page 13**
+
+"No," Mom said. Flat. Final. A sound that made even the Purge leader seem small.
+
+"We need a plan," Julian said. "They have a ship. We have a dog and some glowing rocks."
 
 "And a friend," Ezra said.
 
-He looked at Declan. The toddler was sitting on the floor, seemingly unbothered by the armored man on the screen. He was humming again. That low, floor-shaking rumble.
-
-"Decker," Ezra said. "Can you call the Old Friend?"
-
-Declan looked up. He smiled.
-
-"He's already here, Ezwa."
-
-As he spoke, the shadows in the corners of the main hall began to shift. The air grew thick and cold. The fog from the Shale Drift—impossible, light-years away—began to leak through the vents.
-
-A tall shape began to form behind Declan. Shifting grey smoke. Edges like cut glass. Faint glowing eyes.
-
-The Rift Entity hadn't stayed at the Shale Drift. It had followed the song.
-
-The man on the screen froze. His eyes went wide. "That's... that's impossible. The Guardian cannot leave the Drift."
-
-"He's not a guardian," Declan said, standing up and patting the smoky grey leg of the entity. "He's a friend."
-
-The entity made a sound—a deep, resonant BOOM that shattered the holographic screen and sent a shockwave through the colony that made the hovering Purge ship wobble in the sky.
+<!-- PROMPT: Three-panel vertical page. Top panel: close-up of Mom's face — jaw set, eyes fierce, one word on her lips. She is not negotiable. The holographic screen light falls across her determined expression. Middle panel: {{julian}} paces, hands in his hair, notebook clutched to his chest, listing their assets with visible frustration. {{rafe}}, {{petra}}, and {{noa}} stand behind him, tense, ready. Bottom panel: {{ezra}} stands still amid the chaos, looking directly at the viewer with calm certainty, gold-red glow at his chest. His quiet words stop the room. -->
 
 ---
 
-The Purge ship didn't stay long after that.
+**Page 14**
 
-It turned and burned its engines hard, heading back into the clouds as fast as it could. They weren't defeated, not really—they were just terrified. And for now, that was enough.
+"Decker — can you call the Old Friend?"
 
-The entity stayed in the main hall for a full minute after the ship was gone. It looked at Ezra, then at Sable, then at each of the kids in turn. When it looked at Petra, her fingertips glowed violet-white. When it looked at Rafe, his amber fragment levitated an inch off his chest.
+Declan smiled. "He's already here, Ezwa."
 
-Finally, it looked at Declan.
+The shadows shifted. Fog leaked through the vents. A tall shape formed behind Declan — shifting grey smoke with edges like cut glass and faint glowing eyes.
 
-It made a soft, clicking sound. Like a clock winding down.
+<!-- PROMPT: Full-page dramatic reveal. The colony command center transforms. Grey fog pours through ceiling vents and floor grates. Shadows bend and gather behind {{declan}}, who stands in the center of the room grinning, arms at his sides, completely unafraid. Behind him, the massive Rift Entity materializes — towering grey smoke-figure with sharp geometric edges, two pale glowing eyes, ancient and immense. {{ezra}} stands nearby, his chest glowing red-gold. The other children and adults press back against the walls. The holographic screen still shows the scarred Purge leader, whose expression is shifting from menace to shock. Cold grey fog against warm fragment-light. Awe and power. -->
+
+---
+
+**Page 15**
+
+The man on screen froze. "That's impossible. The Guardian cannot leave the Drift."
+
+"He's not a guardian," Declan said, patting the smoky grey leg. "He's a friend."
+
+The entity made a BOOM that shattered the screen and sent a shockwave that rocked the Purge ship in the sky.
+
+<!-- PROMPT: Action page, dynamic composition. {{declan}} stands tiny beside the enormous grey smoke-leg of the Rift Entity, one small hand patting it affectionately, looking up with a sweet smile. The Entity's pale eyes blaze bright. A massive circular shockwave explodes outward from the Entity — visible as a ring of compressed air and light — shattering the holographic screen into sparking fragments and blasting outward through the colony walls. Inset panel in corner: exterior shot of the charcoal Purge warship wobbling violently in the sky as the shockwave hits it, tilting off-axis. Raw power channeled through a toddler's friendship. -->
+
+---
+
+**Page 16**
+
+The Purge ship turned and burned away. The entity looked at each child — Petra's fingertips glowed violet, Rafe's stone levitated. Then it looked at Declan. A soft clicking sound.
 
 "Bye-bye," Declan said.
 
-The smoke dissipated. The cold air warmed up. The entity was gone.
+On the floor where the entity had stood: Fragment Six. Glowing deep, vibrant crimson.
 
-But on the floor, where the entity had been standing, was a gift.
+Declan yawned. "Now brefkist?"
 
-The dark-red fragment.
-
-It wasn't rusty anymore. It was glowing a deep, vibrant crimson, pulsing in time with Ezra's gold and Sable's blue.
-
-"Fragment Six," Julian whispered, finally writing it down.
-
-Ezra picked it up. It was warm. It felt like the Rift Entity's hum, translated into light.
-
-"One more," Declan said, yawning. "Now brefkist?"
-
-Rafe let out a short, sharp laugh. "Yeah, buddy. Definitely breakfast."
-
-Ezra held the red stone tight. They had six fragments now. The Covenant was nearly whole. But the Shadow Hand was splintering, the Purge was watching, and the "real song" had only just begun.
-
-*Next: Chapter 19 — The Final Piece*
+<!-- PROMPT: Final page, four panels. Top-left: through a window, the Purge warship retreats into the clouds, engines flaring, fleeing. Top-right: the Rift Entity bends its great smoky head down toward {{declan}}, pale eyes soft, making a gentle clicking sound. Declan waves up at it with one chubby hand, saying goodbye. Bottom-left: the grey smoke dissipates into nothing, and on the floor where the entity stood, a vibrant deep crimson fragment glows powerfully, pulsing in rhythm with {{ezra}}'s gold and {{sable}}'s blue pendant — three lights beating as one. {{julian}} kneels beside it, awestruck, whispering. Bottom-right: {{declan}} mid-yawn, eyes squeezed shut, fists balled, asking about breakfast. {{ollie}} sits beside him, tail wagging. Morning light floods in. Hope, warmth, and a toddler's perfect priorities. -->
