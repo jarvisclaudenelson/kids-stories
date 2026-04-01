@@ -2,6 +2,8 @@
 format: graphic-novel
 title: "Chapter 16: Meridian Point"
 ---
+# Chapter 16: Meridian Point
+
 Meridian Point wasn't really a point. It was three metal cans bolted together in the middle of nowhere, floating around a star that was too tired to even glow bright. The kind of place people came to when they were between places, between plans, between lives. Wren brought the *Ariadne* in with the kind of docking maneuver that felt like a polite suggestion to the station, nudging the ship into the bay so gently that Declan didn't even wake up from his nap on Ollie's back. She cut the engines and turned around in her pilot's seat to face the group of children who had somehow become her most regular passengers. "Six hours," she said, holding up six fingers for emphasis. "Find your person. Don't touch anything that looks like it belongs to a pirate. And whatever you do, don't drink the coffee. It's been there since the colony was founded."
 
 <!-- PROMPT: Pixar/Disney-quality 3D animated illustration, warm cinematic lighting, rich saturated colors, expressive faces, 16:9 landscape format. Wide establishing shot of Meridian Point space station — three weathered cylindrical metal modules connected by ribbed tubes, orbiting a dim orange star in deep space. The Ariadne, a sleek white-and-blue ship, is docked at one of the bays, dwarfing the station slightly. Interior inset panel: {{wren}} turned around in the pilot seat, holding up six fingers, addressing the group. {{julian}} already has his notebook open. {{declan}} sleeps slumped across {{ollie}}'s curly grey back. {{sable}}, {{rafe}}, and {{petra}} unbuckle harnesses behind them. Warm cockpit amber against cold deep-space blue. -->
