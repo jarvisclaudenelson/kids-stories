@@ -182,4 +182,22 @@ The kids discovered that the Shadow Hand wanted to shatter the seven fragments o
   - The Rift Entity's true nature remains unknown.
   - The silver-haired woman's warning — is the Covenant a test with consequences?
 
-*Last updated: 2026-03-21 (Chapter 25 — Six Steps; Steps 2/3/4 passed, Declan's two-way Builder contact revealed, Ezra's question asked, silver-haired woman's certainty cracking)*
+### Chapter 20 — The Voice in the Static
+
+- **The Hum:** Colony hum started the moment all seven fragments returned to storage in the command center. Sable's silver-blue stone began pulsing in a new rhythm — the fragments were doing something collectively they had never done before.
+- **Seven Fragments — Active State:** All seven fragments now blazed together in the curved alcove display, each casting its own color, the lights blending and separating in patterns that seemed almost linguistic. Sable's silver-blue fragment appeared to lead — acting as conductor for the others.
+- **Noa's Discovery — Transmitter:** The seven-fragment chord is not music but a broadcast. The complete Covenant is a signal — a message transmitted somewhere beyond normal space. The fragments together function as a transmitter, not just resonating objects.
+- **Declan's Unique Reception:** Declan heard the signal's answer before anyone else detected it. His sound/vibration power allows him to perceive frequencies the other Guardians cannot. When the response came through the communications console, Declan received it directly — his hands on the panel, eyes unfocused, voice altered to something older and more patient.
+- **The Answer:** "We heard you. We've been waiting." — confirmed the Builders received the Covenant signal and have been anticipating a response. The Builders are already en route.
+- **"They're Coming — And They Brought a Snack":** Declan's exact words upon receiving the Builder response. The snack comment was genuine two-year-old priority, not metaphor. Petra had a snack bar. Declan wanted some. Both happened simultaneously with first confirmation of extraterrestrial contact.
+- **Fragment Seven — Yellow, Orbiting Dead Star:** Fragment Seven was found in orbit around the white dwarf star at the center of the Unmapped Belt. Retrieved by Rafe via extended-range telekinesis. The dead star flashed once white when the fragment was retrieved — as if acknowledging the retrieval.
+- **Season 2 Open Threads (updated):**
+  - The Builders received the Covenant signal and confirmed they're coming.
+  - Declan's sound/vibration power is the reception mechanism for Builder communication — not just signal reception but two-way contact.
+  - The Builders arrived with something — Declan's "snack" comment may have been literal.
+  - What does the complete Covenant do when all seven steps are passed?
+  - The Rift Entity's fate and true nature remain unknown.
+  - What was the dead star's single white pulse when Fragment 7 was retrieved?
+  - The silver-haired Purge woman's warning — the Covenant is a test, not all worlds who completed it are still intact. Is this true?
+
+*Last updated: 2026-04-09 (Chapter 20 — The Voice in the Static; all seven fragments returned, Covenant confirmed as transmitter, Builder response received, "They're coming — and they brought a snack")*
