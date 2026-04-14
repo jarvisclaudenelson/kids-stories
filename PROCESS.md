@@ -1,96 +1,117 @@
 # Story Writing Process
 
-## Pre-Writing Checklist
+## Canon policy
 
-Before writing any story chapter:
+This repo has **one active continuity**:
 
-- [ ] Read `world/WORLD.md` - understand current canon
-- [ ] Read `world/PLOT.md` - understand active plot threads
-- [ ] Read previous chapter(s) - maintain continuity
-- [ ] Check for any pending plot threads to advance
-- [ ] Read `world/CHARACTER_PROMPTS.md` - for image generation
+- Active canon lives in `stories/chapter-001.md` through the current latest chapter in `stories/`
+- `stories/archive/` contains superseded / alternate continuation drafts
+- Do **not** merge archive details back into canon unless we intentionally promote them
 
-## Character Facts (MUST REMEMBER)
+## Source-of-truth order
 
-### The Nelson Boys
-- **Julian "Juju"** (7) - oldest, competitive, fierce, wants to be hero
-- **Ezra "EZ"** (5) - middle, creative, empathetic, big emotions
-- **Declan "Decker"** (2) - youngest, social, stubborn, brave
-- **Ollie** - family dog, brave, protective, senses danger, Schnoodle breed
+Before writing or illustrating, check these in order:
 
-### Key Facts
-- All three are BOYS (he/him)
-- Last name: Nelson
-- Ship: USS Mayflower (crashed)
-- Current location: Monscollis Colony planet
-- Goal: Rescue separated parents, find other colonists
+1. Latest active chapter(s) in `stories/`
+2. `world/WORLD.md`
+3. `world/PLOT.md`
+4. `world/IMAGE_TRACKING.md`
+5. `world/CHARACTER_PROMPTS.md`
+6. Existing `prompts/chapter-XXX-prompts.md` files for format/style consistency
 
-## Writing Standards
+## Pre-writing checklist
 
-- Length: 800-1200 words (~10-15 min read)
-- Tone: Fun, adventurous, age-appropriate
-- Format: Engaging chapter with mild cliffhanger
-- Point of view: Third person, focus on kids
-- Structure: Plan 3-5 illustration moments (every 2-3 pages)
+- [ ] Read the latest active chapter
+- [ ] Review `world/WORLD.md`
+- [ ] Review `world/PLOT.md`
+- [ ] Review `world/IMAGE_TRACKING.md`
+- [ ] Confirm any open continuity threads that must advance
+- [ ] Confirm the next chapter number before creating files
 
-## Post-Writing Process
+## Core canon guardrails
 
-After completing a chapter:
+### The Nelson boys
+- **Julian "Juju" Nelson (7)** — planner, determined, competitive, brave, no fragment
+- **Ezra "EZ" Nelson (5)** — empathetic, emotionally perceptive, carries the gold fragment in his chest
+- **Declan "Decker" Nelson (2)** — toddler, brave, socially fearless, no fragment; sound/vibration gift
+- **Ollie** — family Schnoodle, protective, senses danger
 
-1. **Save to** `stories/chapter-XXX.md` (next sequential number)
-2. **Verify** character names, pronouns (he/him for all 3 boys)
-3. **Verify** details match WORLD.md
-4. **Update WORLD.md** with any new details
-5. **Update PLOT.md** with completed threads
-6. **Generate Illustrations** (see below)
-7. **Push to GitHub** - `git add -A && git commit -m "Add Chapter X" && git push`
-8. **Send** to Erik on Discord for review
+### Pronouns
+- Julian = **he/him**
+- Ezra = **he/him**
+- Declan = **he/him**
+- Ollie = **he/him**
 
-## Image Generation Process
+### Ongoing active-team cast
+- Sable — silver-blue fragment, pattern sense
+- Rafe — amber fragment, telekinesis
+- Petra — violet-white fragment, light/energy projection
+- Noa — yellow-green fragment, boosts systems / hears machine patterns
 
-### When to Generate
-After completing a chapter, generate **3-5 illustrations** (every 2-3 pages of content).
+## Chapter standards
 
-### Steps
-1. **Read CHARACTER_PROMPTS.md** - always use character descriptions
-2. **Identify key scenes** - pick 3-5 pivotal moments in the chapter
-3. **Write prompts** using the template:
-   ```
-   Pixar-style 3D animated scene of [scene description],
-   including CHARACTERS:
-   - Julian: 7-year-old Caucasian boy, sandy blonde short hair, blue/hazel eyes, [expression/action]
-   - Ezra: 5-year-old Caucasian boy, dark brown medium-length hair, brown eyes, [expression/action]
-   - Declan: 2-year-old Caucasian boy, medium brown short hair, brown eyes, [expression/action]
-   - Ollie: medium-sized scruffy Schnoodle, white and gray curly fur, [expression/action]
-   
-   [Additional scene details...], Disney Pixar quality, adventure movie style
-   ```
-4. **Generate using DALL-E 3:**
-   ```bash
-   python3 /app/skills/openai-image-gen/scripts/gen.py \
-     --model dall-e-3 --size 1792x1024 --style vivid \
-     --prompt "[your prompt]" --count 1 \
-     --out-dir /home/node/.openclaw/workspace/kids-stories-reader/public/images/chapter{N}
-   ```
-5. **Rename files** to descriptive names (crash.png, forest.png, etc.)
-6. **Update App.jsx** - add illustrations to CHAPTER_IMAGES mapping
-7. **Push** changes to kids-stories-reader GitHub repo
+- Format: chapter markdown in `stories/chapter-XXX.md`
+- Typical length: ~900–1600 words unless a specific chapter wants a different rhythm
+- POV: close third, kid-centered
+- Tone: adventurous, emotionally warm, age-appropriate
+- Endings: usually land on wonder, momentum, or a mild cliffhanger
+- Include **page-level illustration thinking** while drafting
 
-### Settings
-- Model: dall-e-3
-- Size: 1792x1024 (landscape)
-- Style: vivid
-- Cost: ~$0.04-0.08/image
+## Illustration workflow
 
-## Pronoun Checklist (ALWAYS VERIFY)
+### Page planning
+- Aim for **3–9 strong illustration beats** depending on chapter structure
+- Recent chapters are trending toward **full page-by-page prompt coverage**; prefer that format going forward
+- Capture a mix of:
+  - establishing shots
+  - action beats
+  - emotional character moments
+  - end-of-chapter image-worthy reveal or landing beat
 
-- [ ] Julian = he/him
-- [ ] Ezra = he/him (BOY)
-- [ ] Declan = he/him
-- [ ] Ollie = he/him
-- [ ] Mom = she/her
-- [ ] Dad = he/him
+### Prompt requirements
+Every prompt should preserve:
+- consistent character faces
+- correct fragment holder / non-holder status
+- correct fragment color + placement
+- warm cinematic storybook feel
+- **no text bubbles / no captions in the image**
+
+### Reference assets
+Use these whenever relevant:
+- `world/assets/nelson-boys-photo.jpg`
+- `world/assets/boy-final.png`
+- `world/assets/ollie-final.png`
+- existing finished chapter art for continuity
+
+### Prompt helper
+```bash
+cd /root/.hermes/repos/kids-stories
+python3 scripts/gen_prompt.py --list
+python3 scripts/gen_prompt.py --cast 20
+python3 scripts/gen_prompt.py 20 6 "Declan at the communications console" declan julian sable noa petra rafe
+```
+
+## Post-writing checklist
+
+After finishing a chapter:
+
+1. Save it as `stories/chapter-XXX.md`
+2. Create/update `prompts/chapter-XXX-prompts.md`
+3. Verify names, ages, pronouns, fragment details, and continuity
+4. Update `world/WORLD.md` if canon changed
+5. Update `world/PLOT.md` with resolved and open threads
+6. Add page art into `images/chapterN/` when available
+7. If a chapter is being replaced, move the old version into `stories/archive/`
+
+## When replacing existing canon
+
+If a chapter or continuation is superseded:
+
+- move the old markdown into `stories/archive/`
+- keep the active version in `stories/`
+- update `WORLD.md` and `PLOT.md` so they only reflect active canon
+- avoid mixing archive details into future chapters accidentally
 
 ---
 
-*Process document - update as needed*
+*This process doc is for the cleaned current workflow, not older external app-specific image pipelines.*

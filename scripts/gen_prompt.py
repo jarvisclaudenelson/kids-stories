@@ -124,7 +124,8 @@ def list_characters(data):
     print(f"{'ID':<15} {'Name':<30} {'First Appears':<15} {'Reference Image'}")
     print("-" * 80)
     for c in data["characters"]:
-        print(f"{c['id']:<15} {c['name']:<30} {c['first_appearance']:<15} {c.get('reference_image', 'none')}")
+        ref = c.get("reference_image") or "none"
+        print(f"{c['id']:<15} {c['name']:<30} {c['first_appearance']:<15} {ref}")
 
 def show_cast(chapter_num, data):
     cast_key = f"chapter-{chapter_num:03d}"
@@ -142,9 +143,9 @@ def show_refs(char_ids, data):
     for cid in char_ids:
         c = get_character(cid, data["characters"])
         if c:
-            ref = c.get("reference_image", "none")
+            ref = c.get("reference_image") or "none"
             full = os.path.join(REPO, ref) if ref != "none" else ""
-            exists = "✅" if full and os.path.exists(full) else "❌"
+            exists = "✅" if full and os.path.exists(full) else ("—" if ref == "none" else "❌")
             print(f"{c['name']}: {ref} {exists}")
             print(f"  {c['prompt_snippet']}")
             print()

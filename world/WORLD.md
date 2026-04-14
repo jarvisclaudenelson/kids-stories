@@ -1,203 +1,158 @@
-# Monscollis Universe - World Bible
+# Monscollis Universe — Active World Bible
 
-## Overview
-A sci-fi adventure for kids following Ezra, Julian, and their friends as they protect the ancient Covenant fragments.
+## Canon scope
 
-## The Guardians
-- **Ezra (5):** Gold fragment (Monscollis). Power: Stretching.
-- **Julian (7):** The leader and strategist.
-- **Declan (2):** The emotional compass. Power: Early sound sensing.
-- **Sable (15):** Silver-blue fragment (Vela Station). Power: Pattern sensing.
-- **Rafe (12):** Amber-orange fragment (Bryn Dural). Power: Telekinesis.
-- **Petra (13):** Violet-white fragment (Gerald). Power: Light projection.
-- **Noa (12):** Yellow-green fragment (Meridian Point). Power: The Boost.
-- **Ollie (Dog):** Schnoodle. Power: Danger sensing.
+This document tracks the **active canon only**.
 
-## The Story So Far (Season 1)
-The kids discovered that the Shadow Hand wanted to shatter the seven fragments of the Covenant. They traveled to different planets, found new friends, and rescued the fragments. In the finale, they reunited all seven fragments at the crystal spire, defeating the Shadow Hand and saving the world.
+- Active canon = `stories/chapter-001.md` through `stories/chapter-021.md`
+- `stories/archive/` contains superseded or alternate continuation drafts and is **not** the live source of truth
 
-## Factions
-- **The Guardians:** The kids and their allies.
-- **The Shadow Hand:** A group that wants to destroy the ancient power. (Defeated in Season 1).
+## Premise
 
-## Locations
-- **Monscollis Colony:** Home base.
-- **Crystal Spire:** Ancient artifact where the fragments are now kept.
-- **Bryn Dural:** Where Rafe was found.
-- **Gerald (HD 34729):** Where Petra was found.
-- **Meridian Point:** Where Noa was found.
+The Nelson boys — **Julian (7), Ezra (5), and Declan (2)** — are growing up on the colony world **Monscollis** while uncovering the mystery of the ancient **Covenant fragments**. What began as a survival-and-discovery adventure has grown into a larger Guardian story involving hidden fragment holders, hostile factions, ancient watchers, and now a signal answered from beyond known space.
 
-## Season 2 — New Threats (Chapter 17+)
+## Core cast
 
-### The Shale Drift
-- Remote location at the Outer Ring's edge — foggy, jagged black cliffs, mostly unmapped.
-- Fragment 6 (rust-red, dim/drained) is located in an underground cave here.
-- Cave walls are covered in ancient spiral carvings of unknown origin.
+### The Nelson family team
+- **Julian "Juju" Nelson (7)** — planner, strategist, notebook always nearby, no fragment
+- **Ezra "EZ" Nelson (5)** — empathetic, emotionally intuitive, gold fragment in chest; stretching / elasticity abilities
+- **Declan "Decker" Nelson (2)** — toddler, socially fearless, no fragment; senses and channels sound/vibration in unusual ways
+- **Ollie** — protective Schnoodle, senses danger and ancient energy
 
-### The Rift Entity ("Old Friend")
-- A tall, shifting shadowy figure made of dark fog with two faint glowing eyes.
-- Not hostile — appears to be guarding Fragment 6, not threatening the kids.
-- Declan communicated with it via sound/vibration — matched its hum exactly.
-- Declan called it "Old Friend." Its true nature is unknown.
-- It stepped back (made room) rather than attacking. The situation is unresolved.
+### The Guardian allies
+- **Sable (15)** — silver-blue fragment, pattern-sense, practical field leader
+- **Rafe (12)** — amber fragment, telekinesis, patient and observant
+- **Petra (13)** — violet-white fragment, light/energy projection, dry humor, keeps snack bars in jacket pockets
+- **Noa (12)** — yellow-green fragment on left wrist, hears machine/system patterns, can boost technology and decode signals
 
-### Fragment 6 (Rust-Red)
-- Previously held by the Shadow Hand; now loose at the Shale Drift.
-- Currently dim/drained — not glowing as a healthy fragment should.
-- The team did NOT retrieve it; left it to learn more first.
+### Recurring adults / authority figures
+- **Captain Okonkwo** — colony authority, practical, takes the Guardian threat landscape seriously
+- **Wren** — pilot of the *Ariadne*, steady and competent
+- **Administrator Chen** — colony administrator present during Chapter 20 command-center events
 
-### Season 2 Threads
-- Who/what is the "splinter group" Sable suspects (separate from the defeated Shadow Hand)?
-- What drained Fragment 6?
-- What is the Rift Entity, and why does Declan recognize it?
-- Fragment 7 location still unknown.
-- Noa's power (Fragment 5) has not yet been demonstrated.
+## Fragments and current status
 
-### Chapter 19 — The Final Piece
+Known Covenant fragments in the active story:
 
-- **Fragment 7 (Blazing Yellow):** Located in orbit around a dead white dwarf star at the heart of the **Unmapped Belt** (beyond the Outer Ring). Not on a planet — floating free in space. Retrieved by Rafe using telekinesis.
-- **The Unmapped Belt:** Dense rotating asteroid field around a cold white dwarf star. No reliable navigation charts; debris orbits shift continuously. Noa's power activated here to navigate it.
-- **Noa's Power Revealed — "The Boost":** Activated while navigating the Belt. She can *hear* patterns in the debris via her headphones. Power manifested as a yellow-green glow spreading from her fragment through her fingertips into the navigation display. She can translate complex signal patterns into navigational paths. She is annoyed she doesn't have a manual.
-- **The Seven-Fragment Chord:** When all seven fragments were united, they resonated together as a complete chord — not a battle or signal, but a musical whole. Declan felt it most intensely. The dead white dwarf pulsed once with white light in response.
-- **Declan's Role:** Can sense the "song" of the Covenant; heard it building as each fragment was added. Confirmed all seven are now gathered.
-- **Fragment Status:** All 7 fragments now held by the Guardians. The Covenant is complete. Fragment 7 is blazing yellow.
-- **The Covenant Purge:** Still active and aware of the Guardians. Not yet confronted in full — they fled in Chapter 18. They know Fragment 6 was retrieved from the Shale Drift.
-- **Season 2 Open Threads (updated):**
-  - The Covenant is now whole — what does that activate?
-  - The Covenant Purge still hunts the group.
-  - What was the Rift Entity's true nature? It brought Fragment 6 to the kids and then disappeared.
-  - What does the "song being finished" actually mean?
+1. **Gold** — Ezra
+2. **Silver-blue** — Sable
+3. **Amber-orange** — Rafe
+4. **Violet-white** — Petra
+5. **Yellow-green** — Noa
+6. **Deep crimson / rust-red** — recovered after the Rift Entity events at the Shale Drift
+7. **Blazing yellow** — retrieved from orbit around a dead white dwarf in the Unmapped Belt
 
-### Chapter 20 — The Covenant Whole
+### Current group status after Chapter 20
+- All **seven fragments are together at Monscollis**
+- In Chapter 20 they are behaving as a coordinated system rather than isolated relics
+- The completed Covenant functions as a **transmitter / broadcast system**
+- The signal received a direct answer: **"We heard you. We've been waiting."**
 
-- **The Covenant Cradle:** An ancient underground chamber discovered beneath the red-rock plain on the western edge of Monscollis Colony. Round chamber, smooth black stone walls covered in spiral carvings (matching Shale Drift). Contains a seven-sided stone dais with seven fragment-shaped depressions. Hidden — no visible entrance until the seven fragments activated it.
-- **The Key / Beacon:** When all seven fragments were brought together near the Cradle, they broadcast a combined signal that activated the spiral carvings in the rock and opened a door. Declan sensed the location immediately ("Here").
-- **Fragment Placement:** Declan placed all seven fragments in their dais depressions, one by one. Each one emitted a single clean note as it settled. All seven together produced the complete Covenant chord.
-- **Fragments Now Resting:** The seven fragments hover in a slow ring above the dais, glowing in their combined light. They are no longer carried by individual Guardians — they are "home."
-- **What the Broadcast Means (Noa):** The seven-fragment signal is broadcasting "somewhere." Destination unknown. Noa can hear it through her headphones but cannot yet decode the content.
-- **Declan's Role:** Sensed the Cradle location immediately. Directed the placement of every fragment. Acts as the "song-keeper" of the Covenant — he heard it building from Fragment 1 and recognized when it was complete.
-- **Colony Impact:** Colony went about its day unaware. The Covenant activation was felt only by the Guardians. The spiral carvings now radiate outward under the plain — extent unknown.
-- **Season 2 Open Threads (updated):**
-  - The Covenant is now whole and active — what does the broadcast activate or summon?
-  - Where is the signal going? Is it an invitation, a warning, or a lock being opened?
-  - The Covenant Purge still hunts the group — do they know the Cradle has been found?
-  - The Rift Entity's fate and true nature remain unknown.
-  - What did the dead star's single white pulse in Chapter 19 mean?
+## Key factions and forces
 
-### Chapter 21 — What the Covenant Opens
+### The Guardians
+The kids and their allies who have gathered the fragments and are now carrying the consequences of completing the Covenant.
 
-- **Noa's Decode:** Noa decoded the seven-fragment broadcast signal over four days. It has two parts: (1) a deep-space coordinate address — a location far outside known space — and (2) a structure matching the Cradle door mechanism. She describes it as a "charging dock signal" reaching out to somewhere.
-- **The New Script:** A section of the Cradle chamber wall activated after the seventh fragment was placed. Sable read one cluster of it: *"What remains when the song is whole?"* — a question directed at the Guardians themselves, not at the Covenant.
-- **Ezra's Answer:** Ezra concluded that "what remains" is the Guardians — the fragments are home, the mission is complete, and the question is about who the kids are and what they do next.
-- **"They're Coming":** Declan pressed his palm to the unread wall section, causing the entire chamber to illuminate. He announced: *"They're coming."* He communicated (via gesture + simple words) that the Covenant was built *for* the Guardians, the signal went up and far, and the builders are now on their way back.
-- **Ten Days:** Declan indicated (ten fingers) that arrival is approximately ten days away.
-- **The Builders:** Identity unknown — the people/beings who created the Covenant fragments and the Cradle. Not confirmed hostile or benign. Their arrival is the next major story event.
-- **Petra's Snack Bar Habit:** Started keeping snack bars in her jacket pocket since the Shale Drift mission. Now on her third in two days. Not a power. Just a detail.
-- **Season 2 Open Threads (updated):**
-  - Who built the Covenant, and what are they? (Arriving in ~10 days)
-  - What does the deep-space coordinate address point to?
-  - What does "What remains when the song is whole?" fully mean for the Guardians?
-  - The Covenant Purge — do they know the Cradle has been found and the signal is broadcasting?
-  - The Rift Entity's fate and true nature remain unknown.
-  - What did the dead star's single white pulse in Chapter 19 mean?
+### The Shadow Hand
+An organized hostile force tied to the fragment hunt earlier in the series. Still part of the wider threat backdrop.
 
-### Chapter 22 — Ten Days
+### The Purge
+A more dangerous post-Shadow-Hand threat introduced in the later active arc. They demanded "the youngest" and treated Declan as strategically important.
 
-- **Julian's Whiteboard:** Julian's response to the Builders' arrival was a detailed plan whiteboard labeled "TEN DAYS — A PLAN." It had a column called "Things We Already Know." The column was empty. This is accurate.
-- **Sable's Chamber Work:** Sable spent mornings in the Cradle working through the spiral carvings via pattern-sense. She can feel structure and language but cannot fully translate — except the section Declan touched, which she believes refers specifically to the Guardians (not the Covenant, not the fragments).
-- **Noa's Coordinate Decode:** Noa decoded two more lines of the coordinate string. The Builders' point of origin is in a completely unmapped region — zero surveys, zero colony records. Could be current home or historical origin point.
-- **The Gold Fragment's Mood:** Ezra noticed the gold fragment's urgency is gone. Replaced by something like patience. He interprets this as a positive sign.
-- **Declan in the Cradle:** Declan visited the Cradle alone on Day 5, slipping out after his nap. Mom found him there. He was sitting with the fragments in complete stillness (unusual for him). He told her he was "waiting for big friends." He was not afraid.
-- **Julian Admits the Plan Is Theater:** Privately told Ezra the whiteboard is mostly for the feeling of doing something. He has no real plan for alien first contact.
-- **The Signal Changes — Day 7:** At 2:14 AM on Day 7, Sable felt the Covenant chord get louder. She went to the Cradle; the fragments were blazing brighter, spinning faster. Declan was already there in pajamas. He had been there a while.
-- **Noa Hears an Echo:** Noa detected an echo in the signal — something coming *back* from the northwest direction. A reply. The Builders responded to the broadcast.
-- **"Hurrying" — Three Days:** Declan revised the arrival estimate from ten days to three. His explanation: they are hurrying. The original ten-day estimate was presumably based on normal travel speed; they have accelerated.
-- **The Eyes:** Declan has started calling the two small paired stars visible from his window "the eyes." Significance unclear.
-- **Season 2 Open Threads (updated):**
-  - Builders arrive in approximately 3 days (revised from 10).
-  - What does the Covenant signal say to the Builders? Is it "we're here," "we're ready," or something else?
-  - What does the unread section of Cradle wall (the Guardians-specific section) actually say?
-  - The Covenant Purge — do they know the Cradle is active? Do they know the Builders are coming?
-  - The Rift Entity's fate and true nature remain unknown.
-  - What did the dead star's single white pulse in Chapter 19 mean?
-  - What are "the eyes" (the paired stars Declan named)?
+### The Rift Entity / "Old Friend"
+A towering grey, geometric smoke-like being encountered at the Shale Drift. It responded to Declan, not with hostility, but with recognition and deference. Its exact nature is still unresolved.
 
-### Chapter 23 — What Comes First
+### The Builders
+Not yet physically seen in the active canon, but they have now answered the completed Covenant signal.
 
-- **Julian's New Whiteboard:** The THREE DAYS — REAL PLAN board reduced the plan to two entries: "Say hello" and "Be ready." Declan added an orange rectangle. Nobody knows what it means. Julian did not erase it.
-- **Noa's Signal Decode — Steps:** The echo from the Builders now contains a structured sequence — seven steps, in order. Noa cannot yet decode the content of each step, only that there are seven and they are not random. Parallel to the seven fragments.
-- **The Gold Fragment — Shift to Alertness:** Ezra noticed the fragment's patience (Chapter 22) has been replaced by alertness — forward-leaning, like a dog hearing something. Not fear. Readiness.
-- **"The Eyes" Confirmed as Ship/Arrival:** The two paired stars Declan called "the eyes" are getting visibly brighter from the surface. By Day 8 they were noticeably more intense. Ezra confirmed Declan's read: the Builders are getting closer and fast.
-- **The Covenant Purge — Return:** Sable detected a pattern in the colony grid on Day 8: someone had been moving through the settlement for at least a day. Small steps, scattered, carefully disguised. Identified as the Covenant Purge.
-- **The Silver-Haired Woman (New Character):** A Purge operative. Encountered at midnight at the rock shelf near the Cradle entrance. Did not try to enter. Waited. Close-cropped silver hair, dark eyes, weathered face, jaw that has been through something. She presented as a warning, not an attack. Claims the Covenant was not a gift but a test, and that not all worlds who completed it are "still intact." Admitted the Purge was wrong about *how* to prevent the Builders' arrival — but insists they were right about the danger. Name unknown.
-- **Declan's Verdict:** Declan walked to the silver-haired woman, looked at her, and shook his head — slowly, clearly, certain. Then walked back into the Cradle. The group followed him. No further discussion with the Purge operatives.
-- **Builders — Already in Orbit:** Noa's signal decode confirmed the echo is no longer coming from space. It is coming from low orbit. The Builders arrived early — not in three days but now. The seven fragments blazed white (same pulse as Fragment 7 retrieval) when this was confirmed.
-- **Declan's Final Word:** "Tomorrow." The Builders will make contact tomorrow. He was not afraid.
-- **Season 2 Open Threads (updated):**
-  - The Builders are in orbit and will make first contact tomorrow (Chapter 24).
-  - Who is the silver-haired woman, and is her warning about the Covenant test credible?
-  - What are the seven steps Noa detected in the Builder signal?
-  - What does the Covenant Purge do now — wait, run, or act?
-  - What did the dead star's single white pulse in Chapter 19 mean?
-  - What does the orange rectangle Declan drew mean?
+## Important locations
 
-### Chapter 24 — First Contact
+- **Monscollis Colony** — home base
+- **Crystal Spire / Vault complex** — ancient Covenant-linked structure on Monscollis
+- **Bryn Dural** — location tied to Rafe and Fragment 3
+- **HD 34729 / "Gerald"** — location tied to Petra and Fragment 4
+- **Meridian Point** — transit station where Noa was found and Fragment 5 joined the team
+- **Shale Drift** — remote, fog-choked black-rock location tied to Fragment 6 and the Rift Entity
+- **Unmapped Belt** — dense asteroid field around a dead white dwarf; location of Fragment 7
+- **Command Center (Monscollis)** — where the completed Covenant is active in Chapter 20
 
-- **The Colony Witnesses:** First contact was not private. Sixty colonists watched the Builder's craft descend at 6 AM from the lanes between the residence blocks. The group could not contain it. The colony now knows the Builders exist.
-- **The Builder:** One figure emerged. Tall, roughly human-shaped, but layered in texture — like sediment, or something that has been old for a very long time and let that oldness settle on the surface. Moved with the ease of something that has been standing for eons. Not alarming in behavior; patient and specific.
-- **Fragment Identification — Step 1:** Noa decoded the first step of the Builder sequence as a question: *Who are you?* The fragments answered on behalf of the Guardians automatically. Each Guardian's fragment blazed its acknowledgment. Declan spread his arms and all seven colors rose above the plain. The Guardians passed Step 1.
-- **The Builder Acknowledges Ezra:** The Builder paused on Ezra specifically and raised one flat hand toward him — a gesture of acknowledgment. The gold fragment responded: *I know you too.* Fragment 1 (Gold) is the Builder's primary point of recognition.
-- **The Orange Rectangle:** The Builder produced a warm orange rectangular object from its own chest (a practiced, ordinary gesture) and held it out to Declan. The object matches exactly the orange rectangle Declan drew on Julian's whiteboard three days ago. It glowed warm when Declan held it. When pressed to Declan's chest alongside the Gold Fragment's location, their colors overlapped and something in the air resonated.
-- **Declan's Role Confirmed:** The Builder addressed Declan with a specific inclination of its head — more specific than the group acknowledgment. Declan took the orange object without hesitation. He told Julian it was "for the plan." The Builder's final communication was not in words but in resonance — a sound carrying the shape of all seven fragments compressed to a syllable — directed at Declan.
-- **Seven Steps — Step 1 Complete:** Noa confirmed Step 1 (Who are you?) is complete and passed. Six steps remain. Steps 2–7 are unknown in content.
-- **Petra's Snack Bar Count:** Seven. She faced first contact fed. No regrets.
-- **Season 2 Open Threads (updated):**
-  - Six steps remain in the Builder sequence — what are they?
-  - What is the orange rectangle, and what does it do?
-  - What does the Builder's specific acknowledgment of Ezra (Fragment 1) mean?
-  - What does the Builder's specific acknowledgment of Declan mean — is he more than a song-keeper?
-  - The silver-haired Purge woman's warning: the Covenant is a test, not all worlds who completed it are still intact. Is this true?
-  - What does the Covenant Purge do now that first contact has happened?
-  - The Rift Entity's fate and true nature remain unknown.
-  - What did the dead star's single white pulse in Chapter 19 mean?
-  - What does "Six Steps" actually require of the Guardians?
+## Active chronology summary
 
-### Chapter 25 — Six Steps
+### Chapters 1–5: Crash, colony, first awakening
+- The Nelson boys' world opens into the Covenant mystery
+- Ezra becomes the first clear fragment-linked child
+- The Shadow Hand pressure enters the story
 
-- **Step 2 — Verification (Noa):** The Builder read the complete Covenant record through Noa's signal. She did not initiate it; the yellow-green glow ran from her fragment through her fingertips into the air, and the Builder read it directly. History of every fragment, every location, every Guardian transferred automatically. Step 2 passed.
-- **Step 3 — Roll Call:** The Builder raised both arms, summoning all seven fragments simultaneously — including the two still underground in the Cradle. All seven lights rose sixty feet above the plain in daylight, visible to the sixty colonists watching. The Covenant being complete is no longer a private fact. Step 3 passed.
-- **Declan's Communication Confirmed:** Declan has been in two-way contact with the Builder via the orange rectangle for three days — since he drew it on Julian's whiteboard. He communicated this to Ezra through gesture: temple → chest → rectangle → Builder (a chain). He did not volunteer this information before.
-- **Step 4 — The Question (Ezra):** Step 4 was shaped as an invitation for the Guardians to ask. Ezra asked "Who is Declan?" — and the gold fragment blazed white before he finished. The Builder kneeled to Declan's eye level, pressed its hand to its own chest, and spoke Declan's name in the compressed-fragment resonance. Declan said "Oh." — the specific "oh" of recognition, not surprise. Step 4 passed.
-- **Declan's True Nature:** Not yet stated in words. The Builder's acknowledgment was specific — more particular than the group acknowledgment. Declan's response ("Oh. That's where I left that.") suggests he already knew something was there to be named. His role as "song-keeper" understates what he is.
-- **The Silver-Haired Woman — Doubt Forming:** She watched Steps 1–4 from the rock shelf for the full morning. She has never encountered a Covenant completion that included a child under seven, and never one that included anyone like Declan. She is no longer certain the Purge's records apply to this situation.
-- **Noa's Notes — Step 5–7 Still Dark:** Steps five through seven remain unreadable until each prior step completes. Noa is tracking in real time. She circled "dead star — Rafe's question" on page six as a post-seven question.
-- **The Builder's Patience:** Has not moved from the plain since landing. Adjusted stance when Declan fell asleep — settled in to wait, recognizing the toddler's rest as a natural pause in proceedings.
-- **Declan Asleep:** Fell asleep at 1 PM after 32 hours awake, on Ezra's jacket, still holding the orange rectangle. Orange rectangle glow continues even in sleep.
-- **Season 2 Open Threads (updated):**
-  - What are Steps 5, 6, and 7?
-  - Who or what is Declan truly? The Builder's specific acknowledgment suggests "song-keeper" is incomplete.
-  - What does the orange rectangle do and how did Declan know to draw it three days early?
-  - What does the Covenant Purge do now? The silver-haired woman's certainty is cracking.
-  - What was the dead star's white pulse when Fragment 7 was retrieved?
-  - The Rift Entity's true nature remains unknown.
-  - The silver-haired woman's warning — is the Covenant a test with consequences?
+### Chapters 6–9: Sable joins, second-fragment era
+- Sable brings wider fragment knowledge and pattern-reading ability
+- The story moves from isolated mystery into an organized fragment hunt
+- Monscollis becomes both home base and target
 
-### Chapter 20 — The Voice in the Static
+### Chapters 10–15: The team expands
+- Rafe and Petra join the group
+- The Guardian circle grows
+- The fragment search becomes a multi-world mission rather than a local mystery
 
-- **The Hum:** Colony hum started the moment all seven fragments returned to storage in the command center. Sable's silver-blue stone began pulsing in a new rhythm — the fragments were doing something collectively they had never done before.
-- **Seven Fragments — Active State:** All seven fragments now blazed together in the curved alcove display, each casting its own color, the lights blending and separating in patterns that seemed almost linguistic. Sable's silver-blue fragment appeared to lead — acting as conductor for the others.
-- **Noa's Discovery — Transmitter:** The seven-fragment chord is not music but a broadcast. The complete Covenant is a signal — a message transmitted somewhere beyond normal space. The fragments together function as a transmitter, not just resonating objects.
-- **Declan's Unique Reception:** Declan heard the signal's answer before anyone else detected it. His sound/vibration power allows him to perceive frequencies the other Guardians cannot. When the response came through the communications console, Declan received it directly — his hands on the panel, eyes unfocused, voice altered to something older and more patient.
-- **The Answer:** "We heard you. We've been waiting." — confirmed the Builders received the Covenant signal and have been anticipating a response. The Builders are already en route.
-- **"They're Coming — And They Brought a Snack":** Declan's exact words upon receiving the Builder response. The snack comment was genuine two-year-old priority, not metaphor. Petra had a snack bar. Declan wanted some. Both happened simultaneously with first confirmation of extraterrestrial contact.
-- **Fragment Seven — Yellow, Orbiting Dead Star:** Fragment Seven was found in orbit around the white dwarf star at the center of the Unmapped Belt. Retrieved by Rafe via extended-range telekinesis. The dead star flashed once white when the fragment was retrieved — as if acknowledging the retrieval.
-- **Season 2 Open Threads (updated):**
-  - The Builders received the Covenant signal and confirmed they're coming.
-  - Declan's sound/vibration power is the reception mechanism for Builder communication — not just signal reception but two-way contact.
-  - The Builders arrived with something — Declan's "snack" comment may have been literal.
-  - What does the complete Covenant do when all seven steps are passed?
-  - The Rift Entity's fate and true nature remain unknown.
-  - What was the dead star's single white pulse when Fragment 7 was retrieved?
-  - The silver-haired Purge woman's warning — the Covenant is a test, not all worlds who completed it are still intact. Is this true?
+### Chapter 16: Meridian Point
+- Noa joins the team with Fragment 5
+- Her power is tied to systems, signal logic, and mechanical pattern-hearing
+- The group solidifies into a broader Guardian team
 
-*Last updated: 2026-04-09 (Chapter 20 — The Voice in the Static; all seven fragments returned, Covenant confirmed as transmitter, Builder response received, "They're coming — and they brought a snack")*
+### Chapter 17: Something Woke Up
+- Fragment 6 is located at the **Shale Drift**
+- The site is ominous, ancient, and tied to an unknown force
+- Declan responds to the place with unusual intuition before the group understands why
+
+### Chapter 18: The Old Friend
+- The group meets the **Rift Entity**
+- Declan communicates with it directly through matched sound/hum
+- The Entity yields rather than attacks
+- Fragment 6 is ultimately restored / recovered through the Declan–Entity connection
+- The Purge emerges as a major threat and specifically demands Declan
+
+### Chapter 19: The Final Piece
+- The seventh fragment is found in orbit around a dead white dwarf in the **Unmapped Belt**
+- Noa's deeper power expression becomes crucial for navigation
+- Rafe retrieves Fragment 7 telekinetically at extreme range
+- All seven fragments resonate together as a complete chord for the first time
+- The dead white dwarf pulses once in response
+
+### Chapter 20: The Voice in the Static
+- The completed Covenant is active in the Monscollis command center
+- The seven fragments behave like a unified signal array
+- Noa identifies the system as a **transmitter**
+- Declan becomes the first direct receiver / interpreter of the return signal
+- The answer confirms that someone heard the Covenant and has been waiting
+
+### Chapter 21: Seven Lights
+- Noa and Sable decode the return signal as a request for a seven-light answer from the colony
+- The Guardians set up seven old landing lamps on the west plain to reply in kind
+- Julian's first attempt at leading the build goes badly because he is scared and trying to control everything
+- Ezra helps Julian steady himself, and Julian leads better once he tells the truth
+- The seven lamps answer with the colors of the Covenant fragments
+- Three pale lights appear in the northwest sky, blink back in the same pattern, and then change course toward Monscollis
+
+## Active open threads after Chapter 21
+
+- What exactly are the **Builders** or signal-senders represented by the three pale lights?
+- How long until they reach Monscollis now that they have changed course toward the colony?
+- Why did the Covenant require a seven-light answer from the ground?
+- What does the fully completed Covenant do beyond transmitting and answering?
+- Why did the dead white dwarf pulse when Fragment 7 was retrieved?
+- What is the true nature and role of the Rift Entity?
+- Why is Declan uniquely able to hear / carry / answer the Covenant's deeper signals?
+- What does the Purge do next now that the full signal has gone out and contact is accelerating?
+- What unresolved earlier threat threads from the Shadow Hand era still matter?
+
+## Tone and continuity guardrails
+
+- Keep the wonder high, but the emotional center grounded in family
+- Declan is never "babyified" into uselessness; he is young **and** important
+- Julian does not need a fragment to matter; his planning is central
+- Ezra remains the emotional bridge in the group
+- Ollie is brave, perceptive, and protective — never just comic relief
+- New lore should deepen the Covenant mystery without flattening the bedtime-story warmth
+
+---
+
+*Last cleaned for active canon: 2026-04-14*

@@ -11,14 +11,14 @@
         "species": "human",
         "ethnicity": "Caucasian",
         "hair": "Sandy blonde, short cropped",
-        "eyes": "Hazel/blue",
+        "eyes": "Hazel-blue",
         "build": "Average, slightly athletic for 7",
-        "distinguishing": "No freckles, determined expression",
-        "clothing": "Space colony clothes \u2014 comfortable tunic and pants"
+        "distinguishing": "No freckles, notebook often nearby, no fragment",
+        "clothing": "Colony clothes, often with dark blue jacket"
       },
-      "personality": "Competitive, fierce, loyal, bends rules to win",
-      "power": "Super speed / kinetic burst (unlocked later)",
-      "prompt_snippet": "Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, athletic build, determined brave expression, wearing colony tunic and pants"
+      "personality": "Competitive, fierce, loyal, planner and strategist",
+      "power": null,
+      "prompt_snippet": "Julian: 7-year-old Caucasian boy, sandy blonde short-cropped hair, hazel-blue eyes, slightly athletic build, determined analytical expression, colony clothes, worn notebook nearby, no fragment or personal glow"
     },
     {
       "id": "ezra",
@@ -30,15 +30,15 @@
       "visual": {
         "species": "human",
         "ethnicity": "Caucasian",
-        "hair": "Dark brown, medium/shoulder length",
+        "hair": "Dark brown, medium to shoulder-length",
         "eyes": "Brown",
         "build": "Smaller, wiry",
-        "distinguishing": "Freckles, empathetic eyes",
-        "clothing": "Space colony clothes \u2014 comfortable tunic and pants"
+        "distinguishing": "Freckles, empathetic eyes, gold fragment in chest",
+        "clothing": "Colony clothes or orange hoodie"
       },
-      "personality": "Creative, empathetic, big emotions, sees things others miss",
-      "power": "Elasticity / super stretch and flexibility (unlocked Chapter 3 \u2014 first Covenant fragment absorbed)",
-      "prompt_snippet": "Ezra: 5-year-old Caucasian boy, dark brown shoulder-length hair, brown eyes, freckles, smaller wiry build, curious empathetic expression, wearing colony tunic and pants"
+      "personality": "Creative, empathetic, emotionally perceptive, brave",
+      "power": "Elasticity / stretching",
+      "prompt_snippet": "Ezra: 5-year-old Caucasian boy, dark brown medium-length hair, brown eyes, freckles, smaller wiry build, gentle empathetic expression, orange hoodie or colony clothes, gold heart-shaped fragment glowing through his chest"
     },
     {
       "id": "declan",
@@ -50,15 +50,15 @@
       "visual": {
         "species": "human",
         "ethnicity": "Caucasian",
-        "hair": "Light/medium brown, short toddler hair",
+        "hair": "Light to medium brown, short wispy toddler hair",
         "eyes": "Brown",
-        "build": "Toddler",
-        "distinguishing": "No freckles, chubby toddler cheeks",
-        "clothing": "Small space colony tunic, pull-up"
+        "build": "Toddler, sturdy",
+        "distinguishing": "Chubby cheeks, solemn expression, no fragment",
+        "clothing": "Green jumpsuit, pajamas, or toddler colony clothes"
       },
-      "personality": "Social, helpful, fun, stubborn, surprisingly brave",
-      "power": "Sound/vibration manipulation (unlocked later)",
-      "prompt_snippet": "Declan: 2-year-old Caucasian toddler boy, light brown short hair, brown eyes, chubby cheeks, cute expressive face, wearing small colony tunic"
+      "personality": "Social, stubborn, brave, strangely intuitive",
+      "power": "Sound / vibration sensitivity and response",
+      "prompt_snippet": "Declan: 2-year-old Caucasian toddler boy, light brown wispy short hair, brown eyes, chubby cheeks, green jumpsuit or toddler colony clothes, solemn fearless expression, no fragment or personal glow"
     },
     {
       "id": "ollie",
@@ -66,18 +66,158 @@
       "age": null,
       "type": "main",
       "first_appearance": "chapter-001",
-      "reference_image": "images/chapter1/page-2.png",
+      "reference_image": "world/assets/ollie-final.png",
       "visual": {
         "species": "dog",
         "breed": "Schnoodle (schnauzer + poodle mix)",
         "size": "Medium",
-        "coat": "Grey/silver, scruffy wavy-curly fur",
+        "coat": "Grey-silver and white, scruffy wavy-curly fur",
         "build": "Sturdy, athletic",
-        "distinguishing": "Alert ears, loyal expression, blue collar"
+        "distinguishing": "Blue collar, alert intelligent eyes"
       },
-      "personality": "Brave, protective, intuitive, comic relief",
-      "power": "Senses ancient power / detects danger before humans",
-      "prompt_snippet": "Ollie: medium-sized scruffy Schnoodle dog, grey-silver wavy curly fur, sturdy athletic build, blue collar, alert loyal expression"
+      "personality": "Brave, protective, intuitive",
+      "power": "Senses danger and ancient energy",
+      "prompt_snippet": "Ollie: medium-sized Schnoodle dog, grey-silver scruffy curly coat with white, sturdy athletic build, blue collar, loyal alert expression"
+    },
+    {
+      "id": "sable",
+      "name": "Sable",
+      "age": 15,
+      "type": "main",
+      "first_appearance": "chapter-006",
+      "reference_image": "images/chapter6/page-2.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Tan-skinned",
+        "hair": "Dark hair pulled back in a ponytail",
+        "eyes": "Dark",
+        "build": "Lean, older teen",
+        "distinguishing": "Thin scar along jawline, silver-blue pendant",
+        "clothing": "Practical dark traveler clothes"
+      },
+      "personality": "Composed, alert, disciplined, field-leader energy",
+      "power": "Pattern recognition / signal tracking",
+      "prompt_snippet": "Sable: 15-year-old girl with tan skin, dark ponytail, dark eyes, thin jaw scar, practical dark traveler clothes, silver-blue fragment pendant, composed alert expression"
+    },
+    {
+      "id": "rafe",
+      "name": "Rafe",
+      "age": 12,
+      "type": "main",
+      "first_appearance": "chapter-010",
+      "reference_image": "images/chapter10/page-9.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Fair-skinned",
+        "hair": "Red, messy",
+        "eyes": "Dark",
+        "build": "12-year-old boy",
+        "distinguishing": "Dark freckles, amber pendant",
+        "clothing": "Practical casual colony clothes"
+      },
+      "personality": "Patient, observant, grounded, quietly brave",
+      "power": "Telekinesis",
+      "prompt_snippet": "Rafe: 12-year-old boy with messy red hair, pale skin, dark freckles, practical clothes, amber-orange fragment pendant, quiet steady expression"
+    },
+    {
+      "id": "petra",
+      "name": "Petra",
+      "age": 13,
+      "type": "main",
+      "first_appearance": "chapter-013",
+      "reference_image": "images/chapter13/page-2.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Pale with weather tan",
+        "hair": "Short red hair, close-cropped at sides",
+        "eyes": "Brown",
+        "build": "13-year-old girl",
+        "distinguishing": "Practical jacket, snack bars, iridescent pendant",
+        "clothing": "Worn traveler clothes"
+      },
+      "personality": "Resourceful, witty, bluntly brave",
+      "power": "Light / energy projection",
+      "prompt_snippet": "Petra: 13-year-old girl with short red hair cropped at the sides, weather-tanned pale skin, practical worn clothes, iridescent violet-white fragment pendant, confident dry expression"
+    },
+    {
+      "id": "noa",
+      "name": "Noa Vasquez",
+      "age": 12,
+      "type": "main",
+      "first_appearance": "chapter-016",
+      "reference_image": "images/chapter16/page-5.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Dark-skinned",
+        "hair": "Close-cropped natural dark hair",
+        "eyes": "Dark",
+        "build": "12-year-old girl",
+        "distinguishing": "Large headphones, patched tan jacket, wrist shard",
+        "clothing": "Oversized patched tan cargo jacket, practical boots"
+      },
+      "personality": "Sharp, self-possessed, independent, technical",
+      "power": "Boosts systems and translates machine/signal patterns",
+      "prompt_snippet": "Noa: 12-year-old dark-skinned girl with close-cropped hair, massive headphones around her neck, oversized patched tan jacket, practical boots, yellow-green teardrop fragment on left wrist in woven wire, sharp self-possessed expression"
+    },
+    {
+      "id": "wren",
+      "name": "Wren",
+      "age": null,
+      "type": "supporting",
+      "first_appearance": "chapter-010",
+      "reference_image": "images/chapter10/page-4.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Unspecified",
+        "hair": "Close-cropped grey hair",
+        "eyes": "Unspecified",
+        "build": "Compact adult pilot",
+        "distinguishing": "Minimal expression, pilot seat presence",
+        "clothing": "Pilot clothes"
+      },
+      "personality": "Professional, steady, capable",
+      "power": null,
+      "prompt_snippet": "Wren: compact adult pilot with close-cropped grey hair, practical pilot clothes, professional steady expression"
+    },
+    {
+      "id": "okonkwo",
+      "name": "Captain Okonkwo",
+      "age": null,
+      "type": "supporting",
+      "first_appearance": "chapter-008",
+      "reference_image": "images/chapter18/page-3.png",
+      "visual": {
+        "species": "human",
+        "ethnicity": "Black",
+        "hair": "Unspecified",
+        "eyes": "Unspecified",
+        "build": "Tall authoritative adult",
+        "distinguishing": "Commanding presence, colony uniform",
+        "clothing": "Dark colony uniform"
+      },
+      "personality": "Practical, authoritative, protective of the colony",
+      "power": null,
+      "prompt_snippet": "Captain Okonkwo: tall authoritative Black woman in dark colony uniform, practical and commanding presence"
+    },
+    {
+      "id": "chen",
+      "name": "Administrator Chen",
+      "age": null,
+      "type": "supporting",
+      "first_appearance": "chapter-020",
+      "reference_image": null,
+      "visual": {
+        "species": "human",
+        "ethnicity": "Unspecified",
+        "hair": "Unspecified",
+        "eyes": "Unspecified",
+        "build": "Adult administrator",
+        "distinguishing": "Arms-crossed command-center presence",
+        "clothing": "Colony administrator attire"
+      },
+      "personality": "Competent, worried, pragmatic",
+      "power": null,
+      "prompt_snippet": "Administrator Chen: adult colony administrator in practical command-center attire, composed but visibly worried expression"
     },
     {
       "id": "maya",
@@ -88,16 +228,16 @@
       "reference_image": "images/chapter3/page-4.png",
       "visual": {
         "species": "human",
-        "ethnicity": "TBD",
-        "hair": "TBD \u2014 check reference image",
+        "ethnicity": "TBD — check reference image",
+        "hair": "TBD — check reference image",
         "eyes": "TBD",
         "build": "8-year-old girl",
         "distinguishing": "Colonist kid, friends with Tyler",
-        "clothing": "Space colony clothes"
+        "clothing": "Colony clothes"
       },
       "personality": "Friendly colonist kid",
       "power": null,
-      "prompt_snippet": "Maya: 8-year-old girl, colonist kid (see reference image for appearance details), wearing colony clothes"
+      "prompt_snippet": "Maya: 8-year-old colonist girl (see reference image for appearance details), colony clothes"
     },
     {
       "id": "tyler",
@@ -108,16 +248,16 @@
       "reference_image": "images/chapter3/page-4.png",
       "visual": {
         "species": "human",
-        "ethnicity": "TBD",
-        "hair": "TBD \u2014 check reference image",
+        "ethnicity": "TBD — check reference image",
+        "hair": "TBD — check reference image",
         "eyes": "TBD",
         "build": "9-year-old boy",
         "distinguishing": "Colonist kid, friends with Maya",
-        "clothing": "Space colony clothes"
+        "clothing": "Colony clothes"
       },
       "personality": "Friendly colonist kid",
       "power": null,
-      "prompt_snippet": "Tyler: 9-year-old boy, colonist kid (see reference image for appearance details), wearing colony clothes"
+      "prompt_snippet": "Tyler: 9-year-old colonist boy (see reference image for appearance details), colony clothes"
     },
     {
       "id": "dr_fletcher",
@@ -128,48 +268,39 @@
       "reference_image": "images/chapter3/page-7.png",
       "visual": {
         "species": "human",
-        "ethnicity": "TBD",
-        "hair": "TBD \u2014 check reference image",
+        "ethnicity": "TBD — check reference image",
+        "hair": "TBD — check reference image",
         "eyes": "TBD",
-        "build": "Adult",
-        "distinguishing": "Suspicious, Shadow Hand connection, makes secret comm calls",
-        "clothing": "Colony scientist/official attire"
+        "build": "Adult scientist / official",
+        "distinguishing": "Suspicious demeanor, Shadow Hand connection",
+        "clothing": "Colony official attire"
       },
-      "personality": "Deceptive, secretive, connected to Shadow Hand",
+      "personality": "Deceptive, secretive, connected to the Shadow Hand",
       "power": null,
-      "prompt_snippet": "Dr. Fletcher: adult scientist/official, suspicious demeanor, wearing colony official attire (see reference image for appearance details)"
+      "prompt_snippet": "Dr. Fletcher: adult scientist or colony official with suspicious demeanor, colony official attire (see reference image for appearance details)"
     }
   ],
   "chapter_cast": {
-    "chapter-001": [
-      "julian",
-      "ezra",
-      "declan",
-      "ollie"
-    ],
-    "chapter-002": [
-      "julian",
-      "ezra",
-      "declan",
-      "ollie"
-    ],
-    "chapter-003": [
-      "julian",
-      "ezra",
-      "declan",
-      "ollie",
-      "maya",
-      "tyler",
-      "dr_fletcher"
-    ],
-    "chapter-004": [
-      "julian",
-      "ezra",
-      "declan",
-      "ollie",
-      "maya",
-      "tyler",
-      "dr_fletcher"
-    ]
+    "chapter-001": ["julian", "ezra", "declan", "ollie"],
+    "chapter-002": ["julian", "ezra", "declan", "ollie"],
+    "chapter-003": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"],
+    "chapter-004": ["julian", "ezra", "declan", "ollie", "maya", "tyler", "dr_fletcher"],
+    "chapter-005": ["julian", "ezra", "declan", "ollie", "dr_fletcher"],
+    "chapter-006": ["julian", "ezra", "declan", "ollie", "sable"],
+    "chapter-007": ["julian", "ezra", "declan", "ollie", "sable"],
+    "chapter-008": ["julian", "ezra", "declan", "ollie", "sable", "okonkwo"],
+    "chapter-009": ["julian", "ezra", "declan", "ollie", "sable"],
+    "chapter-010": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "wren"],
+    "chapter-011": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "wren"],
+    "chapter-012": ["julian", "ezra", "declan", "ollie", "sable", "rafe"],
+    "chapter-013": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra"],
+    "chapter-014": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra"],
+    "chapter-015": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra"],
+    "chapter-016": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra", "noa", "wren"],
+    "chapter-017": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra", "noa", "okonkwo"],
+    "chapter-018": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra", "noa", "okonkwo"],
+    "chapter-019": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra", "noa"],
+    "chapter-020": ["julian", "ezra", "declan", "sable", "rafe", "petra", "noa", "chen"],
+    "chapter-021": ["julian", "ezra", "declan", "ollie", "sable", "rafe", "petra", "noa", "chen"]
   }
 }

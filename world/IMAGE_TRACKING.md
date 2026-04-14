@@ -1,126 +1,119 @@
 # Image Generation Character Tracking
 
-## Character Visual References (Canon)
+This file is the quick visual canon sheet for story art.
 
-Use these EXACT descriptions in every image prompt. Characters must be visually consistent across all chapters.
+## Canon reference assets
 
-### Fragment Holders
+Use these first when preparing prompts or reference uploads:
+
+- `world/assets/nelson-boys-photo.jpg`
+- `world/assets/boy-final.png`
+- `world/assets/ollie-final.png`
+
+## Character lock
+
+### Fragment holders
 
 **Ezra "EZ" Nelson (5)**
 - 5-year-old Caucasian boy
-- Dark brown shoulder-length hair, brown eyes, freckles on cheeks
-- Smaller, wiry build
-- Clothing: orange hoodie, colony pants
-- Fragment: HEART-shaped gold glow, embedded in his chest — NOT worn externally. Glows warm gold through his hoodie fabric. Pulses with his heartbeat.
-- Power: Elasticity/stretching
-- Expression: curious, empathetic, calm certainty
+- Dark brown medium / shoulder-length hair, brown eyes, freckles
+- Smaller wiry build
+- Clothing: orange hoodie or colony clothes
+- Fragment: **gold heart-shaped glow embedded in chest**
+- Power: elasticity / stretching
+- Expression: empathetic, curious, calm certainty
 
 **Sable (15)**
 - 15-year-old girl
-- Long dark hair pulled back in ponytail over one shoulder
-- Thin scar along jawline (always visible)
-- Dark eyes, tan skin
-- Clothing: dark jacket, practical clothes, emergency pack
-- Fragment: silver-blue stone pendant on thin cord around neck, sometimes tucked under collar
-- Power: pattern recognition, signal tracking
-- Expression: quiet, alert, scanning, rarely smiles
+- Tan skin, dark eyes
+- Long dark hair pulled back
+- Thin jaw scar always visible
+- Clothing: practical dark traveler clothes
+- Fragment: **silver-blue pendant on cord around neck**
+- Power: pattern recognition / signal tracking
+- Expression: quiet, alert, scanning
 
 **Rafe (12)**
 - 12-year-old boy
-- Red messy hair, pale skin with dark freckles, dark eyes
-- Clothing: colony clothes, casual
-- Fragment: amber-orange stone on cord around neck, sometimes kept under shirt
+- Red messy hair, pale skin, dark freckles
+- Clothing: practical casual colony clothes
+- Fragment: **amber-orange pendant on cord around neck**
 - Power: telekinesis
-- Expression: patient, observant, ready to help
+- Expression: patient, observant, grounded
 
 **Petra (13)**
 - 13-year-old girl
-- Short red hair (short on sides)
-- Pale skin with slight tan
-- Clothing: practical worn clothing, keeps snack bars in jacket pocket
-- Fragment: violet-white/iridescent stone on cord around neck (shifts color like shell interior), glows at fingertips when using power
-- Power: light/energy projection
+- Short red hair, cropped at sides
+- Pale skin with slight weather tan
+- Clothing: practical worn jacket / traveler clothes
+- Fragment: **iridescent violet-white pendant on cord around neck**
+- Power: light / energy projection
 - Expression: resourceful, confident, eyebrow-raised smirk
 
 **Noa (12)**
 - 12-year-old girl
-- Dark skin, close-cropped natural dark hair
-- Massive headphones slung around neck (always)
+- Dark skin, close-cropped natural hair
+- Massive headphones around neck
 - Oversized patched tan jacket, sleeves rolled up
-- Fragment: yellow-green stone wrapped in woven wire on LEFT wrist
-- Power: "The Boost" — enhances machines and systems
-- Expression: sharp, self-possessed, independent, street-smart
+- Fragment: **yellow-green teardrop shard on left wrist in woven wire**
+- Power: systems boost / signal translation
+- Expression: sharp, self-possessed, independent
 
-### Non-Fragment Characters
+### Non-fragment characters
 
 **Julian "Juju" Nelson (7)**
 - 7-year-old Caucasian boy
 - Sandy blonde short-cropped hair, hazel-blue eyes
-- Average/slightly athletic build
-- Clothing: colony tunic and pants, dark blue colony jacket
-- Fragment: NONE. Julian does NOT have a fragment or any glow.
-- Always has: worn notebook, pen
+- Slightly athletic build
+- Clothing: colony clothes, often dark blue jacket
+- Always has: notebook and pen nearby
+- Fragment: **NONE**
 - Expression: determined, serious, analytical
 
 **Declan "Decker" Nelson (2)**
 - 2-year-old Caucasian toddler
-- Light/medium brown short wispy hair (sticks up), brown eyes, chubby cheeks
-- Clothing: green jumpsuit, sometimes pajamas
-- Fragment: NONE. Declan does NOT have a fragment or any personal glow.
-- Often: riding on Ollie's back, holding toast or smooth grey rock
-- Expression: solemn generosity, stubborn determination, complete trust
-- Signature: two-knee-pat gesture, says "lone-ee" for lonely
+- Light / medium brown wispy hair, brown eyes, chubby cheeks
+- Clothing: green jumpsuit, pajamas, or toddler colony clothes
+- Fragment: **NONE**
+- Expression: solemn generosity, stubborn determination, toddler fearlessness
 
-**Ollie (Dog)**
-- Schnoodle (schnauzer + poodle mix), medium-sized
-- Grey-silver scruffy wavy/curly fur (mix of white and gray)
+**Ollie**
+- Medium-sized Schnoodle
+- Grey-silver / white scruffy curly coat
 - Sturdy athletic build
 - Blue collar
 - Expression: loyal, alert, dignified
-- Tail: single slow thump = trust; hackles up = danger
 
-### Supporting Characters
+## Fragment summary
 
-**Wren (Pilot)**
-- Compact woman, close-cropped grey hair
-- Minimal expression, professional
-- Pilot's seat of the Ariadne
+| Holder | Color | Placement | Notes |
+|---|---|---|---|
+| Ezra | Gold | Embedded in chest | Heart-shaped glow through clothing |
+| Sable | Silver-blue | Pendant at neck | Cool steady light |
+| Rafe | Amber-orange | Pendant at neck | Warm telekinetic light |
+| Petra | Violet-white | Pendant at neck | Iridescent / shell-like glow |
+| Noa | Yellow-green | Left wrist | Woven-wire setting |
+| Julian | NONE | — | No glow |
+| Declan | NONE | — | No glow |
 
-**Shadow Hand Agents**
-- Dark reinforced jumpsuits
-- Insignia: black palm printed over grey sun on shoulders
-- Carry sleek black cylindrical containment units
+## Non-negotiables for prompts
 
----
+Every final prompt should make these things unambiguous:
 
-## Fragment Visual Summary
+1. Pixar/Disney-quality 3D storybook image
+2. Warm cinematic lighting
+3. 16:9 landscape format
+4. No text, no speech bubbles, no captions
+5. Correct fragment holder status
+6. Correct fragment color and placement
+7. Explicitly note that **Julian has no fragment** when relevant
+8. Explicitly note that **Declan has no fragment** when relevant
 
-| Holder | Color | Shape | How Worn | Glow Style |
-|--------|-------|-------|----------|------------|
-| Ezra | Warm gold | Heart | Embedded in chest, glows through hoodie | Pulses with heartbeat |
-| Sable | Silver-blue | Stone | Pendant on cord around neck | Steady, like starlight through ice |
-| Rafe | Amber-orange | Stone | Cord around neck | Warm, catches light |
-| Petra | Violet-white | Iridescent stone | Cord around neck, glows at fingertips | Shifts color like shell interior |
-| Noa | Yellow-green | Stone | Woven wire wrap on left wrist | Warm, steady, flares when boosting |
-| Julian | NONE | — | — | — |
-| Declan | NONE | — | — | — |
+## Consistency reminders
 
----
-
-## Style Requirements
-
-Every image prompt MUST include:
-1. "Pixar/Disney-quality 3D animated illustration" — NOT realistic, NOT 2D, NOT anime
-2. "Warm cinematic lighting, rich saturated colors, expressive faces"
-3. "16:9 landscape format"
-4. "No text, no speech bubbles, no captions"
-5. Explicit character descriptions matching this tracking document
-6. Fragment details for ONLY the characters who actually have fragments
-7. Explicit note: "Declan has NO fragment" and "Julian has NO fragment" when they appear
-
-## Reference Images
-
-Upload these to ChatGPT when generating:
-- `world/assets/nelson-boys-photo.jpg` — Real photo of the boys
-- `world/assets/boy-final.png` — Pixar-style boy reference
-- `world/assets/ollie-final.png` — Pixar-style Ollie reference
+- Keep ages stable: Julian 7, Ezra 5, Declan 2, Sable 15, Rafe 12, Petra 13, Noa 12
+- Keep Rafe red-haired and freckled
+- Keep Petra short-haired and practical
+- Keep Noa's headphones and patched jacket
+- Keep Ollie recognizable across chapters
+- Keep Declan important without visually turning him into a fragment holder
